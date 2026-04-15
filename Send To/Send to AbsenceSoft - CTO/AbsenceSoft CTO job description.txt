@@ -1,0 +1,71 @@
+Full job description
+
+The Chief Technical Officer (CTO) at AbsenceSoft serves as the strategic leader for all technology initiatives, driving innovation, architecture, security, and operational excellence in alignment with business objectives. This role oversees the design, development, and deployment of cutting-edge leave management software solutions, ensuring scalability, security, and user experience meet the demands of a global market. As a member of the executive leadership team, the CTO shapes long-term technology vision, leads engineering and IT operations, and partners with cross-functional leaders to deliver transformative capabilities to customers worldwide.
+
+Who We Are
+
+AbsenceSoft is elevating the leave and accommodations experience and is looking to hire amazing people like you! We create user-friendly, secure, and compliant technology that empowers employers to bring humanity, certainty and efficiency to the leave and accommodations experience. Made by HR Professionals for HR Professionals, we're proud of where we've been and excited about where we're headed. We value creative, innovative people who are passionate about their work and who believe there is always a better way.
+
+Leading With Our Core Values
+
+Make a Difference.
+We are inspired to make an impact through our hard work, talent and passion. We push ourselves each day to better serve our teams, our clients, and our community.
+
+Team First.
+We are driven by team spirit not by self-interest. We value collaboration and approach our work with humility and a desire to win together.
+
+Own it.
+If we say it, we mean it. We follow through on our commitments, step up to deliver, and grow from our successes and failures.
+
+Everyone Matters.
+No matter your background or experience, everyone's voice holds value here.
+
+What You’ll Do
+
+    Define and lead the company’s long-term technology vision and architecture strategy.
+    Oversee all software engineering functions, ensuring delivery of secure, scalable, and high-quality solutions.
+    Establish and maintain engineering standards, best practices, and coding guidelines.
+    Lead the adoption of modern development tools, frameworks, and methodologies.
+    Ensure security and privacy are embedded into all stages of the development lifecycle.
+    Drive the integration of data strategy and advanced analytics into software solutions.
+    Champion the evaluation and adoption of emerging technologies to maintain market leadership.
+    Collaborate with Product leadership to translate business requirements into technical solutions.
+    Manage technology budgets and engineering resource allocation.
+    Develop and execute talent strategies for engineering leadership and technical teams.
+    Establish metrics and KPIs to track engineering productivity, quality, and innovation.
+    Represent the technology function with customers, partners, and industry organizations.
+    Participate in a highly compliant environment while assisting to maintain company controls and security within your job role.
+    [management only] Assist in maintaining applicable organizational security and compliance controls within your department, role, and subordinate’s roles.
+    Other duties as assigned.
+
+What’ll Set You Up for Success
+
+Required Skills:
+
+    Bachelor’s degree in Computer Science, Engineering, or related field.
+    15+ years of progressive engineering leadership experience in enterprise or SaaS environments.
+    Proven expertise in large-scale software architecture and development.
+
+Preferred Skills:
+
+    Master’s degree in Technology Management, Business Administration, or related discipline.
+    Experience in HR technology or leave management software.
+    Experience collaborating with executive teams and presenting to boards.
+
+Key Skills & Behaviors:
+
+    Strategic technology leadership and decision-making.
+    Deep knowledge of enterprise SaaS architecture and deployment.
+    Expertise in cloud platforms (AWS, Azure, or GCP).
+    Strong understanding of cybersecurity frameworks and best practices.
+    Knowledge of and ability to leverage Artificial Intelligence (AI) tools and concepts.
+    Exceptional communication and cross-functional collaboration skills.
+    Advanced understanding of agile methodologies and DevOps practices.
+    Budget management and resource allocation expertise for engineering organizations.
+    Ability to translate complex technical topics into clear business terms.
+    Strong vendor and contract negotiation skills.
+    Visionary thinking with the ability to anticipate market and technology trends.
+    Commitment to building inclusive, high-performance teams.
+    Analytical problem-solving and data-driven decision-making.
+    Excellence in engineering performance measurement and continuous improvement.
+    Adaptability and resilience in a rapidly changing technology environment.

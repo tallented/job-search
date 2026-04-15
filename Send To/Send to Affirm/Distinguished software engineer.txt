@@ -1,0 +1,37 @@
+ About the job
+
+Affirm is reinventing credit to make it more honest and friendly, giving consumers the flexibility to buy now and pay later without any hidden fees or compounding interest.
+
+In this role, you will be a senior member of Affirm’s Architecture Group, reporting directly to the Head of Architecture. You will own the architecture, technical roadmap, and delivery outcomes for Affirm’s Infrastructure domain, spanning the foundational platforms that enable all of engineering. You will also shape Affirm’s broader technical direction through leadership within the Architecture Group, driving innovation and architectural coherence across the company.
+
+You will serve as the accountable technical leader for four critical infrastructure areas:
+
+    Developer Productivity: CI/CD, application testing, environments & tooling, and code standards. 
+    Reliability Engineering: SRE practices, observability platforms, and reliability engineering frameworks. 
+    Data & Storage Services: online storage, data lakes, streaming infrastructure, and batch systems. 
+    Online Services: traffic management, capacity planning, and load testing.
+
+What You’ll Do
+
+    Drive the long-term technical vision for Affirm’s Infrastructure, ensuring scalability, reliability, and developer empowerment. 
+    Lead architectural strategy and roadmap definition in collaboration with domain tech leads and the broader Architecture Group. 
+    Champion patterns and platforms that maximize developer productivity and system resilience. 
+    Define and uphold standards for infrastructure design, operational excellence, and quality. 
+    Partner with Product, Platform, and Engineering leadership to ensure infrastructure investments are aligned with business goals. 
+    Guide cross-functional teams to deliver foundational services that enable Affirm’s product engineering at scale. 
+    Mentor and grow a bench of IC technical leaders across multiple infrastructure domains. 
+    Foster a culture of rigor, curiosity, and technical excellence across engineering.
+
+What We Look For
+
+    Proven success leading infrastructure architecture for large-scale, distributed systems. 
+    Deep expertise in at least two of the following domains: developer productivity, reliability engineering, data & storage, online services. 
+    Strong hands-on knowledge of cloud-native infrastructure (AWS and/or GCP), with AWS expertise preferred. 
+    Ability to define and execute long-term infrastructure roadmaps that accelerate developer velocity and system resilience. 
+    Track record of mentoring and developing senior ICs and technical leaders. 
+    Extensive experience building and operating highly available, performant, and secure systems. 
+    Effective communicator, capable of engaging both engineers and executives to drive alignment and clarity. 
+    15+ years of software engineering experience, with prior technical leadership roles. 
+    Experience in fintech or consumer-facing systems is a plus. 
+    JVM experience at scale is a plus. 
+    Bachelor’s degree in Computer Science or related field, or equivalent practical experience.

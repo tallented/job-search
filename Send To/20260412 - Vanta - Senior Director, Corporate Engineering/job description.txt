@@ -1,0 +1,80 @@
+Vanta - Senior Director, Corporate Engineering
+Original source URL: https://www.linkedin.com/jobs/view/4323422584/
+Fetched on: 2026-04-12
+Source used for local copy: Live LinkedIn posting via logged-in browser session
+Source queue: Review List - 20260412.md
+Lane: Lane 1 + Lane 2 overlap
+Work model (queue): Remote U.S.
+Compensation (queue): Undisclosed
+Listing source (queue): LinkedIn
+
+--- FULL POSTING ---
+
+Company: Vanta
+Title: Senior Director, Corporate Engineering
+Employment Type: Full time
+Location: Remote U.S.
+Compensation: Industry-competitive salary and equity (base not disclosed in the live LinkedIn posting)
+
+About Vanta
+
+Vanta’s mission is to help businesses earn and prove trust. The company positions the role as central to the next evolution of its IT strategy for an in-office and remote-first workforce, ensuring systems, tools, and workflows are modern, secure, and efficient.
+
+About the Role
+
+The Senior Director of Corporate Engineering leads IT Operations and Systems Engineering and serves as the cornerstone for technology enablement across Vanta. The role covers employee technology, service desk operations, office infrastructure across five global offices, enterprise systems strategy, and governance. It is both strategic and operational, balancing a long-term IT roadmap with daily service delivery and reliability.
+
+What You’ll Do
+
+Leadership & Strategy
+
+- Develop and execute a comprehensive IT strategy aligned to Vanta’s growth, global footprint, and business priorities.
+- Lead and mentor high-performing teams across IT Operations and Systems Engineering.
+- Partner with business and technology leaders to align IT investments with long-term objectives and compliance requirements.
+
+IT Operations
+
+- Oversee end-user computing, device management, collaboration tools, and service delivery for a remote-first workforce and five global offices.
+- Improve IT support processes, SLA adherence, and employee experience.
+- Ensure office and hybrid workplace technology infrastructure meets operational and security standards.
+
+Systems Engineering
+
+- Lead enterprise systems strategy and architecture for company-wide applications, workflows, and integrations.
+- Partner with Go-To-Market Systems, Finance Systems, and Procurement teams to ensure scalability, data integrity, and security across tools.
+- Establish standards for application lifecycle management, including vendor selection, onboarding, and decommissioning.
+- Oversee automation initiatives and workflow optimization across SaaS platforms.
+
+Governance, Security & Collaboration
+
+- Partner with Security and Privacy to ensure compliance with internal controls and external frameworks such as SOC 2, ISO 27001, and FedRAMP.
+- Work with Procurement to develop vendor management and governance frameworks that optimize cost and manage risk.
+
+How to Be Successful
+
+- 12+ years of experience in IT or Systems Engineering, with at least 5 years leading global, multi-function teams.
+- Proven track record developing IT strategies and scaling technology operations for a remote or hybrid workforce.
+- Deep experience managing enterprise SaaS ecosystems such as Okta, Google Workspace, Slack, Zoom, Salesforce, and Jira.
+- Strong understanding of systems integration, workflow automation, and enterprise architecture.
+- Experience partnering with Security, Procurement, and Go-To-Market Systems.
+- Prior experience in a high-growth SaaS or technology company preferred.
+- Open to using AI responsibly to amplify skills and improve efficiency and impact.
+
+Skills & Qualities
+
+- Strategic thinker who connects technology investments to business outcomes.
+- Strong operational leader who thrives in dynamic environments.
+- Excellent communicator with executive presence and influence.
+- Passion for enabling people through technology and building scalable, secure systems.
+
+Benefits / Notes
+
+The posting references equity, comprehensive medical/dental/vision, 16 weeks parental leave, health and wellness stipend, remote workspace and phone stipend, matching 401(k), flexible PTO, sick time, and global office footprint. The page also includes equal opportunity language and a note that compensation depends on level, function, country, and candidate factors.
+
+--- LOCAL SUMMARY ---
+
+Fit:
+Strong brand, senior-director title, and serious operating scope across internal systems, governance, remote workforce support, and compliance-aware platform strategy.
+
+Risk / stretch:
+Closer to corporate engineering / internal systems than product engineering, so it helps executive-operating credibility more than product-platform narrative.

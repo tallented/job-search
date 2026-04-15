@@ -1,0 +1,56 @@
+Questions
+About the Role
+- [ ] Can you tell me more about the specific role?
+- [ ] Title of the role
+- [ ] What are the current and future responsibilities of this role?
+- [ ] Who does this report to?
+    - [ ] Can you describe the working style and background of the person I would report to?
+- [ ] How many direct and indirect reports are there to this role?
+    - [ ] What is the current structure and morale of the team I would be leading?
+    - [ ] What are their key strengths and challenges?
+- [ ] Who are the primary business stakeholders this role will partner with?
+- [ ] Is this a new position or being filled?
+    - [ ] If this role is being filled, what led to the departure of the previous incumbent?
+
+Technology
+- [ ] Is the current technology “stable” or is there ongoing modernization or new builds?
+    - [ ] State of technical debt?
+    - [ ] How does the organization balance the need for speed/agility (to meet client demands) with the requirement for safety/stability in operational technology?
+    - [ ] What is the organization's appetite for investing in paying down technical debt vs. building new features?
+- [ ] What would I be overseeing?
+    - [ ] Owner-facing technology?
+    - [ ] Logistics technology?
+- [ ] Cloud based?  Provider?  Hybrid?
+- [ ] Software tech stacks?
+- [ ] What is the IT budget size relative to the overall company revenue, and how are strategic investment decisions made?
+
+What does Success Look like?
+- [ ] How does the company define success for this role over the next 12–18 months?”
+- [ ] Are there specific metrics and deliverables will this role be measured by?
+    - [ ] Are there 1-3 specific KPI for the first year?
+- [ ] What is the biggest roadblock or obstacle the previous person/team faced, and how is the company prepared to help this new leader overcome it?
+
+Career Progression
+- [ ] Over time what could my career look like?
+    - [ ] What is the next logic step for this position over time?
+
+Benefits
+- [ ] What is the salary range? What does the full compensation structure look like?
+    - [ ] Bonuses
+    - [ ] 401k, match and time to vest
+- [ ] PTO, Sick, Holiday?
+    - [ ] How does PTO work in practice for senior leaders?
+- [ ] Is this considered an Executive role within the organization?  Are there Executive specific benefits?
+- [ ] Are there equity grants (RSUs or stock options, even if NetJets is private, Berkshire Hathaway may have programs) and long-term incentive plans (LTIPs)
+- [ ] Are there any non-standard executive travel benefits or fractional jet program perks associated with this level of leadership?
+- [ ] Other benefits
+
+Company Culture
+- [ ] How would you describe the company culture?
+    - [ ] How well does the current culture support change leadership?
+- [ ] Is this Hybrid or completely In-Office?
+- [ ] What is the typical dress code and office environment like?
+
+Typical Day
+- [ ] What does a typical day look like for this role and in relation to other key stakeholders?
+    - [ ] Meeting schedule?

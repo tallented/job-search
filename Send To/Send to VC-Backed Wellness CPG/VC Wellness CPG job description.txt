@@ -1,0 +1,54 @@
+Chief Technology Officer (CTO) | VC-Backed Wellness CPG | Fully Remote 
+
+Introduction
+
+Our client is a rapidly growing consumer health and wellness brand built around the belief that the body has an extraordinary ability to restore, repair, and thrive when given the right foundation. With a science-backed approach and a mission to empower people to live healthier, more resilient lives, the company is redefining modern wellness through innovation and integrity.
+
+The team is made up of builders who thrive on progress, collaboration, and purpose. They move fast, operate with ownership, and are united by a shared vision to make a lasting impact in the health and wellness space.
+
+
+The Role
+
+The Chief Technology Officer (CTO) will lead the strategy, development, and scaling of the technology systems that power the company’s next phase of growth. As a member of the executive team, this leader will oversee all aspects of eCommerce, data architecture, infrastructure, and emerging technology innovation.
+
+
+The CTO will collaborate cross-functionally with Marketing, Operations, and Finance to deliver seamless digital experiences, enhance data-driven decision-making, and enable scalable omnichannel growth. This role is ideal for a hands-on technical leader who thrives in fast-moving, consumer-facing environments and is motivated by building high-performing teams and impactful systems.
+
+
+Responsibilities
+
+    Develop and execute a multi-year technology roadmap to support company growth, scalability, and global expansion.
+    Oversee eCommerce architecture (Shopify Plus) to ensure site performance, checkout optimization, and reliable integrations.
+    Build, mentor, and scale high-performing engineering, data, and DevOps teams focused on innovation, reliability, and security.
+    Own the company’s data infrastructure using tools like GTM, BigQuery, and related platforms, ensuring accuracy, compliance, and accessibility.
+    Create a unified data foundation to enhance analytics, LTV modeling, and personalization initiatives.
+    Introduce automation and AI tools to improve marketing, customer experience, and supply chain operations.
+    Ensure ongoing compliance with global data privacy regulations (GDPR, CCPA, CPRA) and platform security standards.
+    Evaluate and adopt emerging technologies (AI, composable commerce, personalization engines) to elevate the digital experience.
+
+
+What We Need to See (Essential)
+
+    10+ years of progressive technology leadership experience, with at least 5 years in DTC or consumer eCommerce.
+    Proven success leading engineering, data, and platform teams in high-growth digital businesses.
+    Expertise in:
+    Shopify Plus, Liquid, React, and API integrations
+    Server-side tracking (GTM, Stape, Blotout, Elevar, CAPI)
+    Cloud infrastructure (AWS or GCP) and data pipeline management
+    Analytics and AI tools (e.g., Haus, GA4)
+    strong understanding of digital privacy frameworks, attribution modeling, and event-based tracking systems.
+    Exceptional communication and strategic leadership skills, with the ability to translate technical vision into business impact.
+
+
+What We’d Like to See (Bonus)
+
+    Experience with headless or composable commerce platforms.
+    Proven success leading digital transformation or system modernization initiatives.
+    Familiarity with AI-powered personalization, automation, or predictive analytics.
+    Experience managing multi-market or international compliance requirements.
+
+
+Package: Up to $375,000 + Bonus + Equity
+
+
+Location: Fully Remote 

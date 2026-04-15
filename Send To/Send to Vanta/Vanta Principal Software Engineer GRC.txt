@@ -1,0 +1,28 @@
+ At Vanta, our mission is to help businesses earn and prove trust. We believe that security should be monitored and verified continuously, and we empower companies to practice better security and prove it with ease. Vanta has a kind and talented team, and while some have prior security experience, many have been successful at Vanta without it.
+
+Vanta’s team and technology surface are growing quickly, and it’s essential that we invest in the right abstractions and systems to enable us to scale with our business. Our business has found incredible product-market fit and has monetized effectively since the day we signed our first customer. We’re growing at a blistering pace, which presents career-defining opportunities for engineers to accelerate their growth and to contribute to a rapidly-scaling company.
+
+As a Principal Software Engineer, you’ll identify key engineering wide, org-level strategic technical initiatives and set the tone for overall engineering excellence and culture. This role focuses on our Governance, Risk, and Compliance (GRC) product, which helps customers scale their GRC programs with streamlined workflows, AI, and continuous control monitoring. We are revolutionizing the way customers operate their programs through collaboration, audit experience, personnel compliance, reporting and IT risk.
+
+Visit our Vanta Engineering Blog to learn more about what our team is working on!
+
+What you’ll do as a Principal Engineer at Vanta:
+
+    Identify and solve complex, high-impact problems, leading projects with multiple cross functional stakeholders, engineering leaders and engineers to deliver significant impact to our business
+    Set technical direction impacting our entire engineering team, from critical systems and core product abstractions to developer productivity and hold a high bar for quality across engineering
+    Design, develop, and own new product functionality and/or infrastructure leveraging modern frameworks and tooling (TypeScript, React, Node.js).
+    Work on deeply ambiguous problem areas, and will tackle larger more long term challenges for the company
+    Design, develop, and own new product functionality and infrastructure leveraging modern frameworks and tooling (TypeScript, Terraform, Node.js)
+    Make effective tradeoffs that consider business priorities, user experience, and a sustainable technical foundation
+    Act as a cultural beacon, setting an example for effective, collaborative engineering and helping mentor junior team members
+
+How to be successful in this role:
+
+    Have played significant technical leadership roles for bigger orgs and complex projects
+    Had a good balance of customer focus, bias for action, and balancing between right long term, medium term and short term decisions
+    Have experience communicating with and working closely with a large set of cross-functional stakeholders
+    Have upleveled teams of engineers, mentoring and leading by example
+    You are a self starter and have a mix of previous startup experience and working at scale experience, and in an environment that prioritizes a bias for action
+    You have experience building architectural changes whose impact span is multi year, or have experience go very deep in technology and becoming an expert
+    Have an interest in learning about security or prior experience in the space
+    Experience working at rapidly scaling startups and large companies with environments that prioritize a bias for action

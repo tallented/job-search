@@ -1,0 +1,31 @@
+Full job description
+
+About Pinterest:
+
+Millions of people around the world come to our platform to find creative ideas, dream about new possibilities and plan for memories that will last a lifetime. At Pinterest, we're on a mission to bring everyone the inspiration to create a life they love, and that starts with the people behind the product.
+
+Discover a career where you ignite innovation for millions, transform passion into growth opportunities, celebrate each other's unique experiences and embrace the flexibility to do your best work. Creating a career you love? It's Possible.
+
+This Principal Engineer L18 IC role on the Monetization Team requires a senior technical leader with a strong background in both core software engineering and machine learning. This role will lead the development and execution of the technical strategy for ad products that cater to both end users and advertisers on the platform. The individual we hire will oversee the core technical outputs of approximately 200 engineers and remain a hands-on contributor, shipping their own deliverables in the process. The ideal candidate is a brilliant technical contributor with a proven history of delivering complex architectural solutions within the ads domain.
+
+What you'll do:
+
+    Lead and mentor engineering teams, inspiring innovation and excellence, while fostering future technical leaders within the organization.
+    Architect and implement cutting-edge strategies to refine advertiser experiences and launch user-centric products.
+    Guide and evaluate complex technical plans, ensuring they align with Pinterest's strategic objectives and elevate operational efficiency.
+    Proactively manage project milestones, anticipate risks, and adapt strategies to ensure timely, successful delivery.
+    Oversee projects that improve developer efficiency, service reliability, and engineering quality, promoting best practices in software architecture.
+    Cultivate strong relationships with key stakeholders, ensuring alignment with business goals, and drive consensus on strategic initiatives.
+    Lead development initiatives that leverage new generative AI models and strategies to enhance product offerings, ensuring alignment with business goals.
+    Champion best practices and drive architectural improvements that enhance system performance and extensibility.
+
+What we're looking for:
+
+    Masters or Bachelor's degree with relevant experience in computer science or a closely related discipline.
+    10+ years of professional experience in software engineering.
+    5+ years of professional experience in machine learning engineering.
+    Robust comprehension of advertising technology.
+    Demonstrated ability to lead significant technical initiatives across organizations, with an emphasis on scalability, quality, and maintainability.
+    Recognized as a thought leader, driving strategic outcomes while promoting a culture of accountability and diversity.
+    Proven experience shipping products which leverage generative ai technologies.
+    Fundamental understanding of machine learning systems and the capacity to guide decisions regarding build, leverage, or acquisition.

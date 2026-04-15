@@ -1,0 +1,61 @@
+Dropbox - Corporate Infrastructure Engineering Manager, Cloud Infrastructure
+Original source URL: https://boards.greenhouse.io/embed/job_app?token=7210704
+Fetched on: 2026-04-12
+Source used for local copy: Archived Accel / Employbl mirror sources because the tracked Greenhouse embed URL was not a stable public listing page
+Source queue: Review List - 20260412.md
+Lane: Lane 2
+Work model (queue): Remote U.S.
+Compensation (queue): US Zone 2 $180.8K-$244.6K, US Zone 3 $160.7K-$217.3K
+Listing source (queue): Greenhouse
+
+--- FULL POSTING ---
+
+Company: Dropbox
+Title: Corporate Infrastructure Engineering Manager, Cloud Infrastructure
+Employment Type: Full time
+Location: United States - Remote (Zones 2 and 3) / also listed in Canada in archived mirrors
+Compensation: US Zone 2 $180,800 - $244,600 USD; US Zone 3 $160,700 - $217,300 USD; equity/RSUs included in total package
+
+Role Description
+
+At Dropbox, Engineering Managers are positioned as pivotal leaders helping build a more enlightened way of working. This role sits within the Corporate IT Engineering team and is responsible for cloud infrastructure leadership in a Virtual First environment.
+
+As an Engineering Manager, the role leads a team of 5-10 engineers, works through ambiguity, drives business and customer impact, and partners cross-functionally to build the future of Dropbox. The role emphasizes bias for action, partnership in setting strategy, and operational excellence.
+
+Responsibilities
+
+- Drive results by identifying impactful opportunities and ensuring long-term growth and customer impact.
+- Inspire the team with clear direction and create an environment where innovation flourishes.
+- Foster talent development through personal growth, career advancement, and diverse hiring practices.
+- Cultivate a collaborative and inclusive culture aligned with company values.
+- Ensure software and architecture excellence through quality feedback, risk mitigation, and alignment with technical strategy and business goals.
+- Participate in or manage services with on-call expectations where applicable.
+
+Requirements
+
+- BS, MS, or PhD in Computer Science or related technical field, or equivalent technical experience.
+- Minimum 3 years of people management experience with an engineering team.
+- Minimum 5 years as a software engineer or equivalent technical experience.
+
+Preferred Qualifications
+
+- Experience working in major cloud environments including AWS, GCP, OCI, or Azure.
+- Technical proficiency in large-scale, cloud-native systems.
+- Experience with Terraform, Terraform Cloud, Ansible, and AWS CloudFormation.
+- Experience driving best practices in code review, version control, and CI/CD for infrastructure and automation code.
+
+Team Description
+
+The Dropbox Corporate IT Engineering Team provides information technology strategy, systems, and services that enable business success. It supports Virtual First operations through technology solutions spanning technical programs, Salesforce development, IT infrastructure, security operations, collaboration tools, cloud engineering, SRE, enterprise architecture, full-stack development, and business systems analysis.
+
+Benefits / Notes
+
+Archived mirror pages referenced competitive medical, dental, and vision coverage, 401(k) with match, flexible PTO, life and disability insurance, parental benefits, coworking support, quarterly internet/cell allowances, wellness benefits, and responsible-use-of-AI guidance for applicants.
+
+--- LOCAL SUMMARY ---
+
+Fit:
+Known brand plus cloud, platform, and infrastructure leadership scope.
+
+Risk / stretch:
+Compensation is materially below target and the title is a narrower management bridge.

@@ -1,0 +1,62 @@
+About the team
+The Rich Media AI group is dedicated to transforming the real estate buying and renting experience at Zillow. Our mission is to help every mover get an immersive, detailed sense of a home online—enabling them to envision it as their own. We leverage cutting-edge computer vision and AI to build products like 360 tours, floor plans, aerial overviews, and innovative experiences yet to be imagined. As part of Zillow’s AI organization, the Rich Media team is at the forefront of creating the next chapter in home shopping.
+
+About the role
+
+As a Principal Software Development Engineer (Architect), you will play a pivotal role in shaping the future of Rich Media at Zillow. You’ll drive large-scale, forward-looking projects that unlock new capabilities across multiple teams and partner organizations. Your work will directly impact how real estate photographers and related systems capture and deliver immersive experiences to millions of users, helping Zillow redefine what’s possible in online home shopping.
+
+You Will Get To:
+
+    Anticipate and address technical challenges before they arise, proposing effective solutions.
+
+    Develop innovative approaches that balance implementation time, quality, scalability, and maintainability.
+
+    Strategize and lead technical projects that span multiple teams and organizations.
+
+    Mentor and guide engineers across teams, fostering technical growth and leadership.
+
+    Oversee and ensure visibility of key performance indicators across teams.
+
+    Collaborate with cross-functional partners to deliver scalable Rich Media solutions.
+
+    Drive architectural standards and best practices for service quality and stability.
+
+    Champion continuous improvement in system efficiency and reliability.
+
+This role has been categorized as a Remote position. “Remote” employees do not have a permanent corporate office workplace and, instead, work from a physical location of their choice, which must be identified to the Company. U.S. employees may live in any of the 50 United States, with limited exceptions.
+
+In California, Connecticut, Maryland, Massachusetts, New Jersey, New York, Washington state, and Washington DC the standard base pay range for this role is $191,300.00 - $305,700.00 annually. This base pay range is specific to these locations and may not be applicable to other locations.
+
+In Colorado, Hawaii, Illinois, Minnesota, Nevada, Ohio, Rhode Island, and Vermont the standard base pay range for this role is $181,800.00 - $290,400.00 annually. The base pay range is specific to these locations and may not be applicable to other locations.
+
+In addition to a competitive base salary this position is also eligible for equity awards based on factors such as experience, performance and location. Actual amounts will vary depending on experience, performance and location. Employees in this role will not be paid below the salary threshold for exempt employees in the state where they reside.
+
+Who you are
+
+    7+ years of backend engineering experience, with a strong track record in technical leadership.
+
+    Proven ability to communicate strategy and decisions across technical, product, and leadership levels.
+
+    Experience designing and evolving software architecture for scalable systems.
+
+    Skilled in balancing quality code delivery with meeting deadlines.
+
+    Demonstrated mentorship of senior engineers to develop independent technical leadership.
+
+    Expertise in defining and implementing architectural standards, libraries, and testing/monitoring practices.
+
+    Proficient with cloud services (AWS preferred) and knowledgeable in the software development lifecycle.
+
+    Growth mindset and ability to lead without formal authority, inspiring others to achieve shared goals.
+
+    Here at Zillow – we value the experience and perspective of candidates with non-traditional backgrounds. We encourage you to apply if you have transferable skills or related experiences.
+
+    (Preferred): Experience with mobile, web, machine learning, computer vision, photography, imaging, computer graphics, Go, and data streaming pipelines.
+
+Get to know us
+
+At Zillow, we’re reimagining how people move—through the real estate market and through their careers. As the most-visited real estate platform in the U.S., we help customers navigate buying, selling, financing and renting with greater ease and confidence. Whether you're working in tech, sales, operations, or design, you’ll be part of a company that's reshaping an industry and helping more people make home a reality.
+
+Zillow is honored to be recognized among the best workplaces in the country. Zillow was named one of FORTUNE 100 Best Companies to Work For® in 2025, and included on the PEOPLE Companies That Care® 2025 list, reflecting our commitment to creating an innovative, inclusive, and engaging culture where employees are empowered to grow.
+
+No matter where you sit in the organization, your work will help drive innovation, support our customers, and move the industry—and your career—forward, together.

@@ -1,0 +1,35 @@
+ About the job
+
+Overview
+
+Working at Atlassian
+
+Atlassians can choose where they work – whether in an office, from home, or a combination of the two. That way, Atlassians have more control over supporting their family, personal goals, and other priorities. We can hire people in any country where we have a legal entity. Interviews and onboarding are conducted virtually, a part of being a distributed-first company.
+
+Responsibilities
+
+In this role as a Distinguished Engineer for Atlassian’s Corporate Engineering division, you will lead highly technical and strategic engineering initiatives on mission-critical platforms across Atlassian, enabling every Atlassian to their best work and build on top of our core Platform and improve that and our status as Atlassian’s best customer running Atlassian on Atlassian.
+
+Your role will be tasked with solving the most complex, challenging technical problems across Atlassian and our extension of our own products to meet our demanding needs.
+
+You will play an influential role in partnership with Atlassian’s engineering leadership group and other cross-divisional Heads of Engineering (e.g. Product / Core / Infrastructure), Heads of Product and Design for Platform, PgM and executive leadership (CTO / President / CISO etc).
+
+Some Of Your Role Responsibilities Include
+
+    Own and lead the approach to the largest and most complex technical problems from technical design to launch to day-to-day operation.
+    Design solutions that can be modeled and used by our customers in production.
+    Solve complex architectural challenges and define architectural standards.
+    Lead code reviews and documentation and take on complex bug fixes, especially on high-risk problems.
+    Partner across engineering teams to take on company-wide programs.
+    Mentor engineering leaders and teams across the Corporate Engineering team
+
+
+On your first day, we'll expect you to have:
+
+    Deep technical expertise with 15+ years of experience designing/building enterprise-grade platforms and systems, including any or all of Cloud, Data, Ecosystem, Experiences or Ecosystem platform building experiences
+    Fluency in the current landscape of cloud platform architecture and ideally AWS stack.
+    Passion for software engineering excellence - design principles and patterns, unit testing, performance engineering, best practices for security and privacy.
+    Passion and aptitude for recognizing, raising, and reconciling gaps and redundant efforts across organizations
+    Excellent collaboration, communication and leadership skills. Ability to get engineers to follow their lead as well as mentor/coach
+    High level of energy and a desire to thrive in a large, fast-paced organization; ability to balance multiple projects under pressure
+    Also nice to have: Experience in AI, ML platform technology

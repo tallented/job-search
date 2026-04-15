@@ -1,0 +1,229 @@
+A Place for Mom - Senior Director, Engineering - Senior Living
+Original source URL: https://jobs.ashbyhq.com/a-place-for-mom/21698257-2e73-4349-aba8-4a6cf390d947
+Fetched on: 2026-04-12
+Source used for local copy: Original Ashby posting
+Source queue: Review List - 20260412.md
+Lane: Lane 1
+Work model (queue): Remote
+Compensation (queue): $215K-$275K base + 30% bonus
+Listing source (queue): Ashby
+
+--- FULL POSTING ---
+
+Company: A Place for Mom
+Title: Senior Director, Engineering - Senior Living
+Employment Type: FULL_TIME
+Location: United States
+Compensation: USD 215,000 - 275,000 per YEAR
+
+About the Job:
+
+The Senior Director of Engineering - Senior Living provides strategic and operational leadership across A Place for Mom’s Senior Living engineering organization. This includes Sales Tech, Web, CRM/Salesforce, and Quality Assurance teams responsible for building, maintaining, and scaling the platforms that enable our advisors and marketing teams to connect families with senior living communities.
+
+This role is responsible for driving consistent, high-quality engineering delivery across the Senior Living domain - ensuring work is well-planned, properly resourced, and delivered with predictability and excellence. The Senior Director partners closely with Product Management, Technical Program Management (TPM), Architecture, and key business stakeholders to align on priorities, outcomes, and timelines, while ensuring the engineering teams execute effectively and efficiently.
+
+Who You Are:
+
+The Senior Director of Engineering is an experienced, pragmatic technology leader who thrives in delivery-focused environments. You excel at translating business priorities into clear execution plans and aligning multiple teams to deliver measurable outcomes.
+
+You are highly execution-oriented and detail-driven, bringing discipline and operational rigor to roadmap delivery, dependency management, and stakeholder communication. You create clarity in complex environments and ensure accountability across teams.
+
+You are an empathetic and transparent leader who builds strong partnerships across engineering, product, and business functions. You foster a culture of ownership, inclusion, and continuous improvement, empowering managers and engineers to grow while delivering meaningful business impact.
+
+What You Will Do:
+
+Leadership & Delivery Excellence
+
+-
+
+Lead and mentor Engineering Directors, Senior Managers, and their teams across Sales Tech, Web, CRM/Salesforce, and QA.
+
+-
+
+Drive structured planning and execution processes that ensure consistent, predictable delivery of roadmap commitments.
+
+-
+
+Translate business and product initiatives into actionable engineering plans with clear ownership and milestones.
+
+-
+
+Establish effective operating rhythms, planning cadences, and performance tracking mechanisms.
+
+-
+
+Define and monitor key engineering metrics focused on delivery predictability, quality, system stability, and operational efficiency.
+
+-
+
+Oversee a cross-functional Salesforce engineering team that supports multiple product domains, ensuring effective prioritization and coordination across engineering organizations.
+
+-
+
+Lead a centralized QA organization, including QA leadership, responsible for advancing quality standards, shared resourcing strategies, and AI-enabled testing practices.
+
+Cross-Functional Partnership:
+
+-
+
+Partner closely with Product and TPM leaders to align on scope, sequencing, and delivery timelines.
+
+-
+
+Collaborate with Sales, Marketing, Operations, and Data stakeholders to ensure technology solutions drive measurable business outcomes.
+
+-
+
+Communicate scope, tradeoffs, timelines, and risks clearly to both technical and non-technical audiences.
+Contribute to broader product and engineering planning processes to ensure effective capacity allocation.
+
+Operational & Technical Oversight:
+
+-
+
+Oversee technical execution and operational health of Senior Living platforms, including CRM-integrated systems, lead management tools, and web properties.
+
+-
+
+Ensure strong standards for quality, scalability, security, and maintainability.
+
+-
+
+Partner with Architecture and Infrastructure teams to align on technical standards and shared frameworks.
+
+-
+
+Promote disciplined use of AI-assisted development tools to improve velocity while maintaining quality.
+
+People & Culture:
+
+-
+
+Develop and coach engineering leaders, fostering accountability, engagement, and professional growth.
+
+-
+
+Build a culture grounded in clarity, ownership, measurable outcomes, and continuous improvement.
+
+-
+
+Partner with Talent Acquisition and People teams to attract and retain high-performing engineering talent.
+
+-
+
+Lead distributed teams with empathy, transparency, and strong communication practices.
+
+Required Skills:
+
+-
+
+Bachelor’s Degree in Computer Science, Engineering, or equivalent experience.
+
+-
+
+8 - 12+ years of engineering experience, including 5+ years leading engineering managers or multi-team organizations.
+
+-
+
+Proven experience leading distributed engineering teams through structured, stakeholder-driven delivery initiatives.
+
+-
+
+Strong operational leadership skills - roadmap execution, capacity planning, and delivery tracking.
+
+-
+
+Demonstrated ability to communicate complex technical concepts clearly to senior leaders and business stakeholders.
+
+-
+
+Experience partnering across multiple product domains to ensure architectural alignment and data consistency.
+
+-
+
+Experience leading or supporting centralized Quality Assurance functions, including testing frameworks and AI-assisted QA tooling.
+
+-
+
+Experience with modern web technologies (React, Next.js, JavaScript/TypeScript), API-driven architectures, and cloud environments (AWS preferred).
+
+-
+
+Familiarity with CRM platforms (Salesforce strongly preferred) and sales/marketing integrations.
+
+-
+
+Strong understanding of agile principles, SDLC practices, and engineering performance metrics.
+
+-
+
+Experience leading remote or distributed teams effectively.
+
+Compensation:
+
+• Base Salary: $215,000-$275,000
+
+• Bonus: 30% of annual earnings
+
+• Benefits:
+
+401(k) plus match
+
+Dental insurance
+
+Health insurance
+
+Vision insurance
+
+Paid Time Off
+
+#LI-KT1
+#LI-REMOTE
+
+About A Place for Mom
+
+A Place for Mom is the leading platform guiding families through every stage of the aging journey. Together, we simplify the senior care search with free, personalized support — connecting caregivers and their loved ones to vetted providers from our network of 15,000+ senior living communities and home care agencies.
+
+Since 2000, our teams have helped millions of families find care that fits their needs. Behind every referral and resource is a shared goal: to help families focus on what matters most — their love for each other.
+
+We’re proud to be a mission-driven company where every role contributes to improving lives. Caring isn’t just a core value — it’s who we are. Whether you’re supporting families directly or driving innovation behind the scenes, your work at A Place for Mom makes a real difference.
+
+Our employees live the company values every day:
+
+-
+
+Mission Over Me: We find purpose in helping caregivers and their senior loved ones while approaching our work with empathy.
+
+-
+
+Do Hard Things: We are energized by solving challenging problems and see it as an opportunity to grow.
+
+-
+
+Drive Outcomes as a Team: We each own the outcome but can only achieve it as a team.
+
+-
+
+Win The Right Way: We see organizational integrity as the foundation for how we operate.
+
+-
+
+Embrace Change: We innovate and constantly evolve.
+
+Additional Information:
+
+A Place for Mom has recently become aware of the fraudulent use of our name on job postings and via recruiting emails that are illegitimate and not in any way associated with us. APFM will never ask you to provide sensitive personal information as part of the recruiting process, such as your social security number; send you any unsolicited job offers or employment contracts; require any fees, payments, or access to financial accounts; and/or extend an offer without conducting an interview.
+
+If you suspect you are being scammed or have been scammed online, you may report the crime to the Federal Bureau of Investigation and obtain more information regarding online scams at the Federal Trade Commission.
+
+All your information will be kept confidential according to EEO guidelines.
+
+A Place for Mom uses E-Verify to confirm the employment eligibility of all newly hired employees. To learn more about E-Verify, including your rights and responsibilities, please visit www.dhs.gov/E-Verify.
+
+--- LOCAL SUMMARY ---
+
+Fit:
+True senior-director operating role with delivery rigor, multi-team coordination, and stakeholder management.
+
+Risk / stretch:
+Base alone is below target and the domain is less strategic for long-term positioning.

@@ -1,0 +1,90 @@
+Vice President, Engineering
+USA - Remote
+
+At Posit, we are entering an exciting new chapter of innovation. Your mission is to lead the continued evolution of our core authoring suite, including Positron, the RStudio IDE, and Workbench, into an AI-native era. Not only do we need to innovate and reimagine what our products can be in this new world, but we also need to remake how software engineering works when AI assistance is woven into it.
+
+You will act as a strategic guide, helping our high-performing teams navigate this fundamental shift while championing the psychological safety and open-source values that define Posit's culture.
+
+What you will own...
+
+    AI Engineering: Guide the teams on how AI-centered features should be developed, tested, secured, deployed, scaled and maintained.
+    Engineering with AI: Evolve our engineering practices, integrating AI assistance to drive new levels of efficiency, quality, collaboration and innovation.
+    Execution, Agility and Pace: Partner with engineering leads and managers to optimize our development cycles for the rapid, iterative pace of the modern AI landscape.
+    Enterprise Readiness: Maintain our commitment to enterprise-grade reliability, ensuring our tools remain easy to manage for IT leaders in complex, secure environments.
+    Integrated Product Experience: Ensure our tools work seamlessly together as a unified ecosystem, providing a consistent and high-quality experience for users across different environments.
+
+What you will assist with...
+
+    Product Vision: Collaborate with product leadership and internal stakeholders to align our technical roadmaps with the long-term future of data science.
+    Cross-functional Alignment: Work across the organization to turn ambitious goals into clear, actionable plans with shared ownership.
+    Team Culture: Cultivate a thriving, growing, resilient and fully distributed engineering organization that learns and continuously innovates.
+
+What you will bring...
+
+    Pragmatic AI Vision: A grounded, expert view on how AI can fundamentally improve software effectiveness without losing sight of user needs.
+    Development Tool Expertise: Deep experience with IDEs, extensions, or language runtimes. You can engage deeply with Principal Engineers on architectural trade-offs.
+    The "Data Science" Perspective: A strong background in Analytics or Data Science. You understand the user's "why" as much as the "how".
+    Enterprise Groundedness: Experience building software for the unique constraints of Fortune 500 IT environments (auth, security, and compliance).
+    Collaborative Change Management: A proven ability to lead organizations through periods of growth and technological shifts with empathy and clarity.
+
+What you will learn...
+
+    Posit's Cultural DNA: Learning how we balance our deep open-source mission with our commercial growth.
+    Deployment Complexity: Mastering the nuances of supporting users across On-Prem, cloud-embedded, and SaaS environments.
+    The Frontier of Data Science: A front-row seat to the paradigm shifts occurring in data science and scientific computing as AI fundamentally reshapes the landscape.
+
+Impact Plan
+
+Within 1 month, you'll...
+
+    Conduct a "listening tour" across the Authoring teams to understand our current strengths and identify opportunities for increased alignment.
+    Learn how to install and use our products.
+    Meet some customers and understand their context, goals and constraints.
+
+Within 3 months, you'll...
+
+    Deliver on material changes that improve the effectiveness of our teams, reducing friction in our development processes, increasing agility and empowering teams to explore bold new ideas.
+    Release new versions of our products, and learn about the delivery process.
+
+Within 6 months, you'll...
+
+    Oversee the delivery of major groundbreaking capabilities and experiments.
+    Implement improvements to our release process to increase the delivery cadence.
+
+Within 12 months, you'll...
+
+    Have solidified Posit's position as the gold standard for AI-native data science authoring.
+    Have attended the Posit Conference, have met numerous customers, and will be driving innovation in the company.
+
+Posit offers competitive compensation with extensive human-first, people-focused benefits to prioritize your personal and financial well-being. Individual pay decisions are based on a number of factors, including qualifications for the role, experience level, and skillset. This hiring range reflects base salary and assumes that the job will be performed in the United States.
+
+Hiring Range
+
+$310,000 - $330,000 USD
+Working at Posit:
+
+    We welcome all talented colleagues and are committed to a culture that represents diversity in all its forms.
+    We prioritize giving ourselves "focus time" to get deep work done. We minimize meetings and attempt to operate asynchronously.
+    We are a learning organization and take mentorship and career growth seriously. We hope to learn from you and we anticipate that you will also deepen your skills, influence, and leadership as a result of working at Posit.
+    We operate under a unique sustainable business model: We have over 50% of our engineering dedicated to creating free and open source software. We are profitable and we plan to be around decades from now.
+    Posit is a Public Benefit Corporation (PBC) and a Certified B Corporation, which means our open-source mission is codified into our charter. As a result, our corporate decisions balance the community's interests, customers, employees, and shareholders.
+
+Notable:
+We offer competitive compensation with extensive human-first, people-focused benefits to prioritize your personal and financial well-being. These benefits apply to full-time positions only.
+
+    100% of medical, dental, and vision insurance premiums are covered for employees and their families. Fertility and gender-affirming healthcare is included in all of our plans.
+    Supplemental mental health and wellness benefits are available via Ginger even if you don't opt in to our insurance plans, including Ginger for teen family members.
+    Posit's gender-neutral paid parental leave policy covers all new parents, including foster and adoptive parents.
+    All full-time employees are eligible for 401k enrollment starting on day one.
+        After six months of employment, Posit provides a substantial yearly match to employee 401K contributions.
+    An annual profit-sharing bonus for employees recognizes our team's contributions to company performance across the year.
+    We are a 100% distributed team. You are also welcome to come into our Boston office.
+        We offer a $400 monthly reimbursement for coworking space rental if you prefer to work away from home.
+    Our Lifestyle Savings Account offers an initial deposit of $1800 and then an additional quarterly stipend of $375 to cover the costs of professional development, wellness, financial health, charitable giving, and remote work support.
+    We provide a flexible environment with a generous vacation policy that encourages a minimum of four weeks PTO per year plus 15 paid company holidays.
+
+Are you excited about this role but not sure if your experience aligns with every qualification in the job description? That's okay. We know multiple perspectives are essential for a thriving organization and we'd still love to hear from you!
+
+Posit is committed to being a diverse and inclusive workplace. We encourage applicants of different backgrounds, cultures, genders, experiences, abilities, and perspectives to apply. All qualified applicants will receive consideration for employment without regard to race, color, national origin, religion, sexual orientation, gender, gender identity, age, physical disability, or length of time spent unemployed.
+
+Posit Software, PBC participates in the federal E-Verify program, which confirms employment authorization of newly hired U.S. based employees. E-Verify is not used as a tool to pre-screen candidates and is only initiated upon hire.

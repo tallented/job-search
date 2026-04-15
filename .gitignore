@@ -1,0 +1,26 @@
+# OS and Office temp files
+.DS_Store
+~$*
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Generated resume text cache
+_resume_text/
+_resume_text_archive/
+
+# Local NocoDB runtime/state
+job-tracker/data/
+job-tracker/import/*.csv
+
+# Legacy archived workbook copies
+bak/
+
+# Generated exports
+*.pdf
+
+# Low-signal nested workspace leftovers
+Send To/**/old/
+Submitted/**/old/
+Submitted/**/agent screenshots/

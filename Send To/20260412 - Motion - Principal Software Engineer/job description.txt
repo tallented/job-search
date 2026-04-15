@@ -1,0 +1,115 @@
+Motion - Principal Software Engineer
+Original source URL: https://jobs.ashbyhq.com/motion/7355e80d-dab2-4ba1-89cc-a0197e08a83c
+Fetched on: 2026-04-12
+Source used for local copy: Original Ashby posting
+Source queue: Review List - 20260412.md
+Lane: Lane 3
+Work model (queue): Remote U.S./Canada
+Compensation (queue): Total compensation $504K-$965K
+Listing source (queue): Ashby
+
+--- FULL POSTING ---
+
+Company: Motion
+Title: Principal Software Engineer
+Employment Type: FULL_TIME
+Location: United States
+Compensation: USD 504,000 - 965,000 per YEAR
+
+About Motion
+
+Motion is building the first end-to-end agentic work suite for everyday businesses. Unlike point solutions or bolt-on tools, Motion was built from the ground up with AI agents at the core. Our platform already powers project management, documents, sheets, calendars, meetings, knowledge, and communication — and now we’re layering in AI Employees that can autonomously execute work across all of it.
+
+What makes us different is that our agents are natively embedded in the platform. They’re not integrations, and they’re not copilots that just suggest things — they actually complete work with full access to data, context, and workflows. In just three months, AI Employees have grown from $0 to eight-figure ARR, and we’re only getting started.
+
+With backing from YC and Sam Altman, a $500M+ valuation, and hundreds of thousands of users, we’re well positioned to lead. Now we’re building agents that work with extreme accuracy and unlock an order-of-magnitude boost in productivity.
+
+Motion is intense, fast, and not for everyone. We're a great place to focus, learn, and accelerate your career. If you want to work with top talent, push yourself harder than you thought possible, and help redefine how AI gets deployed in the real world, then you’ll thrive here.
+
+About The Role
+
+Motion is hiring an experienced software engineer who can make key technical decisions and implement large software projects to help Motion scale the next 2 orders of magnitude. The role may be frontend, backend, or full-stack, whichever suits your background.
+
+We work hard to ensure Motion’s engineering team is one of the highest talent-density teams in the world. We have accomplished in weeks or months what it would take larger teams years to do. There are many initiatives on our product roadmap we know will make Motion deliver orders of magnitude more value to customers. As an engineer on our team, you will work on Motion's highest impact projects and have ownership over major parts of the product code.
+
+You will be a successful engineer at Motion if:
+
+-
+
+You are ambitious and always looking for ways to improve. For most engineers, this role will give you the most responsibilities you’ve ever had, while holding you to higher standards than other companies you’ve worked at. Don’t rest on your past achievements — expect to work your hardest and do the best work of your career at Motion. You will receive lots of coaching and feedback that you should seek to grow from
+
+-
+
+You can take ownership of projects and lead them to completion while dealing with ambiguity and finding the right balance between speed and quality. You don’t need every detail and edge case spelled out for you because you can figure out the goals of the project and fill in the blanks
+
+-
+
+You are a fast learner and can quickly familiarize yourself with a complex product and code base. You aren’t afraid to tackle any part of the stack or learn a new unfamiliar technology. You are comfortable with the fact that working in a startup means working around tech debt
+
+-
+
+You have a strong understanding of how you can create the most impact, and don’t get lost in the weeds in details that don’t matter. You’re excited to work on whatever solves the biggest customer problems, not just the coolest technical challenges
+
+-
+
+You can collaborate effectively with other talented engineers and work well in an environment where the best ideas win. The median engineer at Motion has 9 years experience. You should expect your ideas to get challenged and to learn a lot from your coworkers
+
+Tech Stack
+
+We prefer candidates who are familiar with the Javascript ecosystem and can hit the ground running when they join us. We don’t expect you to know all of our technologies, but enough of them to pick up the rest quickly. Our tech stack: C#, .NET, React, React Query, Postgres, Temporal.
+
+Compensation & Eligibility
+
+-
+
+Location: North America & Canada (remote)
+
+-
+
+Base Salary: $270,000 - $375,000
+
+-
+
+Bonus: $0 - $150,000
+
+-
+
+Total Compensation: $504,000 - $965,000 (includes equity & bonus)
+
+-
+
+The range listed reflects compensation for U.S.-based employees. For candidates outside the U.S., compensation will be adjusted to align with the local market and cost of living.
+
+-
+
+Visa Sponsorship: We are able to provide employment visa sponsorship for qualified candidates. Applicants will be asked if they currently or in the future require visa sponsorship as part of the application process.
+
+About Motion’s Engineering Culture
+
+Here are some helpful videos from Chander Ramesh, our cofounder and CTO:
+
+-
+
+What it’s like day-to-day at Motion
+
+-
+
+Motion’s company culture and engineering practices
+
+Motion is committed to creating a diverse and inclusive workplace where everyone is treated with respect and given equal opportunities. We do not discriminate based on gender identity, race, ancestry, disability, religion, sexual orientation, pregnancy status, veteran status, or any other characteristic protected by law. We welcome and encourage all qualified candidates to apply for our job openings.
+
+Helpful Links:
+
+How Motion Operates
+
+Motion Company Culture
+
+https://www.usemotion.com
+
+--- LOCAL SUMMARY ---
+
+Fit:
+Very strong AI-agent / workflow-platform story with unusually strong upside.
+
+Risk / stretch:
+Startup profile is volatile, comp is not all base, and it is still an IC detour.

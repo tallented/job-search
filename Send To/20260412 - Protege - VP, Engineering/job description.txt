@@ -1,0 +1,68 @@
+Protege - VP, Engineering
+Original source URL: https://jobs.ashbyhq.com/protege/4b3b5324-3050-46c6-b400-be4b9f05dc24
+Fetched on: 2026-04-12
+Source used for local copy: Live LinkedIn posting via logged-in browser session; original Ashby URL returned posting unavailable on 2026-04-12
+Source queue: Review List - 20260412.md
+Lane: Lane 1
+Work model (queue): Remote
+Compensation (queue): Not surfaced
+Listing source (queue): Ashby
+
+--- FULL POSTING ---
+
+Company: Protege
+Title: VP, Engineering
+Employment Type: Full time
+Location: Remote
+
+Company Overview
+
+Protege is building to solve what it describes as the biggest unmet need in AI: getting access to the right training data. The process today is time intensive, expensive, and often fails. The Protege platform facilitates the secure, efficient, and privacy-centric exchange of AI training data.
+
+The company positions AI training data exchange as a generational opportunity, says it is backed by major investors, and describes itself as a lean, fast-moving, high-trust team built for people who thrive on ambiguity, own outcomes, and want to shape the future of data and AI.
+
+Key Responsibilities
+
+Engineering Leadership & Strategy
+
+- Define and execute a long-term technical strategy aligned with company goals.
+- Partner with executive leadership on product direction, innovation, and roadmap execution.
+- Establish engineering-wide structures, processes, and operating rhythms that support growth at scale.
+- Partner cross-functionally to anticipate what the company and engineering organization will need as it scales, and proactively seed the right processes, capacity, and operating rhythms.
+- Set the standard for technical excellence and execution, and build a high-trust culture where teams take ownership and move quickly with rigor.
+
+Team Building & People Leadership
+
+- Recruit, develop, and retain top engineering talent; act as a talent magnet in the market.
+- Partner with People on engineering recruiting strategy and take ownership of process and outcomes.
+- Mentor engineering managers and technical leaders to support career growth and strong technical judgment.
+- Create a collaborative environment that fosters diversity of thought, high ownership, accountability, and continuous improvement.
+
+Execution, Quality & Delivery
+
+- Own engineering execution end-to-end, from planning through delivery quality and operating cadence.
+- Build and refine engineering workflows including code review, testing automation, observability, and incident management.
+- Safeguard product quality by building processes and infrastructure that ensure reliability, security, and performance, while fostering customer-experience ownership.
+
+Product & Technology Ownership
+
+- Oversee architectural decisions, infrastructure scaling, and system design.
+- Work closely with product leadership to translate customer needs into scalable product experiences.
+- Champion a high bar for innovation and help the company build functionality ahead of customer demand in the AI data infrastructure space.
+
+Must-Have Experience
+
+- 10+ years in engineering roles, with 4+ years in leadership managing multiple teams or organizations.
+- Fluency in setting technical strategy in high-growth or early-stage settings and aligning technical direction to business needs.
+- Track record of growing and leading multi-level engineering organizations of 30+ with strong operational rigor and technical standards.
+- Demonstrated ability to build impressive, user-centric products in fast-paced environments.
+- Strong background in engineering discipline, quality practices, and operational structure.
+- Exceptional communication, cross-functional leadership, and decision-making skills.
+
+--- LOCAL SUMMARY ---
+
+Fit:
+AI-forward VP title with direct leadership scope and credible product/platform overlap.
+
+Risk / stretch:
+May be too close to another early-stage executive title rather than the scale jump the strategy is trying to force.

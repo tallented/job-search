@@ -1,0 +1,256 @@
+Super.com - Director of Engineering, Core Experience
+Original source URL: https://jobs.ashbyhq.com/super.com/ebedcfcc-820e-4a8f-b3d8-891f9a13b96d
+Fetched on: 2026-04-12
+Source used for local copy: Original Ashby posting
+Source queue: Review List - 20260412.md
+Lane: Lane 1 + Lane 2 overlap
+Work model (queue): Remote U.S.
+Compensation (queue): US $215K-$316K
+Listing source (queue): Ashby
+
+--- FULL POSTING ---
+
+Company: Super.com
+Title: Director of Engineering, Core Experience
+Employment Type: FULL_TIME
+Location: Canada
+
+About Super.com
+
+We started Super.com to help maximize lives – both the lives of our customers and the lives of our team – so that everyone can experience all that life has to offer. For our employees, our promise is that Super.com is more than just a job; it’s an opportunity to unlock one’s potential, where learning is celebrated and impact is realized.
+
+We are more than a fast-paced, high-growth tech company; we care about our people and take career progression seriously. This is your career and our aim is to supercharge it through the people, the work, and the programs that fuel who we are.
+
+About the role
+
+As our Engineering Director for Core Experience, you’ll lead the teams responsible for the shared member experiences that connect Super.com’s product verticals.
+
+This organization owns key surfaces and systems including the homepage and discovery experiences, membership management, and the benefits and rewards systems that power member value. It also provides the shared platform capabilities and operational support systems needed to deliver those experiences consistently across Super.com. Together, these capabilities help members understand and access the value available across the travel, fintech, and earnings products, while giving internal teams the tools and workflows needed to support the member experience effectively.
+
+The organization will launch with five teams, three established and two being created. You’ll report to the VP Engineering and lead a group of Engineering Managers, ensuring strong execution, technical quality, and a cohesive member experience across the platform. You’ll be a key driver of engineering standards, best practices, and improvements to our product development lifecycle. While you may occasionally jump into technical details to unblock momentum, your real impact comes from architectural leadership, organizational clarity, and elevating execution across the teams you lead.
+
+Super.com is actively evolving how we build software as AI becomes a core part of the product development lifecycle. As a Director in this organization, you will play a meaningful role in that transformation. You will help teams adopt modern AI-enabled engineering practices, rethink how work is designed and executed, and identify opportunities where AI can meaningfully improve both product capabilities and development velocity while maintaining strong architectural and product quality standards.
+
+Our stack includes React on the frontend and Python/Node microservices on the backend. You’ll also work with GitLab, AWS, Postgres, Redis, Datadog, Amplitude, and Snowflake as you scale our systems and elevate the engineering craft across the org.
+
+About the team
+
+Super.com engineering has four full-stack product development focus areas: fintech, travel, earnings, and a Super+ membership program to unite them all. Our dozens of microservices and event-driven architecture handle thousands of requests and events per second, ingest over 1TB of data per day, and process over $1MM per day in sales, leveraging state of the art infrastructure. We have more than 100 contributors to our codebase with highly skilled engineers across our teams. We work in close partnership with Product Managers, Designers, and QA in an agile/scrum, fast-paced, scaleup environment (that respects work/life balance). We focus on driving business value through ambitious technical achievement, and place a huge emphasis on providing the structure to fast-track our team members' growth.
+
+What you’ll be working on:
+
+-
+
+Own the technical strategy and delivery for the Core Experience organization, ensuring we’re building the systems and experiences that help members engage with the platform, discover value, and access membership benefits across Super.com.
+
+-
+
+Lead and develop Engineering Managers and their teams, providing coaching, clearing technical and organizational blockers, and driving strong performance across the organization.
+
+-
+
+Own the engineering systems behind Super+ membership value, including benefits, rewards, and credits that power member experiences across product verticals.
+
+-
+
+Lead development of key engagement and discovery surfaces, including the Super.com homepage and related experiences that help members explore the platform.
+
+-
+
+Build and evolve the membership management platform, enabling members to manage their membership, benefits, and value across the Super ecosystem
+
+-
+
+Develop and scale the systems that power benefits and credits, ensuring they can support new membership offerings and experiences as the platform grows.
+
+-
+
+Provide the shared platform capabilities that allow these experiences to operate consistently across product verticals, while reducing duplication and improving delivery speed across teams.
+
+-
+
+Support the systems and workflows that enable customer operations and service teams to deliver a smooth and effective member experience.
+
+-
+
+Enable personalized discovery and cross-sell experiences across Super.com products in partnership with Product, Design, and Data teams.
+
+-
+
+Help drive the organization’s adoption of modern AI enabled engineering practices. This includes evolving development workflows, enabling teams to use AI effectively across design, implementation, and testing, and identifying opportunities where AI can unlock new product capabilities.
+
+-
+
+Ensure work is distributed effectively across teams and that collaboration with vertical product teams is clear and efficient.
+
+-
+
+Guide architecture and system design decisions, raising the technical bar and ensuring systems scale reliably.
+
+-
+
+Shape the organizational structure, hiring plans, and talent strategy for the Core Experience engineering group.
+
+-
+
+Continuously improve the product development lifecycle, balancing velocity with long-term system sustainability.
+
+-
+
+Contribute to cross-vertical engineering initiatives including architecture standards, guild leadership, and engineering best practices.
+
+-
+
+Jump into technical discussions or code when it’s the fastest path to clarity or impact.
+
+What we’re looking for:
+
+-
+
+At least 5 years of people leadership experience, including managing managers and senior ICs, with 2+ of those years at a Director level or equivalent.
+
+-
+
+Proven success leading a multi-team engineering organization delivering consumer-facing products, shared platforms, or both.
+
+-
+
+Experience building or scaling membership platforms, rewards systems, credits or loyalty mechanisms, or other shared product capabilities used across multiple teams.
+
+-
+
+Experience owning or contributing to shared platform capabilities or product infrastructure that support multiple product areas or verticals.
+
+-
+
+Experience partnering closely with Product, Design, Growth, Data, Operations, and Finance teams to deliver systems that power engagement, value discovery, and member support.
+
+-
+
+Strong interest in modern AI enabled software development and a desire to help teams incorporate AI into their workflows in a thoughtful and effective way.
+
+-
+
+Strong track record of delivering major product or platform initiatives while balancing speed, reliability, and long-term sustainability.
+
+-
+
+Prior depth as a Senior Software Engineer or Technical Lead (3+ years minimum), with strong architectural judgment and the ability to guide senior engineers toward sound technical decisions.
+
+-
+
+Strong understanding of modern web architectures, distributed systems, and microservice design patterns.
+
+-
+
+Deep expertise in either backend or frontend systems design, with working knowledge across the stack to evaluate architectural tradeoffs.
+
+-
+
+Comfortable reviewing and guiding implementations within JavaScript and Python ecosystems.
+
+-
+
+Experience designing and operating services at meaningful scale, including performance, reliability, and observability considerations.
+
+-
+
+Proven ability to drive strategic engineering initiatives including organizational design, OKR planning, and multi-team alignment in fast-moving environments.
+
+-
+
+Background in startup or scale-up environments where ambiguity, speed, and iteration are part of daily life.
+
+Our Technology:
+
+-
+
+We use a state of the art architecture powered by Node and Python microservices and React frontend
+
+-
+
+We use Postgres for storage, Redis for caching, and Snowflake for our data warehouse
+
+-
+
+We use Gitlab for version control and CI/CD, and our infrastructure is hosted on AWS, making use of Kubernetes, RDS, etc
+
+-
+
+We invest heavily in monitoring and automated alerting using Datadog
+
+-
+
+We use Amplitude for client-side metrics and experimentation
+
+-
+
+We use Material-UI and maintain our own component library, using Figma for mock-ups
+
+-
+
+We integrate with a multitude of third-parties to support our compliance, risk, and security policies
+
+Nice to Have:
+
+-
+
+Experience building membership, loyalty, rewards, or credit-based systems.
+
+-
+
+Experience with personalization, recommendation systems, or AI-driven product experiences that improve discovery, cross-sell, or engagement.
+
+-
+
+Experience building homepage, discovery, or engagement surfaces in consumer products.
+
+-
+
+Experience working on shared platform capabilities that support multiple product teams or business areas.
+
+-
+
+Experience working on systems that support customer operations or service workflows tied to the user experience.
+
+-
+
+Experience integrating with payment platforms such as Braintree, Adyen, or similar providers, particularly in the context of subscriptions, memberships, or checkout experiences.
+
+-
+
+Experience working on consumer platforms with multiple product verticals where shared experiences connect the ecosystem.
+
+-
+
+Familiarity with our stack and ecosystem: Python, Node, React, Postgres, Redis, Docker, AWS, and related tools.
+
+At Super.com, we believe in supporting our team so they can thrive—both at work and in life.
+
+-Remote-First Flexibility: Work from anywhere in the world and choose the hours that suit you best. We trust you to get great work done on your terms.
+
+-Time to Recharge: Enjoy unlimited PTO, company-wide recharge days, and annual team offsites.
+
+-Everyday Perks: Weekly UberEats credits and travel discounts on Super.com help you enjoy the little things.
+
+-Family-Friendly Benefits: We support growing families with generous parental leave and a flexible return-to-work plan.
+
+-Comprehensive Compensation: Competitive salary, equity options, and top-tier benefits starting on day one.
+
+-Investing in You: Access to wellness budgets, personal development funds, and team-level learning resources.
+
+And that’s just the beginning. Visit our careers page to explore the full range of perks and benefits we offer.
+
+Super.com uses artificial intelligence (AI) technologies to support certain aspects of the recruitment process, such as initial application screening (i.e. work authorization) and technical assessments. These tools are designed to improve the efficiency, consistency, and fairness of candidate evaluations. All other assessments and final hiring decisions are conducted with human involvement. Candidates may request a human review of any AI-assisted outcome by contacting talent@super.com.
+
+Super.com is an equal opportunity employer. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.
+
+Accommodations are available on request for candidates taking part in all aspects of the selection process. If needed, please notify our Talent Acquisition Partner.
+
+--- LOCAL SUMMARY ---
+
+Fit:
+Recognizable brand, director title, and meaningful consumer-facing scale with solid product and platform overlap.
+
+Risk / stretch:
+Lower half of the range is below the practical floor, and the role is less clearly governance-heavy than the best bridge roles.

@@ -1,0 +1,69 @@
+GE HealthCare - Senior Director - Cloud Infrastructure & Platform Engineering
+Original source URL: https://www.linkedin.com/jobs/view/4398021490/
+Fetched on: 2026-04-12
+Source used for local copy: Live LinkedIn posting via logged-in browser session
+Source queue: Review List - 20260412.md
+Lane: Lane 1 + Lane 2 overlap
+Work model (queue): Remote
+Compensation (queue): $188K-$282K base + performance incentive and possible LTI
+Listing source (queue): LinkedIn
+
+--- FULL POSTING ---
+
+Company: GE HealthCare
+Title: Senior Director - Cloud Infrastructure & Platform Engineering
+Employment Type: Full time
+Location: Remote
+Compensation: $188,000 - $282,000 USD base + performance incentive and possible LTI
+
+Job Description Summary
+
+GE HealthCare is seeking a strategic Senior Director of Cloud Infrastructure & Platform Engineering to lead the design, delivery, and optimization of its cloud platforms. The role is responsible for operational excellence, cost efficiency, innovation, and the availability, security, and performance of the cloud ecosystem. The ideal candidate brings deep technical expertise, strong leadership, and a forward-looking approach to AI and emerging technologies.
+
+Roles and Responsibilities
+
+- Develop strategic plans for cloud infrastructure and platform services aligned to business objectives.
+- Partner with senior leaders and teams across enterprise IT and commercial segments to develop scalable services.
+- Lead the design and implementation of cloud infrastructure and platform services while embracing emerging technologies and new ways of working.
+- Align cloud infrastructure and platform services to industry compliance frameworks, data sovereignty, privacy, and regulatory requirements.
+- Maintain strong cloud compliance posture through access management, data protection, network security, and cloud security best practices.
+- Collaborate cross-functionally to improve operational maturity and service quality.
+- Drive accountability for cloud cost optimization across teams and vendors.
+- Own and manage cloud infrastructure and platform engineering budget, including forecasting, tracking, and reporting.
+- Partner with vendors and service providers to ensure strategic alignment and value delivery.
+- Lead, mentor, and grow high-performing cloud infrastructure and platform engineering teams.
+- Interpret internal and external business challenges and recommend best practices for products, processes, or services.
+
+Qualifications
+
+- Bachelor’s degree in Computer Science, Engineering, or a related field.
+- 10+ years of experience in cloud infrastructure and platform engineering, with 5+ years in senior leadership roles.
+- Proven experience with major cloud platforms such as AWS, Azure, Google Cloud, and OCI, plus hybrid cloud architectures.
+- Demonstrated ability to align cloud platform strategy with business outcomes, including cost optimization and risk reduction.
+- Proven leadership building and scaling enterprise cloud platforms across multiple business units, products, and operating models.
+- Strong financial acumen, including cloud consumption economics, chargeback/showback, vendor negotiations, and ROI justification.
+- Track record of influencing senior executives and business stakeholders.
+- Demonstrated success with FinOps and cloud cost management.
+- Experience driving organizational change, including operating model design, product-centric delivery, platform governance, and cloud-native adoption.
+
+Desired Characteristics
+
+- Ability to align platform initiatives with long-term business goals and digital transformation strategy.
+- Passion for reliable, scalable, secure systems with strong performance and availability.
+- Proven leadership in building, developing, and retaining high-performing teams.
+- Skill in balancing cost, performance, and risk using data-driven decisions.
+- Deep understanding of cloud security and embedding compliance into the platform stack.
+- Curiosity about AI/ML and other emerging technologies as innovation levers.
+- Ability to translate complex technical concepts into actionable insights for technical and non-technical audiences.
+
+Additional Notes
+
+GE HealthCare notes that it does not sponsor employment visas for this opening. The page also includes standard benefits language, equal opportunity language, drug-screen language where applicable, and a note that relocation assistance is not provided.
+
+--- LOCAL SUMMARY ---
+
+Fit:
+Real enterprise-scale bridge role with budget ownership, FinOps, compliance, platform governance, and multi-business-unit cloud strategy.
+
+Risk / stretch:
+Base is below the ideal range and only brushes the practical floor at the top end; the context is also more enterprise-corporate than software-product-led.

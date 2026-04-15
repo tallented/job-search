@@ -1,0 +1,29 @@
+Source date: 2026-03-31
+Official role URL: https://explore.jobs.netflix.net/careers/job/790313766911-engineering-manager-cloud-architecture-tooling-security--usa-remote?domain=netflix.com&microsite=netflix.com
+Mirror used to capture text: https://www.remotesource.com/jobs/wgItOa9W0MrQEra_ogg13-engineering-manager-cloud-architecture-tooling-security-at-netflix
+
+Title: Engineering Manager (Cloud Architecture Tooling & Security)
+Company: Netflix
+Location: USA - Remote
+Compensation: $510,000 - $752,000 annual salary
+
+Summary:
+Netflix operates its streaming service control plane on AWS, creating one of the largest and most sophisticated AWS environments in the world. Cloud security is critical to protecting members, partners, employees, and intellectual property.
+
+The Cloud Architecture, Tooling and Security (CATS) team designs and implements strategic high-level cloud security boundaries that balance risk while enabling business needs. The team provides cloud security expertise, builds scalable security solutions for account management, cloud identity and access management, and provides operational security services.
+
+Role focus:
+- Lead and cultivate a world-class team of security experts and software engineers.
+- Establish strong organizational relationships and connect business context to security needs.
+- Provide leadership across cloud security operations, AWS account management, and security architecture.
+- Shape long-term technical vision while bringing structure and clarity to team operations.
+- Lead effectively through change in a rapidly evolving environment.
+
+Desired background:
+- Strong understanding of cloud security concepts.
+- Specific experience in CloudSec operations, AWS account management, and security architecture.
+- Experience hiring, coaching, and cultivating a talented team across seniority levels.
+- Experience working cross-functionally across security and infrastructure teams.
+- Ability to translate business context into security program needs and communicate security goals to different audiences.
+- Track record of shaping long-term technical vision and improving team operations.
+- Empathetic leadership style with psychological safety and inclusion.

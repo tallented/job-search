@@ -1,0 +1,67 @@
+# CHRIS TALLENT
+
+*Principal Software Engineer | Workflow Systems, Agentic Tools & Applied AI*
+
+Cincinnati Metro Area • 859.394.2923 • chris@provenedge.com • linkedin.com/in/tallented
+
+──────────────────────────────────────────────────────────────────────────────────────────────────
+
+## PROFESSIONAL SUMMARY
+
+Principal-level engineer and hands-on CTO with 20+ years designing distributed, cloud-native platforms and workflow-heavy systems. Deep experience building APIs, developer tooling, AI-integrated services, and production systems on AWS using Java, Python, and TypeScript, with strong grounding in CI/CD, observability, SLO-driven reliability, and secure operational workflows. Recently built Model Context Protocol (MCP)-integrated tooling, generative search, and bounded agentic workflows that connect LLMs to typed APIs and structured data.
+
+## CORE SKILLS
+
+Architecture & Systems: Distributed Systems • Backend Services • API Design (REST, OAuth2, JWT) • Microservices • Observability • SLOs / Incident Response
+Languages & Frameworks: Java / Spring • Python • TypeScript / Node.js • JavaScript (React, Angular, Vue)
+Cloud & Data: AWS (ECS, Lambda, Bedrock, Textract, RDS/Aurora, S3) • Kubernetes • PostgreSQL • MySQL • MongoDB • Redis
+AI & Developer Tooling: MCP • LLM API Integration (Bedrock / Claude) • Typed APIs • Agentic Admin Tooling
+
+## PROFESSIONAL EXPERIENCE
+
+### Chief Technology Officer & Principal Engineer | Pitchstone Technology LLC
+
+Seattle, WA • February 2021 – Present
+
+- Architected an AI-enabled, configuration-driven platform on AWS (ECS, Lambda, Bedrock, Textract, RDS/Aurora, S3), exposing secure APIs for document and knowledge workflows.
+- Built Model Context Protocol (MCP)-adjacent agent tooling and bounded workflow automation patterns that connect LLMs to typed APIs and structured data.
+- Built AI-assisted modernization workflows with Claude Code for upgrades and unit-test generation, reducing delivery cycles from 4 months to 3 weeks.
+- Defined AWS account structure, RBAC, IAM Identity Center permission sets, and access boundaries across five AWS accounts while leading ISO 27001 controls.
+- Built Docker Compose-based developer environments with anonymized data refresh, cutting update time from 3+ hours to 45 minutes.
+
+### Chief Technology Officer | Automobile Consumer Services Inc
+
+Cincinnati, OH • July 2016 – February 2021
+
+- Modernized a legacy PHP fintech platform into a modern single-page application backed by REST APIs and microservices (AngularJS, Java, Spring MVC, Docker / Kubernetes on AWS), achieving 99.99% uptime with zero-downtime migration.
+- Implemented CI/CD pipelines with Bitbucket Pipelines and GitHub Actions, shortening deployment cycles from weeks to hours through Kubernetes rolling updates and safer rollback strategies.
+- Designed a JSON-driven configuration system for dealer-specific workflows and UI behavior without per-client code forks.
+
+### Fractional CTO & Principal Engineer | Proven Edge LLC
+
+Fort Thomas, KY • November 2015 – Present
+
+- Built Model Context Protocol (MCP)-integrated agent tooling on top of an internal multi-platform application scaffold and Entity Engine, enabling LLM-driven tools to query structured entity data and perform bounded admin actions through typed APIs.
+- Implemented generative search over help docs using chunking, embeddings, and a Python vector store, grounding responses in linked source documentation.
+- Built a reusable multi-platform application scaffold across web, mobile, desktop, API, and AI services, with typed APIs, OIDC auth, RBAC, billing, documents, notifications, and RAG support.
+- Engineered a React / Next.js / Prisma MVP for a legal SaaS platform under tight launch deadlines.
+
+### Technical Co-Founder & Chief Technology Officer | Glamhive
+
+Seattle, WA • November 2013 – November 2015
+
+- Engineered and launched Glamhive.com on AWS (AngularJS, Java, Spring MVC, MongoDB), integrating external product inventory through a configuration-driven platform.
+- Designed data model and indexing strategy for real-time search and personalized recommendations via MongoDB aggregation and caching.
+- Unified web and mobile codebases via Cordova and Ionic, reducing mobile development costs by 70%.
+
+### Chief Technology Officer | Lela.com
+
+New York, NY • November 2011 – May 2014
+
+- Directed development of a personalized shopping recommendation platform (Java, Spring MVC, MySQL, MongoDB) with multi-retailer integrations.
+- Refactored core recommendation algorithms into modular Java services, improving maintainability and enabling feature A/B testing.
+- Improved post-pivot delivery efficiency by 25% through Agile workflows, automated testing, and roadmap alignment.
+
+## EDUCATION
+
+Bachelor of Science in Computer Science — University of Kentucky, Lexington, KY

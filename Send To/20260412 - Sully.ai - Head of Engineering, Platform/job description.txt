@@ -1,0 +1,98 @@
+Sully.ai - Head of Engineering, Platform
+Original source URL: https://jobs.ashbyhq.com/sully-ai/056e9f09-ba93-440f-bb3e-d904ffc29d5f?weekdayJdUid=937999
+Fetched on: 2026-04-12
+Source used for local copy: Original Ashby posting
+Source queue: Review List - 20260412.md
+Lane: Lane 1
+Work model (queue): Remote U.S.
+Compensation (queue): $300K-$350K base + meaningful equity
+Listing source (queue): Ashby
+
+--- FULL POSTING ---
+
+Company: Sully.ai
+Title: Head of Engineering, Platform
+Employment Type: FULL_TIME
+Compensation: USD 300,000 - 350,000 per YEAR
+
+About Us
+At Sully.ai, We’re Building the Most Impactful Healthcare Company on Earth
+
+We believe that access to a great doctor is a basic human right. Today, that’s not a reality. Delays, misdiagnoses, administrative chaos, and burnout plague the system.
+
+Our Mission
+One Human, One Doctor.
+We enable our customers to staff 30% of their workforce with AI by creating a shared agent architecture for scale and efficiency. All powered by our own patented, world-class models and deployed in real-world care.
+
+About the Role
+
+Sully automates clinical documentation at the point of care. Real-time ambient listening, structured medical notes, and agentic AI workflows embedded in the EHR. We're live in 270+ clinics, have processed 2M+ real physician-patient encounters, and run on custom medical models that outperform GPT, Claude and Gemini on clinical benchmarks. We're not a wrapper company.
+
+We're hiring a hands on Head of Engineering, Platform to take full ownership of Sully's platform domain: the agentic scribe pipeline, copilot backend, AI workers, EHR integration layer, and the infrastructure that ties them together.
+Platform is the engine: Every note generated, every EHR sync, every real-time AI action in a patient visit runs through what you build.
+You will be the DRI for platform architecture, reliability, latency, and execution, from design through on-call.
+
+───
+
+What You'll Own
+
+• End-to-end platform engineering: Agentic scribe pipeline, copilot-backend, AI workers, EHR sync, multi-tenant infrastructure, and real-time audio processing
+• Drive-function latency improvements: targeting 50%+ cuts across AI generation workflows (note gen, decision support, real-time agent actions)
+• Observability, alerting, and model-selection systems that give real signal at scale
+• Continuous quality pipelines: accuracy, completeness, and reliability of every AI output across all orgs and EHR integrations
+• Execution cadences: OKRs, standups, backlog ownership in Linear, tight coordination with Scribe, Receptionist, Integrations, and Research
+• Engineering bar across the stack: architecture decisions, PR reviews, on-call standards, and operational rigor
+• Platform roadmap translation: from product goals and research breakthroughs to clear technical plans with real timelines
+
+───
+
+What We're Looking For
+
+• You've built and shipped real platform systems: Distributed architecture, async pipelines, real-time audio/ML workloads, multi-tenant backend. Not just CRUD services. You can go deep on system design and come back with something that actually scales.
+• You still write code: Player-coach. We evaluate hands-on engineering depth directly.
+• You've led engineers: made them sharper, not just coordinated their sprints. Small team is fine. Impact is what matters.
+• You've operated in high-intensity environments: YC-backed, seed-stage, zero-to-one. Speed and judgment over process. You've felt what it means when the platform is down and the whole company is waiting.
+• Healthcare or high-reliability software experience is a strong signal: You understand what it means to build systems where errors have real consequences.
+• Ambiguity is your operating system: You convert incomplete direction into clear plans and shipped systems. No hand-holding needed.
+
+───
+
+First 90 Days
+
+• Take full ownership of the platform domain: establish yourself as the DRI for architecture, reliability, and delivery decisions
+• Ensure end-to-end observability and alerting for core platform workflows: note generation pipeline, EHR sync, AI worker health, and real-time audio processing
+• Define key platform metrics: p50/p99 latency, pipeline completion rate, EHR sync reliability (target ≥98%), error rates by service
+• Identify and ship at least one high-impact improvement: latency reduction, reliability fix, or architecture simplification
+• Establish execution cadence: OKRs, on-call standards, and quality benchmarks across the platform stack
+
+───
+
+Why Sully
+
+• Real Product Market Fit: 270+ clinics live, 2M+ encounters processed, physicians choosing it every day in patient visits
+• Custom medical models: we build our own and they win on clinical benchmarks
+• The platform challenges are real and immediate: sub-second AI inference, multi-EHR sync, real-time audio pipelines, distributed agentic workflows at scale
+
+• You're replacing a genuinely broken workflow (manual documentation = physician burnout), not adding an AI feature
+• Small team, large surface area, high ownership: If you want to own the platform infrastructure of a company defining how AI works in healthcare, this is it
+
+Why Join Sully.ai?
+🔥 Revolutionizing the antiquated $800B+ Healthcare market
+
+🧠 60%+ Ex-founders who have built, scaled, exited. We hire A-players
+
+⚡️ Speed matters: we operate with urgency, autonomy, and ownership
+
+🧪 You’ll work on real, first-of-their-kind problems at the edge of AI and medicine
+
+❤️ Your work directly unlocks doctors to reclaim their time, and patients get better, faster care
+
+Sully.ai is an equal opportunity employer. In addition to EEO being the law, it is a policy that is fully consistent with our principles. All qualified applicants will receive consideration for employment without regard to status as a protected veteran or a qualified individual with a disability, or other protected status such as race, religion, color, national origin, sex, sexual orientation, gender identity, genetic information, pregnancy or age. Sully.ai prohibits any form of workplace harassment.
+
+--- LOCAL SUMMARY ---
+
+Fit:
+Strong on AI platform, infrastructure, reliability, and direct platform ownership.
+
+Risk / stretch:
+May still be closer to startup-scope than true larger-company scale proof.

@@ -1,0 +1,92 @@
+Natera - Vice President of Engineering, UX/Commercial Applications
+Original source URL: https://www.linkedin.com/jobs/view/4378135368/
+Fetched on: 2026-04-12
+Source used for local copy: Live LinkedIn posting via logged-in browser session
+Source queue: Review List - 20260412.md
+Lane: Lane 1
+Work model (queue): Remote U.S.
+Compensation (queue): Undisclosed
+Listing source (queue): LinkedIn
+
+--- FULL POSTING ---
+
+Company: Natera
+Title: Vice President of Engineering, UX/Commercial Applications
+Employment Type: Full-time
+Location: Remote USA
+Compensation: $239,000 - $310,800 USD
+Reports to: SVP, UX Products & Engineering
+Organization Size: 100+ Engineers
+
+Position Summary
+
+Natera is seeking a Vice President of Engineering, UX/Commercial Applications to lead a 100+ person engineering organization responsible for its commercial software platforms. This leader is expected to strengthen execution, raise engineering standards, and advance AI-enabled product and development capabilities.
+
+Scope Includes
+
+- Patient and provider portals
+- EMR integrations and interoperability
+- Internal service and operational systems
+- Omni-channel communications
+- Billing and revenue platforms
+- AI-powered chat and voice automation
+
+Key Responsibilities
+
+Engineering Leadership & Execution
+
+- Lead and scale a 100+ engineer organization through Directors and Senior Directors.
+- Improve delivery predictability, engineering velocity, and production quality.
+- Strengthen planning, estimation, and development processes.
+- Raise the bar on accountability and ownership.
+- Develop strong engineering leaders and succession depth.
+
+Technical Depth & Architectural Rigor
+
+- Bring a strong background in distributed systems and cloud-native architectures, with AWS preferred.
+- Build scalable, highly available platforms.
+- Show deep understanding of modern web stacks including APIs, React, TypeScript, and services.
+- Lead platform modernization and reliability improvements.
+- Engage deeply in architecture reviews and technical decisions when needed.
+
+AI-Enabled Product & Development
+
+AI in the Product
+
+- Expand the use of generative AI across patient and provider workflows.
+- Scale AI-powered automation across chat, voice, document processing, and operational workflows.
+- Ensure AI solutions are secure, reliable, and production-ready.
+
+AI in Engineering
+
+- Drive thoughtful adoption of AI-assisted development tools.
+- Improve SDLC efficiency through automation and modern tooling.
+- Build engineering practices that effectively leverage AI.
+
+Candidate Profile
+
+- 15+ years of software engineering experience.
+- 6+ years leading large engineering organizations in the 50-150+ engineer range.
+- Strong technical depth in cloud-native distributed systems, with AWS preferred.
+- Experience deploying AI/ML or GenAI solutions in production environments.
+- Track record of improving execution, quality, and engineering effectiveness.
+
+You Are
+
+- Technically strong and comfortable getting into the weeds when needed.
+- Detail-oriented and execution-focused.
+- Low-ego, calm, pragmatic, and decisive.
+- Experienced in fast-paced, growth environments.
+- Focused on raising standards without adding unnecessary bureaucracy.
+
+Company / Benefits Notes
+
+Natera describes itself as a global leader in cell-free DNA testing across oncology, women’s health, and organ health. The posting highlights medical, dental, vision, life, disability, fertility benefits, pregnancy and baby bonding leave, 401(k), commuter benefits, and family testing benefits. The page also includes standard equal-opportunity and anti-fraud notices.
+
+--- LOCAL SUMMARY ---
+
+Fit:
+One of the strongest direct bridge roles surfaced live, with 100+ engineer scope through directors and senior directors plus modernization and AI-enabled delivery themes.
+
+Risk / stretch:
+Healthcare/commercial-applications domain is less obviously aligned with the preferred software-platform narrative, and compensation still needs validation.

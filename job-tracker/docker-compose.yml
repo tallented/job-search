@@ -1,0 +1,12 @@
+services:
+  nocodb:
+    image: nocodb/nocodb:latest
+    container_name: resume-job-tracker-nocodb
+    restart: unless-stopped
+    ports:
+      - "8085:8080"
+    environment:
+      NC_DISABLE_TELE: "true"
+      NC_DISABLE_SUPPORT_CHAT: "true"
+    volumes:
+      - ./data:/usr/app/data

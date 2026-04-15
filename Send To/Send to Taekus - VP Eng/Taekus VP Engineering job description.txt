@@ -1,0 +1,63 @@
+Full job description
+
+Taekus is looking for a Vice President of Engineering to lead our engineering organization as we scale our premium financial platform serving the affluent travel market. As a profitable fintech with a $70M revenue/yr and $3B+ in annual transaction volume, we’re entering a new stage of growth—expanding our core banking systems, travel rewards infrastructure, and mobile experiences.
+
+You’ll work closely with our CEO and executive team to set the technical vision, scale our engineering organization, and ensure delivery excellence across every layer of our technology stack.
+
+Your Responsibilities
+
+    Lead and mentor a team of 10+ engineers across backend, frontend, mobile, and infrastructure disciplines, ensuring alignment on execution and quality.
+
+    Oversee resource planning, sprint management, and release cadence to deliver features that blend banking-grade reliability with a premium user experience.
+
+    Collaborate with the leadership team to define long-term technical architecture — spanning payments systems, card processing integrations, and travel rewards platform.
+
+    Improve best-in-class engineering processes: CI/CD pipelines, code review standards, automated testing, observability, and security practices.
+
+    Drive performance and availability across mission-critical systems including transaction processing, card management, and account services.
+
+    Serve as a culture leader—nurturing craftsmanship, ownership, and collaboration while maintaining the Taekus standard of excellence.
+
+What You Bring to the Table
+
+    12+ years of software engineering experience, with at least 5 years in engineering management or technical leadership roles.
+
+    Proven experience scaling engineering teams at fast-growing technical teams.
+
+    Deep understanding of cloud infrastructure (AWS preferred), distributed systems, and secure API design.
+
+    Technical experience in: Python / Django, TypeScript, React, PostgreSQL, AWS.
+
+    Background in SDLC management—balancing speed with reliability and compliance.
+
+    Bachelor’s degree in Computer Science, Engineering, or related field.
+
+    (Nice to have) Experience in payments, card issuing, or embedded banking platforms.
+
+
+You’d Love This Job If:
+
+    You’re excited to build the engineering foundation for a high-growth, design-forward fintech brand.
+
+    You thrive in growing high-caliber teams and want to influence both technical and strategic direction.
+
+    You believe fintech can be elegant—where technical sophistication meets luxury-grade user experience.
+
+    You love travel and want to work remotely with a domestic distributed team.
+
+About Taekus
+
+Taekus is a 6-year-old luxury financial services company offering premium checking, credit, and debit accounts—paired with an exclusive travel rewards ecosystem. We serve an affluent, global customer base that expects excellence in both experience and execution. With $3B+ in annual transaction volume and strong profitability, we’re redefining what it means to bank beautifully.
+What We Offer
+
+    Competitive salary and stock option plan
+
+    Medical, Dental, and Vision insurance
+
+    401(k) plan with 5% company match
+
+    Flexible vacation policy
+
+    Fully remote work environment
+
+Compensation Range: $300K - $325K

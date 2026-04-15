@@ -1,0 +1,64 @@
+Confluent - Director of Engineering, Governance
+Original source URL: https://jobs.ashbyhq.com/confluent/2af38283-c25d-4352-9ecb-f56d98af748d
+Fetched on: 2026-04-12
+Source used for local copy: Web-cached original Ashby posting; current original URL returned posting unavailable on 2026-04-12
+Source queue: Review List - 20260412.md
+Lane: Lane 1 + Lane 2 overlap
+Work model (queue): Remote U.S.
+Compensation (queue): $322.5K-$387K base + equity
+Listing source (queue): Ashby
+
+--- FULL POSTING ---
+
+Company: Confluent
+Title: Director of Engineering, Governance
+Employment Type: Full time
+Location: Remote, United States
+Department: Engineering
+Compensation: $322,500 - $387,000 USD base + equity
+
+About Confluent
+
+We’re not just building better tech. We’re rewriting how data moves and what the world can do with it. With Confluent, data doesn’t sit still. Our platform puts information in motion, streaming in near real-time so companies can react faster, build smarter, and deliver experiences as dynamic as the world around them.
+
+It takes a certain kind of person to join this team. Those who ask hard questions, give honest feedback, and show up for each other. No egos, no solo acts. Just smart, curious humans pushing toward something bigger, together.
+
+One Confluent. One Team. One Data Streaming Platform.
+
+About the Role
+
+Confluent is building a data governance platform that enables customers to manage the structure, policy, and discoverability of their real-time data. The platform provides capabilities to create, manage, and enforce schemas and policy on data, while also enabling tagging, discoverability, and sharing across the organization. Structured, governed, and discoverable data is the lifeblood of the product and the key to customers’ ability to extract value, insights, and impact from the real-time data that they run their businesses on.
+
+Confluent is looking for an engineering leader to partner deeply with Product to build the vision, strategy, and roadmap for the next generation of governance features and services, while maintaining mission-critical reliability and security for the current system. This role is accountable for the design, development, quality, and operations of technologies that run on clients and in the cloud, across fully managed cloud and self-managed on-prem configurations, as well as the open source Schema Registry. The role also helps shape the next generation of catalog services for data streaming that enable customers to seamlessly integrate Kafka, Flink, and Iceberg across Confluent Cloud, Confluent Platform, hybrid, and open source deployments.
+
+What You Will Do
+
+- Lead a highly productive, global team of software engineers and engineering leaders.
+- Drive the long-term direction and strategy of Governance in Confluent, while partnering with internal stakeholders to advance the team’s mission.
+- Create competitive advantages for Confluent by driving technical innovation in governance and adjacent technologies.
+- Drive improvements in schema management and enforcement, including enabling a shift from thick clients to thin clients.
+- Continue a strong growth trajectory by hiring top-tier engineers and establishing quality standards, design principles, and operational maturity for the team.
+
+What You Will Bring
+
+- 10+ years of second-level engineering management experience leading productive, high-functioning teams.
+- Strong ability to recruit, motivate, mentor, coach, and manage engineers while maintaining a high hiring bar.
+- Strong fundamentals in distributed systems design and development.
+- A track record of shipping features and hitting deadlines consistently.
+- Sense of urgency, strong prioritization skills, and an aggressive mindset toward results.
+- Ability to anticipate future technical needs for the product and craft plans to realize them, guided by customers.
+- Vision and strategy to see around corners and set customers up for long-term success through technical and product innovation.
+- Preferred experience running production services in public clouds.
+- Ability to influence teams, peers, and upper management using effective communication and collaborative techniques, while building and maintaining a collaborative culture.
+
+Benefits / Notes
+
+Confluent states that compensation is determined based on work history, education, professional experience, location, and related factors, and that the role includes equity and standard company benefits.
+
+--- LOCAL SUMMARY ---
+
+Fit:
+Strong match on platform governance, reliability, security/compliance adjacency, and executive-operating narrative.
+
+Risk / stretch:
+Likely wants deeper manager-of-managers depth than the cleanest bridge roles.

@@ -1,0 +1,34 @@
+Netflix Technology Services  (N-Tech) organization is at the heart of Netflix’s enterprise ecosystem, enabling our business to adapt and thrive. Our teams design, build or acquire, and operate the foundational systems that power Netflix’s corporate environment, ensuring seamless enterprise workflows and delivering resilient, scalable, and future-ready technology solutions essential to Netflix’s continued growth.
+
+You’ll be instrumental as a technical thought leader, entrusted with defining and driving the architectural vision and strategy for our next-generation AI-native enterprise ecosystem. We stand at the threshold of a transformative paradigm shift, and this opportunity places you at the very forefront—empowering you to shape the future of enterprise technology through the design of groundbreaking architectures that fully harness the power of GenAI for users across Netflix. 
+
+
+What you will do:
+
+    Cultivate the technical vision by identifying opportunities and solving complex business problems within the corporate enterprise ecosystem.
+
+    Lead the re-architecture of enterprise systems, driving engineering vision and development of new AI-native products to simplify workflows.
+
+    Collaborate deeply with engineering, product, and business stakeholders to reimagine how the enterprise operates—balancing in-house innovation with strategic third-party integrations to maximize value, scalability, and speed to market.
+
+    Assess and incorporate emerging technologies—such as cloud-native platforms, data engineering pipelines, and AI-native capabilities—to build the next-generation enterprise ecosystem.
+
+    Lead and foster a culture of operational excellence, observability, and proactive risk management throughout the software development lifecycle across the organization. 
+
+What are we are looking for:
+
+    You have a deep passion for the corporate enterprise ecosystem. 
+
+    Proven experience in architecting and productizing scaled end-to-end solutions, within the corporate enterprise. 
+
+    Technical leadership with a strategic, hands-on approach to architecting complex systems and leading projects from start to finish, coupled with a strong business acumen to connect technology decisions to enterprise goals.
+
+    Exceptional communication and collaboration skills, with a demonstrated ability to influence, inspire and align cross-functional teams and executives.
+
+    Deep commitment to fostering, teaching, and reinforcing an inclusive, collaborative, and psychologically safe engineering culture.
+
+    You value “simple” as a design goal and recognize that simple and easy are very much not the same thing.
+
+    Experience navigating complex enterprise ecosystems, including the evaluation, integration, and governance of third-party platforms and technical vendor partnerships.
+
+    Deep understanding of data architecture, governance, and the application of AI/ML technologies to transform enterprise workflows and decision-making.

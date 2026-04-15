@@ -1,0 +1,53 @@
+Affirm - Manager, Release Engineering (Developer Productivity, CI/CD)
+Original source URL: https://boards.greenhouse.io/embed/job_app?token=6644302003
+Fetched on: 2026-04-12
+Source used for local copy: Archived Indeed / Built In / company mirror sources because the tracked Greenhouse embed URL was not a stable public listing page
+Source queue: Review List - 20260412.md
+Lane: Lane 2
+Work model (queue): Remote U.S.
+Compensation (queue): $225K-$275K in CA/WA/NY/NJ/CT, $200K-$250K in other U.S. states
+Listing source (queue): Greenhouse
+
+--- FULL POSTING ---
+
+Company: Affirm
+Title: Manager, Release Engineering (Developer Productivity, CI/CD)
+Employment Type: Full time
+Location: Remote, United States
+Compensation: $200,000 - $275,000 base + equity
+
+About the Role
+
+Affirm is reinventing credit to make it more honest and friendly, giving consumers the flexibility to buy now and pay later without hidden fees or compounding interest.
+
+The Release Engineering team sits within Affirm’s Developer Productivity organization and is responsible for ensuring that services are built, tested, and delivered to production with speed, reliability, and safety. The team designs and operates release processes, pipelines, orchestration frameworks, and automation that allow hundreds of engineers to ship changes confidently into the distributed systems that power Affirm’s financial products.
+
+The role is a hands-on leadership position responsible for scaling tooling and processes that underpin Affirm’s global platform while working across engineering, product, and compliance teams to improve software delivery at scale.
+
+What You’ll Do
+
+- Lead a team responsible for the end-to-end operation of releases at scale, ensuring services are delivered safely, reliably, and on time.
+- Define and execute the vision and roadmap for Release Operations, balancing speed, compliance, and stability across Affirm’s distributed systems.
+- Drive operational excellence by improving release processes, incident response practices, and deployment reliability.
+- Partner with engineering and product leadership to identify needs related to deployments and developer productivity.
+- Drive the roadmap for expanding deployment safety and tooling, working closely with CI/CD and adjacent Developer Productivity teams.
+- Shape technical strategy, grow talent, and raise the bar for how distributed systems are released at Affirm.
+
+Requirements / Expected Background
+
+- 7+ years of software engineering experience, with 2+ years in engineering management preferred within DevOps, Release Engineering, or Infrastructure.
+- Experience with release management, CI/CD pipelines, and distributed systems.
+- Background in scalable systems and cloud-native infrastructure.
+- The role is associated in external mirrors with tooling and environments such as AWS, Kubernetes, Terraform, and deployment automation.
+
+Benefits / Notes
+
+External sources associated with the posting referenced health, dental, and vision coverage, employee stock purchase/equity plans, and the usual company compensation caveats. The tracked Greenhouse token URL did not resolve to a live public description page on 2026-04-12, so this local copy is sourced from archived mirrors of the same role.
+
+--- LOCAL SUMMARY ---
+
+Fit:
+Good detour role if the goal is management-at-scale in developer productivity, release governance, and compliance-heavy delivery.
+
+Risk / stretch:
+Compensation is borderline to below floor outside the top band, and it does not directly move title upward.

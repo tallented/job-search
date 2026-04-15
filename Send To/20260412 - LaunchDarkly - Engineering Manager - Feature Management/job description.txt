@@ -1,0 +1,58 @@
+LaunchDarkly - Engineering Manager, Feature Management
+Original source URL: https://boards.greenhouse.io/embed/job_app?token=6563764003
+Fetched on: 2026-04-12
+Source used for local copy: Archived Built In / Greenhouse mirror sources because the tracked Greenhouse embed URL was not a stable public listing page
+Source queue: Review List - 20260412.md
+Lane: Lane 2
+Work model (queue): Remote U.S.
+Compensation (queue): Zone 1 $187K-$240K, Zone 2 $168.2K-$220K, Zone 3 $158.9K-$210K + RSUs
+Listing source (queue): Greenhouse
+
+--- FULL POSTING ---
+
+Company: LaunchDarkly
+Title: Engineering Manager, Feature Management
+Employment Type: Full time
+Location: Remote - U.S. / Remote or Hybrid in some archived listings
+Compensation: Zone 1 $187,000 - $240,000; Zone 2 $168,200 - $220,000; Zone 3 $158,900 - $210,000 base + RSUs
+
+About the Job
+
+LaunchDarkly was hiring a seasoned Engineering Manager to lead and grow a team of talented full-stack engineers in Feature Management. The role balances technical leadership and people management while driving impactful user-facing features and a high-performing engineering culture.
+
+The archived listings described two closely related team variants. The tracked posting focused on the team serving developers and the core experiences they encounter while feature flagging, especially the flag targeting experience central to feature management workflows.
+
+Responsibilities
+
+- Manage the portfolio of the team’s work, assigning people to the highest-priority work.
+- Help the team make design and architectural decisions.
+- Anticipate service growth and keep the owned systems healthy.
+- Participate in a you-build-it-you-run-it culture where developers may support applications in production, including on-call.
+- Lead and mentor a team of full-stack engineers through hiring, coaching, and performance management.
+- Partner with Product and Design to define a roadmap that balances feature delivery, operational health, and bug fixing.
+- Guide architectural decisions and contribute to code reviews and technical designs.
+- Foster a culture of collaboration, ownership, continuous learning, and inclusivity.
+- Help the team understand its mission and how it aligns with business goals.
+- Advocate for the team’s technical needs and ensure alignment with company-wide goals.
+- Stay current with relevant technologies and software development trends and drive adoption where appropriate.
+
+Qualifications
+
+- 2+ years of experience in a formal engineering management role.
+- 5+ years of hands-on experience building modern web applications.
+- Experience guiding technical architecture and growing engineering teams in a fast-paced environment.
+- Ability to track and drive metrics and understand their limits.
+- Excellent communication skills with technical and non-technical stakeholders.
+- A thoughtful, empathetic approach to leadership and collaboration.
+
+Company Context
+
+LaunchDarkly positions its platform as core infrastructure for safer releases, targeted experiences, experimentation, and engineering effectiveness. Archived copies also referenced benefits such as RSUs, health, vision, dental, and mental health coverage.
+
+--- LOCAL SUMMARY ---
+
+Fit:
+Recognizable devtools brand and good management proof in a developer-facing product.
+
+Risk / stretch:
+Compensation is below floor and the scope is less directly aligned with the executive bridge lane.

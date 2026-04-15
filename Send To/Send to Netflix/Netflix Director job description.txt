@@ -1,0 +1,34 @@
+In this role, you will lead a team of talented engineers that build big data pipelines and services using distributed computing tools, such as Spark and Flink. These data pipelines are used to power machine learning models, experimentation, analytics, and dashboards across a variety of growth-related domains, including plans and pricing, identity, signup flow optimization, payments, and partnerships.
+
+You will work closely with a cross-functional team of product engineers, data scientists, and business stakeholders to help grow Netflix. The data your team produces will be used to help directly improve the customer experience and  inform future product strategy.
+ 
+
+Responsibilities
+
+    Provide guidance and mentorship to managers and individual contributors on the team.
+
+    Develop strong relationships with data science, engineering, and business partners, and improve how we leverage data at  Netflix.
+
+    Help nurture the data engineering community at Netflix, which extends beyond your immediate team and requires working with other senior leaders
+
+    Expand your team by attracting diverse talent that can push our technical boundaries.
+
+    Foster an inclusive environment, where all points of view are welcomed and encouraged.
+
+    Be a thoughtful leader, and drive both technical and business priorities and roadmaps.
+
+Specific qualifications
+
+    Many years of experience leading engineering teams that design and build distributed systems, including for real-time and customer-impacting applications
+
+    Experience hiring and mentoring high-caliber, data-focused engineers that have diverse technical strengths and backgrounds.
+
+    High-energy self-starter with a passion for data. You enjoy working in a fast-paced environment.
+
+    Strong business acumen, and interest in contributing to roadmaps and strategy discussions.
+
+    Exceptional communication skills, and can translate technical concepts into easy-to-understand language for business partners. 
+
+    Familiarity with machine learning and/or experimentation (A/B) testing  a plus.
+
+    Experience working in a growth-related domain (e.g. pricing, identity, payments, partnerships) is a plus.

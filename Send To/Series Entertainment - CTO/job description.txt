@@ -1,0 +1,65 @@
+Series Entertainment is looking for a Chief Technology Officer to lead and scale the technical organization behind our next generation of AI-powered entertainment experiences.
+
+Series sits in a unique position between startup velocity and operational maturity. We are a well-capitalized, revenue-generating company with live products and growing teams, while still operating with the speed, ownership, and innovation mindset of a builder-led organization. This role is ideal for a leader who thrives in an environment where foundational decisions still matter and execution has immediate product impact.
+
+The CTO role is primarily a strategic and organizational leadership position. While remaining technically credible and occasionally hands-on, the core responsibility is building strong engineering leadership, setting technical direction, and ensuring our teams are operating at the leading edge of modern development — particularly in AI-enabled workflows.
+
+Reporting to the CEO (currently serving as Interim CTO), this leader will help define how AI transforms the creation of games and interactive entertainment. A central focus will be helping shape and scale Series’ emerging user-generated content and creator platform (RUN) — enabling creators to build games, narrative experiences, and interactive media using AI-powered tools.
+
+The ideal candidate is a strategic technologist and pragmatic operator: someone who elevates teams, modernizes technical approaches, and brings clear perspective on how the next generation of content platforms should be built.
+
+What You’ll Be Responsible For:
+
+Technical Leadership & Strategy
+
+Define and evolve the company’s technical vision in alignment with Series’ AI-first product strategy.
+Establish scalable architecture and engineering practices that support rapid experimentation and long-term growth.
+Act as a technical thought partner to the CEO and executive team.
+Bring informed perspective on the future of creator tools, UGC ecosystems, and AI-assisted content development.
+
+People & Organizational Leadership
+
+Lead, mentor, and scale a multidisciplinary engineering organization through strong technical leadership layers.
+Coach engineering managers and tech leads in running effective, high-performing teams.
+Foster a culture of accountability, collaboration, and continuous improvement.
+Help elevate technical excellence across the company, not just within engineering.
+
+Cross-Functional Partnership
+
+Partner closely with Product, Design, and Operations leadership to align technical execution with product goals.
+Translate product vision into realistic technical roadmaps and delivery plans.
+Ensure strong communication and shared ownership across departments.
+
+AI Innovation & Thought Leadership
+
+Drive adoption of modern AI tools and workflows across engineering and adjacent disciplines.
+Help teams stay current with rapidly evolving AI capabilities and apply them pragmatically.
+Guide experimentation while maintaining product quality and operational stability.
+Act as a thought leader internally on how AI reshapes development velocity and creative possibility.
+
+Execution & Operational Excellence
+
+Improve engineering processes, planning, and delivery predictability.
+Balance speed, quality, and technical sustainability in a startup environment.
+Support hiring strategy and help attract world-class technical talent.
+
+What You Bring to the Table
+
+10+ years of experience in software engineering, including senior leadership roles.
+Proven experience leading engineering teams through growth and organizational scaling.
+Strong track record as a people manager and organizational builder, not solely a technical IC.
+Experience operating as a strategic technology leader within startup or high-growth environments
+Clear point of view on how AI will transform software and content creation workflows
+Experience introducing modern tooling, processes, or platform shifts that materially improved team effectiveness
+Strong communication skills and ability to align technical and non-technical audiences.
+Comfort working in a fast-moving, startup-style environment with evolving priorities.
+
+Bonus Points for:
+
+Experience in games, interactive entertainment, or creator platforms.
+Experience building or scaling UGC or platform ecosystems.
+Experience building AI-enabled consumer products.
+Prior CTO or VP Engineering experience at a startup or scaling company.
+Experience leading distributed or global engineering teams.
+Public technical thought leadership (talks, writing, open-source contributions, etc.).
+

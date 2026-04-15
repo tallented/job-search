@@ -1,0 +1,31 @@
+Confluent - Director, Engineering – Applied AI
+Official posting captured: 2026-04-10
+URL: https://jobs.ashbyhq.com/confluent/ace9673e-c763-4b90-b3d8-616e55131f91
+
+Location: Remote, United States
+Employment Type: Full time
+Department: Business Technology
+Compensation: $322.5K - $387K base + equity
+
+About the Role:
+Most companies are still figuring out where AI fits. At Confluent, the role owns the foundation that turns AI experimentation into durable business execution: agent orchestration platform, LLM gateway, runtime guardrails, audit logging, and lifecycle infrastructure. The role is expected to hire the team, set the architecture, and remain hands-on as a technical contributor while partnering with Sales, Support, Product, Marketing, Finance, and Legal.
+
+What You Will Do:
+- Own and deliver the Applied AI platform layer, including LLM gateway/model routing, agent orchestration, HITL infrastructure, lifecycle management, identity and access controls, runtime guardrails, audit logging, cost governance, and kill-switch infrastructure
+- Build and lead a high-performing Applied AI engineering team
+- Design and ship agent-builder capabilities from no-code tooling to higher-complexity programmatic frameworks
+- Partner with business and functional leaders to translate workflow acceleration goals into platform requirements
+- Establish the risk and reliability posture for agent workloads, including runtime security, escalation thresholds, override monitoring, and compliance controls
+
+What You Will Bring:
+- 5+ years of engineering leadership with production-grade platform, developer tooling, or internal application systems
+- Strong platform-design and distributed-systems depth
+- Experience serving users with varying technical sophistication
+- Experience with AI-assisted development practices and tooling
+- Ability to translate ambiguous business problems into clear platform requirements and roadmaps
+
+What Gives You an Edge:
+- Internal AI platforms or developer tooling in enterprise SaaS / AI-native environments
+- Familiarity with agent orchestration frameworks and LLM gateway/routing patterns
+- Security, compliance, or audit-heavy environments
+- No-code / low-code builder surfaces with shared programmatic APIs

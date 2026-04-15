@@ -1,0 +1,32 @@
+Source: LinkedIn role shared by user (`https://www.linkedin.com/jobs/view/principal-software-engineer-at-zillow-4338784782`) with job text captured from mirror search results on 2026-03-30 because LinkedIn blocks direct extraction in this environment.
+
+Title: Principal Software Engineer
+Company: Zillow
+Location: Remote (U.S.)
+
+About the team
+Zillow Group is on a mission to revolutionize the real estate process, making it easier for buyers, sellers, and renters to find, finance, and move into their dream home. Our Mortgage engineering team is central to this mission, connecting and streamlining every step of the real estate journey. As part of the ZHL platform group, we develop and support key mortgage technology solutions, such as task management and workflow tools, that power customer experiences, operator tools, marketing, and analytics. Our backend developers are transforming lending systems to deliver a unified, joyful experience for all our customers.
+
+About the role
+As a Principal Software Development Engineer, you will play a pivotal role in leading end-to-end project delivery and ongoing support. Your work will directly impact the future of Zillow’s mortgage technology, helping to shape innovative solutions that simplify the real estate transaction for millions. You’ll have the opportunity to influence technical direction, mentor others, and collaborate across teams to create a seamless, trustworthy experience for customers.
+
+You will get to:
+- Lead the design and implementation of new features and the future vision for ZHL’s mortgage technology.
+- Review code and architectural proposals from peers to ensure high standards and scalability.
+- Advocate for engineering best practices and facilitate technical discussions.
+- Mentor and support engineers at all levels, fostering growth and knowledge sharing.
+- Collaborate with cross-functional teams, including product managers and analysts, on high-impact projects.
+- Work with technologies including Go, Java, C#, NodeJS, and relational and non-relational databases.
+
+Who you are
+- 8+ years of software development experience with strong proficiency in Go, Java, C#, NodeJS, or similar languages for backend web services.
+- Skilled at collaborating with engineers, product managers, and analysts to deliver critical projects.
+- Passionate about engineering, distributed systems, and driving technical excellence.
+- Excellent interpersonal and communication skills, with a track record of effective cross-team collaboration.
+- Experienced in mentoring, coaching, and onboarding teammates.
+- Comfortable translating informal customer requirements into clear problem definitions and solutions.
+- Mortgage-industry experience is a plus.
+
+Compensation
+- CA/CT/MD/MA/NJ/NY/WA/DC: $191,300 - $305,700 base
+- CO/HI/IL/MN/NV/OH/RI/VT: $181,800 - $290,400 base

@@ -1,0 +1,36 @@
+ About the job
+
+Today, we’re tapping into the unlimited potential of AI to define the next era of computing. An era in which our GPU acts as the brains of computers, robots, and self-driving cars that can understand the world. Doing what’s never been done before takes vision, innovation, and the world’s best talent. As an NVIDIAN, you’ll be immersed in a diverse, supportive environment where everyone is inspired to do their best work. Come join the team and see how you can make a lasting impact on the world.
+
+At NVIDIA, we are seeking a dedicated Principal Cloud Software Engineer to join our ambitious team. This outstanding opportunity will allow you to reshape the future of GPU Cloud computing and contribute to groundbreaking projects in the fields of Deep Learning and AI. You will decide how we effectively implement creative solutions that compete on a global scale, all while working in an encouraging, inclusive environment.
+
+What You'll Be Doing
+
+    Architect, build, plan, implement, and operate complex PaaS for GPU cloud services.
+    Drive the underlying technology stack and implementation methodology.
+    Work closely with collaborators, customers, UX/UI designers, and front-end engineers on developing new products or enhancing existing features.
+    Ensure consistency across modules and/or products within the team.
+    Champion the adoption of development practices that prioritize testing, including advancing test automation and CI/CD.
+    Maintain a customer-centric approach by supporting, maintaining, and detailing software functionality.
+
+What We Need To See
+
+    BS/MS in Computer Science or equivalent experience with 15+ years of hands-on experience building complex services.
+    Strong knowledge and experience in OOP concepts and Build Patterns, with in-depth experience in crafting and composing complex, large-scale back-end systems.
+    Expertise in core Java, including Collections API, Streams API, Concurrency, and I/O.
+    Proficiency in RDBMS and NoSQL databases such as Cassandra, DynamoDB, and Redis.
+    Deep understanding of HTTP REST API, gRPC, security, and networking, along with a good grasp of API development influenced by UX/UI/CLI requirements.
+    Ability to drive pragmatic technical discussions towards practical solutions that are clean, reusable, testable, and extensible.
+    Dedication to collaborative development approaches, with the capability to impact daily operations across teams and collaborators.
+    Strong debugging skills to pinpoint underlying issues and enhance the technology stack, working closely with colleagues and team members like DevSecOps and SRE or those with equivalent experience.
+    Strong verbal and written communication abilities, with a demonstrated history of being a standout colleague.
+
+Ways To Stand Out From The Crowd
+
+    Operational experience with large-scale web applications.
+    Expertise in Java, Spring Boot, Golang, Gatling, Python, Kubernetes, and Docker.
+    Familiarity with InfluxDB, Cassandra, RDS, Elasticsearch, Solr, and Splunk.
+    Comfort working with one or more cloud providers: AWS, GCP, or Azure.
+    Ability to excel in a dynamic, highly interactive environment, driving team success.
+
+NVIDIA is widely considered to be one of the technology world’s most desirable employers. We work with some of the most innovative technologies and forward-thinking, hardworking people in the world. If you are a great teammate who is inquisitive, innovative, driven to succeed, and autonomous, we want to hear from you! Join us to help accelerate the next wave of artificial intelligence!

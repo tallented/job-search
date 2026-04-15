@@ -1,0 +1,10 @@
+Short referral blurb (for internal referral form)
+
+Chris Tallent is a Principal Engineer / hands-on CTO with 20+ years building and modernizing backend platforms and distributed systems (Java, TypeScript/Node, AWS, relational + non-relational DBs). He’s led end-to-end delivery and operational support, driven architectural reviews and engineering standards, and mentored engineers across teams.
+
+Relevant to Zillow Mortgage: he’s built workflow-heavy, configuration-driven platforms, modernized legacy fintech systems to cloud-native services with strong uptime/reliability, and has direct real-estate platform experience (AI-enabled real estate management PaaS). Strong fit for leading backend feature delivery, raising engineering quality, and partnering tightly with product/analytics on high-impact work.
+
+Short DM to your contact
+
+Hey [Name], I’m applying for a Principal SDE role in Zillow Mortgage (remote). It’s a backend platform/workflow-focused role (Go/Java/C#/Node). Would you be open to referring me or pointing me to the hiring manager/recruiter? I can send a 1-page summary of fit, but the quick version is: distributed systems + modernization + real-estate/fintech domain, and I’ve led end-to-end delivery and mentored teams at the Principal/CTO level.
+

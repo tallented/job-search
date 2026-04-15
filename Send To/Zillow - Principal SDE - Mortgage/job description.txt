@@ -1,0 +1,51 @@
+About the team
+Zillow Group is on a mission to revolutionize the real estate process, making it easier for buyers, sellers, and renters to find, finance, and move into their dream home. Our Mortgage engineering team is central to this mission, connecting and streamlining every step of the real estate journey. As part of the ZHL platform group, we develop and support key mortgage technology solutions—such as task management and workflow tools—that power customer experiences, operator tools, marketing, and analytics. Our backend developers are transforming lending systems to deliver a unified, joyful experience for all our customers.
+
+About the role
+
+As a Principal Software Development Engineer, you will play a pivotal role in leading end-to-end project delivery and ongoing support. Your work will directly impact the future of Zillow’s mortgage technology, helping to shape innovative solutions that simplify the real estate transaction for millions. You’ll have the opportunity to influence technical direction, mentor others, and collaborate across teams to create a seamless, trustworthy experience for our customers.
+
+As a Principal Software Development Engineer, You Will Get To:
+
+    Lead the design and implementation of new features and the future vision for ZHL’s mortgage technology.
+
+    Review code and architectural proposals from peers to ensure high standards and scalability.
+
+    Advocate for engineering best practices and facilitate technical discussions.
+
+    Mentor and support engineers at all levels, fostering growth and knowledge sharing.
+
+    Collaborate with cross-functional teams, including product managers and analysts, on high-impact projects.
+
+    Participate in an inclusive, energetic, and highly collaborative team environment.
+
+    Work with a range of technologies, including Go, Java, C#, NodeJS, and both relational and non-relational databases.
+
+This role has been categorized as a Remote position. “Remote” employees do not have a permanent corporate office workplace and, instead, work from a physical location of their choice, which must be identified to the Company. U.S. employees may live in any of the 50 United States, with limited exceptions.
+
+In California, Connecticut, Maryland, Massachusetts, New Jersey, New York, Washington state, and Washington DC the standard base pay range for this role is $191,300.00 - $305,700.00 annually. This base pay range is specific to these locations and may not be applicable to other locations.
+
+In Colorado, Hawaii, Illinois, Minnesota, Nevada, Ohio, Rhode Island, and Vermont the standard base pay range for this role is $181,800.00 - $290,400.00 annually. The base pay range is specific to these locations and may not be applicable to other locations.
+
+In addition to a competitive base salary this position is also eligible for equity awards based on factors such as experience, performance and location. Actual amounts will vary depending on experience, performance and location. Employees in this role will not be paid below the salary threshold for exempt employees in the state where they reside.
+
+Who you are
+
+    8+ years of software development experience with strong proficiency in Go, Java, C#, NodeJS, or similar languages for backend web services.
+
+    Skilled at collaborating with engineers, product managers, and analysts to deliver critical projects.
+
+    Passionate about engineering, distributed systems, and driving technical excellence.
+
+    Excellent interpersonal and communication skills, with a track record of effective cross-team collaboration.
+
+    Experienced in mentoring, coaching, and onboarding teammates.
+
+    Comfortable translating informal customer requirements into clear problem definitions and solutions.
+
+    Holds a degree in Computer Science or a related technical field, or has equivalent work experience.
+
+    Experience in the mortgage industry and familiarity with relevant tools and applications is a plus.
+
+    Here at Zillow, we value the experience and perspective of candidates with non-traditional backgrounds. We encourage you to apply if you have transferable skills or related experiences.
+

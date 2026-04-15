@@ -1,0 +1,34 @@
+Docker - Principal Software Engineer, AI Tools and Security (US West Coast)
+Official posting captured: 2026-04-10
+URL: https://jobs.ashbyhq.com/docker/a8adff9c-a58c-4881-95a2-b32115e375b3
+
+Location: Seattle, WA
+Employment Type: Full time
+Location Type: Remote
+Department: Engineering
+Compensation: US Salary Range $232K - $319K + equity
+
+Role Summary:
+Docker's AI Tools & Security team is building secure, developer-friendly AI infrastructure. The flagship product is the MCP Gateway, intended to help developers connect, observe, and secure AI agents and tools across the lifecycle from prototype to production. The role is for a principal backend engineer operating at the intersection of AI, security, and developer experience.
+
+Responsibilities:
+- Define the technical solution for a new product
+- Shape the product with Product and Design peers
+- Mentor technical team members
+- Serve as the technical point of contact for the team
+- Participate in on-call rotation, respond to incidents, debug production issues, and improve reliability
+
+Required Qualifications:
+- 10+ years of backend engineering with production-grade distributed systems
+- Technical leadership across multiple teams or domains
+- Product and platform mindset
+- Expertise in large-scale cloud-native systems, distributed computing, service-oriented architecture, and performance optimization
+- Experience building secure, resilient, high-throughput backend services with SLOs, observability, and incident response
+- Fluency in Go (preferred) or another modern systems language
+- Strong CI/CD, testing, source control, and deployment automation experience
+- Experience with cloud platforms and infrastructure-as-code
+- Strong mentorship, communication, and remote autonomy
+
+Bonus:
+- Kubernetes, Docker, and microservices architecture
+- Prior experience with OpenAI, Anthropic, or similar LLM APIs, and the MCP specification

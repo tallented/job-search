@@ -1,0 +1,40 @@
+The New York Times - VP of Engineering, Wirecutter
+Source: https://job-boards.greenhouse.io/thenewyorktimes/jobs/4680093005
+Req: REQ-019915
+
+Location:
+- New York, NY; Remote - USA
+- Posting notes a preference for candidates in the New York City area
+
+Compensation:
+- $300,000 - $325,000 USD base
+- Eligible for bonus and restricted stock depending on role
+
+About the role:
+- Lead the next chapter of Wirecutter's digital platform evolution in the era of AI
+- Shape how the organization builds and ships product
+- Help millions of readers make smarter decisions about shopping and product use
+- Report to the Deputy Publisher
+
+Responsibilities:
+- Lead 40+ engineers and their managers
+- Foster an inclusive culture and attract/retain talent
+- Drive ambitious feature delivery and rigorous experimentation
+- Lead Wirecutter's technical AI strategy for both internal processes and consumer-facing product
+- Build systems and team processes that can scale for peak demand moments
+- Mature development workflows and platforms, incorporating modern technology, AI capabilities, and shared Times standards where appropriate
+- Help shape engineering strategy, P&L thinking, and overall function performance
+- Partner closely with product, editorial, and technology teams across NYT
+- Translate Wirecutter goals into clear purpose and deliverables
+
+Basic qualifications:
+- 10+ years of relevant experience
+- Experience leading multi-layered engineering organizations, including managers and directors
+- Experience in both fast-moving and more structured environments
+- Strong point of view on AI-augmented engineering and AI-powered product features
+- Strong change-management ability
+- Proven delivery instincts and experimentation mindset
+- Full-stack technical fluency, including some of: AWS, JavaScript (React, Next.js), Node.js, Apollo, GraphQL, MySQL, Go, Elasticsearch, PHP/Laravel
+- Internal platform experience
+- Experience with distributed teams
+- Comfort with complexity, coalition-building, and large-organization tradeoffs

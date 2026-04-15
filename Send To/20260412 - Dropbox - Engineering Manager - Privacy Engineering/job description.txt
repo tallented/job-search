@@ -1,0 +1,64 @@
+Dropbox - Engineering Manager, Privacy Engineering
+Original source URL: https://boards.greenhouse.io/embed/job_app?token=7256197
+Fetched on: 2026-04-12
+Source used for local copy: Archived Accel / Built In / Employbl mirror sources because the tracked Greenhouse embed URL was not a stable public listing page
+Source queue: Review List - 20260412.md
+Lane: Lane 2
+Work model (queue): Remote U.S.
+Compensation (queue): US Zone 2 $195.8K-$265K, US Zone 3 $174.1K-$235.5K
+Listing source (queue): Greenhouse
+
+--- FULL POSTING ---
+
+Company: Dropbox
+Title: Engineering Manager, Privacy Engineering
+Employment Type: Full time
+Location: United States - Remote (Zones 2 and 3)
+Compensation: US Zone 2 $195,800 - $265,000 USD; US Zone 3 $174,100 - $235,500 USD; equity/RSUs included in total package
+
+Role Description
+
+Dropbox is looking for an Engineering Manager to lead its Privacy Engineering team. The role leads a team of 5-7 engineers building privacy-first infrastructure, automation, and user-facing controls that safeguard customer data and support trust and compliance.
+
+The team works on systems such as:
+
+- Data subject request (DSR) processing
+- Data classification
+- Preference management / cookie consent
+- Privacy settings
+
+The role also helps evolve Dropbox’s AI-era privacy posture by leveraging automation and machine learning to anticipate risks and prevent privacy-invasive events.
+
+This position sits at the intersection of Engineering, Legal, Security, and Product, and partners with those stakeholders to embed privacy into the foundation of Dropbox products while proactively supporting compliance with global privacy regulations.
+
+Responsibilities
+
+- Grow and develop a high-performing team of engineers with strong ownership and impact expectations.
+- Build a healthy, collaborative culture aligned with Dropbox values.
+- Ensure the team delivers strong output and continuously seeks outsized impact.
+- Set direction for the team and anticipate strategic and scaling challenges through long-term planning.
+- Help craft technical and product strategy.
+- Participate in or manage services with on-call expectations where applicable.
+
+Requirements
+
+- BS, MS, or PhD in Computer Science or related technical field, or equivalent technical experience.
+- Minimum of 8 years of industry experience as a software developer.
+- 3+ years of experience managing engineering teams.
+- Experience implementing or leading efforts around data minimization, differential privacy, data subject rights, and secure data architecture.
+
+Technology / Team Notes
+
+Archived mirrors referenced technologies including Python, React, Node.js, JavaScript, MongoDB, PostgreSQL, and Android development across Dropbox engineering more broadly.
+
+Benefits / Notes
+
+Archived sources referenced the standard Dropbox benefits package, including flexible PTO, health coverage, 401(k) matching, parental benefits, wellness benefits, and equity/RSUs. The original tracked Greenhouse token URL was not a stable public archival page on 2026-04-12.
+
+--- LOCAL SUMMARY ---
+
+Fit:
+Strong brand, privacy/compliance story, and credible management-at-scale proof.
+
+Risk / stretch:
+Cash is below floor in most geographies, and this is a management detour rather than a director-level bridge.

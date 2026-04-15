@@ -1,0 +1,29 @@
+Source date: 2026-03-31
+Official role URL: https://explore.jobs.netflix.net/careers/job/790313193672-engineering-manager-launch-readiness-usa-remote?domain=netflix.com&microsite=netflix.com
+Mirror used to capture text: https://www.builtinsf.com/job/engineering-manager-launch-readiness/8294086
+
+Title: Engineering Manager - Launch Readiness
+Company: Netflix
+Location: Remote (Hiring in USA)
+Compensation: $436,000 - $710,000 annual salary
+
+Team summary:
+The Title and Launch Management (TLM) team builds the technology foundations that enable ingest, setup, launch, and global distribution of entertainment across series, movies, games, ads, live events, trailers, and more. The Launch Readiness team monitors delivery status, identifies and escalates risks, and recommends and implements remediations using deterministic business rules and agentic solutions in partnership with data science and other engineering teams.
+
+Role focus:
+- Partner with product managers, launch operations, designers, engineers, and other leaders to drive product vision, strategy, and adoption.
+- Foster accountability and timely, reliable roadmap delivery.
+- Act as a trusted technical advisor in ambiguous situations.
+- Connect work across teams and prioritize beyond the immediate domain.
+- Balance business goals with strong engineering practices and continuous improvement.
+- Hire, coach, and lead Backend and UI engineers.
+- Build inclusive culture and strong stakeholder communication.
+
+Desired background:
+- 3+ years building and managing high-performing, inclusive teams.
+- Experience building generative AI solutions in ambiguous environments.
+- Experience delivering and operating highly reliable, enterprise-grade products and services, including 24x7 on-call support.
+- Strong product mindset with ability to define and communicate product vision.
+- Proven cross-functional collaboration and influence.
+- Use of KPIs and leading indicators to monitor and improve system health.
+- Nice to have: distributed systems experience and experience leading teams with both Backend and UI/UX engineers.
