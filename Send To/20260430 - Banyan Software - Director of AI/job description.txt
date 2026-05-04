@@ -1,0 +1,38 @@
+Original source URL: https://job-boards.greenhouse.io/banyansoftware/jobs/5119349007
+Retrieved: 2026-04-30
+
+Banyan Software - Director of AI
+AI Factory - Application Modernization Program
+
+Department: AI Factory - Banyan Software
+Reports To: VP of Engineering
+Location: Remote (US-based preferred, 4+ hrs overlap US Eastern)
+Type: Full-Time
+Direct Reports: Forward Deployed Engineers, Project Manager / Scrum Master
+Travel: Up to 15% (operating company site visits as needed)
+Compensation: $250,000-$300,000 base, excluding annual bonus and equity when applicable
+
+Role notes:
+- Lead Banyan's centralized AI Factory program for application modernization across 100+ operating companies.
+- Modernize 15-25 year-old codebases into cloud-native, mobile-first, always-on SaaS platforms.
+- Use AI-powered discovery, verification-first engineering, and an integrated delivery model to rewrite legacy applications in 15-25 weeks versus traditional 2-5 year efforts.
+- Own program strategy, delivery cadence, forward-deployed engineering, cloud operations, platform automation, stakeholder alignment, and executive communication.
+- Build and scale the FDE team from scratch, author the engagement playbook, and personally run early transformations as a player-coach.
+- Oversee multi-cloud architecture, CI/CD automation, observability, security, resiliency, and DevSecOps practices.
+- Define and track KPIs, velocity metrics, and business-value outcomes for OpCo CEOs, CTOs, product leaders, Banyan's VP Engineering, and executive leadership.
+- Drive the MACROSS framework: Maintainability, Adaptability, Cost Accountability, Reliability, Observability, Scalability, Security.
+
+Required:
+- 10+ years progressive software engineering experience, with at least 3 years spanning technical delivery and program management.
+- Application modernization, re-platforming, or digital transformation experience, ideally across multiple products or companies.
+- Ability to embed with or lead cross-functional engineering teams without formal authority.
+- Hands-on cloud-native architecture experience with AWS, Azure, or GCP, CI/CD, IaC, and DevSecOps.
+- Experience building teams, processes, and playbooks from scratch in startup-like environments.
+- Strong executive communication and C-level stakeholder presentation experience.
+
+Preferred:
+- Forward-deployed engineering, professional services, or embedded consulting.
+- Private equity portfolio operations, multi-entity software, or vertical-market software.
+- AI-assisted development tools such as Cursor, Claude Code, GitHub Copilot, or agent-based development.
+- Legacy application assessment, strangler-fig patterns, or monolith-to-microservices transformations.
+- Agile coaching or program management background.

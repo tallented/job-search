@@ -62,6 +62,8 @@ NS = (
     'mc:Ignorable="w14 w15 w16se w16cid w16 w16cex w16sdtdh w16sdtfl w16du wp14"'
 )
 
+DEFAULT_FONT_RPR = '<w:rFonts w:ascii="Calibri" w:hAnsi="Calibri" w:cs="Calibri"/>'
+
 SECT_PR = (
     '<w:sectPr w:rsidR="00565ADA" w:rsidSect="00034616">'
     '<w:pgSz w:w="12240" w:h="15840"/>'
@@ -118,10 +120,12 @@ def p(text: str, style: str | None = None, center: bool = False, italic: bool = 
         props.append(f"<w:spacing {' '.join(attrs)}/>")
     if center:
         props.append('<w:jc w:val="center"/>')
+    props.append(f"<w:rPr>{DEFAULT_FONT_RPR}</w:rPr>")
     ppr = f"<w:pPr>{''.join(props)}</w:pPr>" if props else "<w:pPr/>"
-    run_props = ""
+    run_props_parts = [DEFAULT_FONT_RPR]
     if italic:
-        run_props = "<w:rPr><w:i/><w:iCs/></w:rPr>"
+        run_props_parts.append("<w:i/><w:iCs/>")
+    run_props = f"<w:rPr>{''.join(run_props_parts)}</w:rPr>"
     return (
         "<w:p>"
         f"{ppr}"
@@ -427,9 +431,9 @@ def exec_experiences(ai: bool = True, security: bool = False) -> list[Experience
     pitchstone = PITCHSTONE_SECURITY if security else PITCHSTONE_AI
     proven_edge = PROVEN_EDGE_PLATFORM if security else PROVEN_EDGE_AI
     return [
-        Experience("Chief Technology Officer & Principal Engineer | Pitchstone Technology LLC", "Seattle, WA • February 2021 – Present", list(pitchstone)),
+        Experience("Chief Technology Officer & Lead Architect | Pitchstone Technology LLC", "Seattle, WA • February 2021 – Present", list(pitchstone)),
         Experience("Chief Technology Officer | Automobile Consumer Services Inc", "Cincinnati, OH • July 2016 – February 2021", list(ACS_CORE)),
-        Experience("Fractional CTO & Principal Engineer | Proven Edge LLC", "Fort Thomas, KY • November 2015 – Present", list(proven_edge)),
+        Experience("Fractional CTO & Lead Architect | Proven Edge LLC", "Fort Thomas, KY • November 2015 – Present", list(proven_edge)),
         Experience("Technical Co-Founder & Chief Technology Officer | Glamhive", "Seattle, WA • November 2013 – November 2015", list(GLAMHIVE_CORE)),
         Experience("Chief Technology Officer | Lela.com", "New York, NY • November 2011 – May 2014", list(LELA_CORE)),
     ]
@@ -437,7 +441,7 @@ def exec_experiences(ai: bool = True, security: bool = False) -> list[Experience
 
 def management_experiences() -> list[Experience]:
     return [
-        Experience("Chief Technology Officer & Principal Engineer | Pitchstone Technology LLC", "Seattle, WA • February 2021 – Present", [
+        Experience("Chief Technology Officer & Lead Architect | Pitchstone Technology LLC", "Seattle, WA • February 2021 – Present", [
             "Built Docker Compose-based local developer environments with anonymized data refresh, cutting update time from 3+ hours to 45 minutes and improving environment parity.",
             "Defined AWS account structure, RBAC, IAM Identity Center permission sets, and access boundaries across five AWS accounts while leading ISO 27001 controls and vulnerability remediation.",
             "Restructured CI/CD automation and optimized ECS infrastructure, reducing non-production costs by 35–40% while improving deployment reliability.",
@@ -449,7 +453,7 @@ def management_experiences() -> list[Experience]:
             "Implemented CI/CD pipelines with Bitbucket Pipelines and GitHub Actions, shortening deployment cycles from weeks to hours through Kubernetes rolling updates and safer rollback strategies.",
             "Designed a JSON-driven configuration system for dealer-specific workflows and UI behavior without per-client code forks.",
         ]),
-        Experience("Fractional CTO & Principal Engineer | Proven Edge LLC", "Fort Thomas, KY • November 2015 – Present", [
+        Experience("Fractional CTO & Lead Architect | Proven Edge LLC", "Fort Thomas, KY • November 2015 – Present", [
             "Built Model Context Protocol (MCP)-integrated agent tooling on top of an internal application scaffold, enabling bounded admin actions through typed APIs.",
             "Deployed CI/CD pipelines with container orchestration (Docker Compose / ECS) to improve staging-production parity and release confidence.",
             "Built a reusable multi-platform application scaffold spanning web, mobile, desktop, API, and AI services with OIDC auth, RBAC, billing, and notifications.",
@@ -462,7 +466,7 @@ def management_experiences() -> list[Experience]:
 
 def principal_experiences() -> list[Experience]:
     return [
-        Experience("Chief Technology Officer & Principal Engineer | Pitchstone Technology LLC", "Seattle, WA • February 2021 – Present", [
+        Experience("Chief Technology Officer & Lead Architect | Pitchstone Technology LLC", "Seattle, WA • February 2021 – Present", [
             "Architected an AI-enabled, configuration-driven platform on AWS (ECS, Lambda, Bedrock, Textract, RDS/Aurora, S3), exposing secure APIs for document and knowledge workflows.",
             "Built Model Context Protocol (MCP)-adjacent agent tooling and bounded workflow automation patterns that connect LLMs to typed APIs and structured data.",
             "Built AI-assisted modernization workflows with Claude Code for upgrades and unit-test generation, reducing delivery cycles from 4 months to 3 weeks.",
@@ -474,7 +478,7 @@ def principal_experiences() -> list[Experience]:
             "Implemented CI/CD pipelines with Bitbucket Pipelines and GitHub Actions, shortening deployment cycles from weeks to hours through Kubernetes rolling updates and safer rollback strategies.",
             "Designed a JSON-driven configuration system for dealer-specific workflows and UI behavior without per-client code forks.",
         ]),
-        Experience("Fractional CTO & Principal Engineer | Proven Edge LLC", "Fort Thomas, KY • November 2015 – Present", [
+        Experience("Fractional CTO & Lead Architect | Proven Edge LLC", "Fort Thomas, KY • November 2015 – Present", [
             "Built Model Context Protocol (MCP)-integrated agent tooling on top of an internal multi-platform application scaffold and Entity Engine, enabling LLM-driven tools to query structured entity data and perform bounded admin actions through typed APIs.",
             "Implemented generative search over help docs using chunking, embeddings, and a Python vector store, grounding responses in linked source documentation.",
             "Built a reusable multi-platform application scaffold across web, mobile, desktop, API, and AI services, with typed APIs, OIDC auth, RBAC, billing, documents, notifications, and RAG support.",

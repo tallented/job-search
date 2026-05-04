@@ -1,6 +1,6 @@
 # LinkedIn Profile Updates - 20260414
 
-Last updated: 2026-04-14
+Last updated: 2026-04-20
 
 This captures the LinkedIn positioning changes implied by the recent search strategy work, so they do not get lost again.
 
@@ -34,16 +34,20 @@ What the profile should not say implicitly:
 
 ## Recommended Headline
 
-Default headline:
+Recommended default headline:
 
-`Fractional CTO | Engineering Executive | Product & Application Engineering | Greenfield + Modernization | Cloud + AI`
+`Engineering Executive | Product & Application Engineering | Greenfield + Modernization | Cloud + AI`
 
-Why this is the best default:
+Why this is the best default now:
 
-- keeps the current truth of the fractional work
-- keeps you in the executive lane
+- keeps you in the executive lane without making the profile feel narrower than the actual search
 - leads with product / application engineering instead of security
-- still leaves room for cloud + AI differentiation
+- leaves room for cloud + AI differentiation
+- avoids reading like you are claiming a current full-time `CTO` seat when the current role is fractional
+
+Use this if you want the headline to reflect the current consulting truth more explicitly:
+
+- `Fractional CTO | Engineering Executive | Product & Application Engineering | Greenfield + Modernization | Cloud + AI`
 
 Good alternates:
 
@@ -59,21 +63,28 @@ Avoid:
 
 - `Vice President Engineering` if that title is not actually held
 - `Principal Engineer` as the default headline
+- bare `CTO` as the default unless you intentionally want a more aggressive exec signal
 - making `security`, `identity`, or `corporate engineering` the first thing people see
 
 ## About Section
 
-Recommended draft:
+Recommended draft after voice pass:
 
-I’m a hands-on engineering executive with 20+ years building and modernizing software products at inflection points. The through-line in my career is pretty consistent: greenfield product builds, legacy application modernization, and scaling engineering teams around customer-facing software that actually has to ship and operate reliably.
+I’m a hands-on engineering executive with 20+ years building new software products, modernizing older systems, and helping teams ship customer-facing software that has to work in the real world.
 
-I’m strongest when a company needs someone who can move between product, architecture, delivery, and team leadership without losing the thread. I’ve taken products from wireframes to MVP, rebuilt delivery systems around struggling teams, modernized older stacks, and led organizations through cloud, compliance, and operational step-ups.
+Most of my work has followed a few recurring patterns: greenfield product builds, legacy application modernization, delivery reset work, and the mix of product, architecture, and team leadership that shows up when a company is at an inflection point.
 
-At Glamhive, I was the technical co-founder and led architecture and engineering from early product work through launch. At Automobile Consumer Services, I stepped into a legacy environment, modernized the stack and development process, and delivered a new MVP in time for a critical conference milestone. At Pitchstone, I scaled engineering from 6 to 35 across four agile teams, led architecture and compliance work, reduced non-production cloud spend by 35-40%, and used AI-assisted modernization to cut one major delivery effort from 4 months to 3 weeks.
+I’ve been the technical co-founder who built the first MVP before there was funding to hire a team. I’ve stepped into legacy environments, rebuilt the stack and delivery model, and shipped new platforms under hard launch deadlines. I’ve scaled engineering from 6 to 35 across four teams, improved morale and retention, reduced non-production cloud spend by 35-40%, and used AI-assisted modernization to cut one major effort from 4 months to 3 weeks.
 
 More recently, I’ve been focused on practical AI in both product and engineering workflows: RAG-based knowledge tools, document extraction with Textract and Comprehend, MCP-integrated tooling, governed agentic admin workflows, and AI-assisted development patterns that connect LLMs to typed APIs and structured application data.
 
-I’m currently most interested in leading product or application engineering organizations, especially where there is greenfield work, major modernization, workflow-heavy SaaS, or a need to improve how engineering actually executes.
+I’m most interested in leading product or application engineering organizations, especially where there is greenfield work, major modernization, workflow-heavy SaaS, or a need to improve how engineering actually executes.
+
+Voice notes:
+
+- Keep this section plainspoken and direct.
+- If a phrase sounds like polished consultant copy, simplify it.
+- Avoid phrasing like `through-line`, `without losing the thread`, or `operational step-ups` unless it genuinely sounds like you.
 
 ## Experience Changes
 
@@ -95,10 +106,10 @@ Recommended emphasis in the current-role description:
 
 Suggested bullets / description points:
 
-- Built an internal multi-platform application scaffold spanning web, mobile, desktop, API, and AI services, with OIDC auth, RBAC, billing, documents, notifications, and webhooks to accelerate new product delivery.
-- Built a governed agentic admin assistant for natural-language user management, job-queue operations, and system health through existing APIs, with confirmation-gated actions and preserved RBAC / audit logging.
-- Architected and delivered a React / Next.js / Prisma legal SaaS MVP under aggressive launch timing.
-- Directed architecture, development, and DevOps across multiple clients, reducing implementation cost by as much as 50% while improving delivery predictability.
+- Built an internal application scaffold across web, mobile, desktop, APIs, and AI services so new products start with auth, billing, documents, notifications, and admin workflows already in place.
+- Built MCP-integrated tooling and a governed admin assistant that let AI tools work through typed APIs with confirmation gating, RBAC, audit logging, and existing system controls still intact.
+- Architected and delivered a React / Next.js / Prisma legal SaaS MVP on a compressed launch timeline.
+- Led architecture, delivery, and DevOps across multiple clients, cutting implementation cost by up to 50% while making delivery more predictable.
 
 ### Pitchstone
 
@@ -107,18 +118,21 @@ This should be one of the strongest sections on LinkedIn.
 Lead with:
 
 - scaled engineering from `6` to `35`
+- morale reset from `2/5` to `5/5`
 - AI-assisted modernization from `4 months` to `3 weeks`
 - `35-40%` non-production cost reduction
 - ISO 27001 / security / audit rigor
 - T-Mobile product / IT / cybersecurity coordination
+- platform and workflow support for roughly `15,000` retail locations
 
 Suggested bullets / description points:
 
-- Scaled engineering from 6 to 35 across four agile teams while improving morale, retention, and delivery structure.
-- Led architecture for an AI-enabled real estate platform and partnered with T-Mobile product owners, IT, cybersecurity, and management on roadmap priorities, APIs, technical risk, and cross-team workflow coordination.
-- Spearheaded AI-assisted modernization using Claude Code, cutting one major delivery effort from 4 months to 3 weeks.
-- Reduced non-production cloud spend by 35-40% through cluster consolidation and infrastructure cleanup.
-- Directed ISO 27001 security compliance, audits, penetration testing, and remediation.
+- Scaled engineering from 6 to roughly 35 across four agile teams, improving delivery cadence, retention, and morale from 2/5 to 5/5.
+- Served as CTO and lead architect for Pitchstone Platform, wrote the first version, then handed day-to-day implementation to teams while keeping ownership of architecture, cloud/security design, and technical standards.
+- Partnered with T-Mobile product, IT, networking, and cybersecurity teams on roadmap priorities, APIs, technical risk, and cross-team workflows supporting a retail build/store-planning process across roughly 15,000 locations.
+- Built practical AI capabilities including a Bedrock knowledge prototype, lease and LOI extraction with Textract and Comprehend plus user review, and AI-assisted modernization with Claude Code that cut one effort from 4 months to 3 weeks.
+- Reduced non-production cloud spend by 35-40% through cluster consolidation and environment cleanup.
+- Led ISO 27001 technical compliance, audits, penetration testing, and remediation through certification and recertification.
 
 ### Automobile Consumer Services
 
@@ -135,10 +149,10 @@ Lead with:
 Suggested bullets / description points:
 
 - Led technology transformation for a fintech organization, modernizing both the stack and the development process.
-- Built a new automotive fintech platform on AngularJS, Java, Spring MVC, PostgreSQL, Docker, and Kubernetes on AWS.
+- Rebuilt a legacy PHP platform into Angular and Java services on AWS using Docker and Kubernetes, improving scalability and uptime to 99.99%.
 - Introduced CI/CD and agile delivery, reducing deployment cycles from weeks to hours.
-- Delivered the NADA 2017 proof of concept in two months.
-- Migrated legacy PHP systems to AWS Kubernetes clusters, improving scalability and uptime to 99.99%.
+- Delivered the NADA 2017 proof of concept in two months so the team could validate the MVP on the conference floor.
+- Migrated legacy systems with zero-downtime patterns instead of a risky big-bang cutover.
 
 ### Glamhive
 
@@ -147,16 +161,19 @@ Keep this because it is still one of the best halo signals.
 Lead with:
 
 - technical co-founder
+- sole-engineer founder build before funding
 - wireframes to MVP
 - Seattle Angel Conference
 - distributed team building
 
 Suggested bullets / description points:
 
-- Technical co-founder who led architecture and engineering from early wireframes through MVP and launch.
+- Technical co-founder who built the first MVP end to end and launched the first production version on AWS as the sole engineer before the company had funding to hire a team.
+- Took Glamhive from wireframes to launch, owning architecture, product/engineering translation, and delivery cadence.
 - Won Seattle Angel Conference VII in 2015, securing $205K in investment.
 - Built and delivered the full stack on AngularJS, Java, Spring MVC, MongoDB, and AWS.
 - Built distributed agile teams across the U.S. and South America, reducing staffing cost by 60% versus a U.S.-only model.
+- Unified web and mobile codebases with Ionic/Cordova, reducing mobile development cost versus separate native builds.
 
 ### Lela and Fidelity
 
@@ -293,7 +310,7 @@ Do not feature random generic articles. Use this section only if it reinforces y
 
 Short version:
 
-Hi [Name] — I’m a hands-on engineering executive with 20+ years leading greenfield builds, application modernization, and product engineering teams. I’m currently focused on CTO / Head / VP / Senior Director roles, especially around customer-facing software, workflow-heavy SaaS, and practical cloud + AI delivery. If that lines up with the kinds of searches you work on, I’d be glad to connect.
+Hi [Name] — I’m a hands-on engineering executive with 20+ years leading greenfield builds, application modernization, and product engineering teams. I’m currently focused on CTO / Head / VP / Senior Director roles, especially around customer-facing software, workflow-heavy SaaS, and practical cloud + AI delivery. If that matches the kinds of searches you work on, I’d be glad to connect.
 
 ## Summary Of The Shift
 
@@ -308,4 +325,3 @@ It should not read as:
 - security executive
 - corporate IT leader
 - principal IC trying to become an executive later
-

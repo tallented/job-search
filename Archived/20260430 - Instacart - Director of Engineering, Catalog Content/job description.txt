@@ -1,0 +1,46 @@
+Instacart - Director of Engineering, Catalog Content
+
+Source links:
+- Instacart Careers: https://www.instacart.careers/job/?gh_jid=7793600 (returned 404 / no longer accepting on 2026-04-30)
+- LinkedIn: https://www.linkedin.com/jobs/view/director-of-engineering-catalog-content-at-instacart-4400267984
+
+Captured: 2026-04-30
+Archived: 2026-04-30, listing closed before submission.
+
+Role summary:
+- Director-level engineering leadership role for Instacart's Catalog Content team.
+- Remote-friendly across the U.S. and Canada.
+- Own the next chapter of the "agentic catalog" strategy, using distributed systems, data pipelines, and AI/ML automation to improve product-content quality, speed, scale, coverage, and freshness.
+- Lead a multi-team engineering organization of about 40+ total reports, including managers and senior ICs.
+- Partner with Product, Machine Learning, Data Science, Design, Operations, Retail partners, and Brand partners.
+- Build operating mechanisms, set goals, develop talent, and align teams to measurable outcomes.
+- Own reliability and quality through availability, latency, and accuracy SLAs; on-call; incident response; observability; and data-quality guardrails.
+- Prioritize roadmap and experiments that improve discovery, search relevance, substitution quality, pricing accuracy, and regulatory compliance.
+- Drive build/buy decisions, vendor selection, and budget stewardship for capabilities such as vector search, embeddings, OCR, image understanding, and content moderation.
+- Ensure privacy, security, and brand safety.
+
+Minimum qualifications:
+- 15+ years professional software engineering experience building and operating large-scale platforms or data-intensive systems.
+- 7+ years leading engineering managers and multiple teams, with direct responsibility for 30+ engineers.
+- Large-scale data pipelines and services, batch and streaming, in AWS or GCP.
+- Event-driven architectures and microservices.
+- Platform reliability and data quality ownership with SLAs/SLOs, on-call, and incident management.
+- Production ML/AI systems, including LLMs, information retrieval, content understanding, or automated data enrichment.
+- Hiring, coaching, performance management, and development of engineering managers and senior engineers.
+- Cross-functional roadmap and business-outcome delivery with Product, Data Science/ML, and Operations.
+
+Preferred qualifications:
+- E-commerce catalog systems, product taxonomy/ontology, data normalization, or content quality at marketplace scale.
+- GenAI and agentic frameworks, orchestration, tool use, RAG, vector databases, embeddings, and multimodal models.
+- Search/relevance, knowledge graphs, entity resolution, or compliance workflows such as nutrition, allergens, or age-restricted items.
+- Platforms adopted by 100+ internal users or powering revenue-critical customer experiences.
+- Vendor ecosystems and annual engineering budgets tied to infrastructure and third-party services.
+- Experimentation and evaluation frameworks for content quality, including offline/online metrics, A/B testing, data drift, model performance, and observability.
+
+Compensation notes:
+- U.S. base range varies by location.
+- CA, NY, CT, NJ: $304,000-$321,000.
+- WA: $292,000-$308,000.
+- OR, DE, ME, MA, MD, NH, RI, VT, DC, PA, VA, CO, TX, IL, HI: $279,000-$294,500.
+- All other states: $254,000-$268,000.
+- New-hire equity grant and annual refresh grants are listed as eligible.

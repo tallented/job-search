@@ -4,6 +4,9 @@ canonical_sources:
   - path: "/Users/chris/2026 Resumes/CANONICAL - Chris Tallent Resume - CTO.docx"
     track: "cto"
     edit_policy: "do_not_edit"
+  - path: "/Users/chris/2026 Resumes/CANONICAL - Chris Tallent Resume - Engineering Manager.docx"
+    track: "manager"
+    edit_policy: "do_not_edit"
   - path: "/Users/chris/2026 Resumes/CANONICAL - Chris Tallent Resume - Principal Engineer.docx"
     track: "principal"
     edit_policy: "do_not_edit"
@@ -253,6 +256,13 @@ roles:
       - "Technical Co-Founder & Chief Technology Officer"
       - "Technical Co-Founder & CTO"
     bullets:
+      - id: "glamhive_bootstrap_mvp"
+        fit: ["cto", "director", "principal"]
+        themes: ["founder", "zero_to_one", "mvp", "full_stack", "aws"]
+        variants:
+          short: "Bootstrapped and launched the initial MVP on AWS before building out the team."
+          medium: "Built and launched the initial MVP on AWS as the sole engineer before hiring and scaling the team."
+          long: "Built and launched the initial MVP on AWS as the sole engineer, establishing the product and technical foundation before hiring and leading a distributed team after the Seattle Angel Conference win."
       - id: "glamhive_founder_launch"
         fit: ["cto", "principal", "director"]
         themes: ["founder", "zero_to_one", "architecture", "product"]
@@ -280,7 +290,7 @@ roles:
         variants:
           short: "Built distributed teams in the U.S. and South America, cutting staffing cost 60% versus a U.S.-only model."
           medium: "Formed and led distributed agile teams in the U.S. and South America, cutting staffing cost by 60% versus a U.S.-only team model."
-          long: "Hired and led distributed agile teams across the U.S. and South America, cutting staffing cost by 60% versus a U.S.-only team model while maintaining delivery velocity."
+          long: "Hired and led distributed agile teams across the U.S. and South America, cutting staffing cost by 60% versus a U.S.-only team model while preserving enough time-zone overlap for shared daily and weekly team calls."
 
   - company: "Lela.com"
     titles:
@@ -307,6 +317,13 @@ roles:
           short: "Directed engineering for a personalized shopping recommendation platform with multi-retailer integrations."
           medium: "Directed design and development of a personalized shopping recommendation platform ingesting data from multiple e-commerce retailers."
           long: "Directed design and development of a personalized shopping recommendation platform, ingesting product data from multiple e-commerce retailers through vendor-specific integrations and modular Java services."
+      - id: "lela_recommendation_experimentation"
+        fit: ["director", "principal"]
+        themes: ["recommendation_systems", "ab_testing", "experimentation", "modularity"]
+        variants:
+          short: "Enabled recommendation experimentation through modular Java services and Optimizely A/B testing."
+          medium: "Refactored core recommendation services into modular Java components, improving maintainability and enabling feature experimentation through Optimizely A/B testing."
+          long: "Refactored core recommendation services into modular Java components, improving maintainability and enabling feature experimentation through Optimizely A/B testing and dynamic JavaScript rewriting tooling."
 
   - company: "Fidelity Investments"
     titles:

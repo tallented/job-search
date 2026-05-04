@@ -1,0 +1,50 @@
+Attentive - Director of Engineering, Shopper Management Platform
+Original source URL: https://job-boards.greenhouse.io/attentive/jobs/4121275009
+Fetched on: 2026-04-22
+Source used for local copy: Greenhouse board listing to verify role is live plus same-day VMG mirror for the full posting text because the direct Greenhouse detail URL redirected back to the openings board
+Source queue: 20260422 - Search Review Queue.md
+Work model (queue): United States distributed / remote-friendly
+Compensation (queue): USD 242,760-303,450 base + equity
+Listing source (queue): Greenhouse + VMG mirror
+
+--- FULL POSTING ---
+
+Company: Attentive
+Title: Director of Engineering, Shopper Management Platform
+Employment Type: Full time
+Location: United States
+Compensation: USD 242,760 - 303,450 base + equity
+Posted on mirror: 2026-04-17
+
+About the Role
+
+Attentive describes the Shopper Management organization as the data foundation for how the platform understands shoppers and determines the best ways to engage them. The scope spans identity resolution, user profiles, segmentation, CRM, products and offers, and the underlying shopper data foundation that powers marketer-facing experiences.
+
+The role sits at the intersection of data-platform engineering and product-facing systems. It owns technical strategy for a unified shopper data foundation while also delivering marketer-facing experiences that make the data actionable. The pillar spans five teams across identity systems, behavioral data pipelines, segmentation infrastructure, and CRM capabilities.
+
+What You'll Accomplish
+- Set technical direction for the Shopper Management organization across identity resolution, user profile, segmentation, products and offers, and CRM.
+- Lead and grow an engineering organization across multiple sub-teams, including hiring technical leaders, coaching managers, and building a culture of ownership and craft.
+- Drive the unified shopper technical strategy by evolving a cross-channel model for personalization and attribution.
+- Build end-to-end data traceability and observability so system decisions are explainable and auditable.
+- Improve data quality and consistency across the platform, reconcile profiles with segmentation datasets, validate data integrations, and standardize shopper data across product surfaces.
+- Own operational health, reduce support burden through better tooling, retire legacy systems, and invest in automated quality detection and self-service debugging.
+- Partner with Product and Design to deliver marketer-facing experiences that make shopper data usable, including segmentation tools, CRM interfaces, and shopper profiles.
+- Accelerate developer velocity through reliable dev/test environments, stable CI/CD, decoupled services, clear ownership, and agentic automation.
+- Collaborate with ML, messaging, analytics, and growth teams that depend on the shopper data foundation.
+
+Your Expertise
+- 10+ years of software engineering experience, with 5+ years leading engineering teams including managing managers.
+- Deep understanding of customer-data-platform style architectures such as identity systems, profile stores, event pipelines, or segmentation engines at scale.
+- Product sensibility and strong partnership with Product and Design.
+- Track record of managing technical migrations and platform modernization while maintaining reliability.
+- Strong communication skills with executive stakeholders and cross-functional partners.
+- Nice-to-have familiarity with martech, adtech, e-commerce, experimentation, and privacy/compliance requirements around identity and behavioral data.
+
+--- LOCAL SUMMARY ---
+
+Fit:
+Strong director-level data-platform and product-systems role with good overlap on configurable data models, product partnership, modernization, recommendations/personalization history, and delivery leadership.
+
+Risk / stretch:
+The posting likely wants deeper direct customer-data-platform, event-pipeline, and manager-of-managers experience than the cleanest current story proves.

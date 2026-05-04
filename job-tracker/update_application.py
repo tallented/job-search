@@ -34,6 +34,7 @@ CLEARABLE_FIELDS = {
     "location": "Location",
     "type": "Type",
     "resume-folder": "Resume_Folder",
+    "resume-decision": "Resume_Decision",
 }
 
 
@@ -90,6 +91,7 @@ def build_parser() -> argparse.ArgumentParser:
     parser.add_argument("--listing-source")
     parser.add_argument("--ref-number")
     parser.add_argument("--link")
+    parser.add_argument("--resume-decision")
     parser.add_argument("--set-resume-folder")
     parser.add_argument(
         "--allow-missing-folder",
@@ -150,6 +152,7 @@ def require_updates(args: argparse.Namespace) -> None:
         args.listing_source,
         args.ref_number,
         args.link,
+        args.resume_decision,
         args.set_resume_folder,
     ]
     if not any(value is not None for value in update_values) and not args.clear_field:
@@ -242,6 +245,9 @@ def user_to_db_updates(args: argparse.Namespace, current: sqlite3.Row) -> dict[s
     if args.link is not None:
         ensure_not_cleared("Link", "link")
         updates["Link"] = args.link.strip() or None
+    if args.resume_decision is not None:
+        ensure_not_cleared("Resume_Decision", "resume-decision")
+        updates["Resume_Decision"] = args.resume_decision.strip() or None
     if args.set_resume_folder is not None:
         ensure_not_cleared("Resume_Folder", "set-resume-folder")
         resume_folder = normalize_resume_folder(args.set_resume_folder)

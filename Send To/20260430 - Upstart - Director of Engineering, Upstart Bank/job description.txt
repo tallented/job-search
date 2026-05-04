@@ -1,0 +1,46 @@
+Source: https://careers.upstart.com/jobs/director-of-engineering-upstart-bank
+Company: Upstart
+Role: Director of Engineering, Upstart Bank
+Req ID: R-7434
+Function: Engineering
+Location: Remote; San Mateo, CA; Columbus, OH
+Compensation: $228,300-$315,900 USD base, plus target bonus, equity, and benefits
+
+About Upstart:
+Upstart is an AI lending marketplace that partners with banks and credit unions to expand access to affordable credit. The platform uses advanced AI, including over one million predictions per borrower and more than 1,800 signals, to support lending decisions and borrower experiences. Upstart is digital-first, with employees across the U.S. and Canada and regular in-person collaboration through team onsites.
+
+Team:
+Upstart Bank is an evolution of Upstart's AI lending platform, focused on simplifying the regulatory infrastructure behind the marketplace while expanding access to credit nationwide. By moving from a fragmented state-based system to a unified federal framework, Upstart Bank aims to create more consistent borrower experiences, reduce structural costs, and improve pricing, compliance, and access to credit at scale.
+
+Role:
+The Director of Engineering for Upstart Bank will build and lead the engineering organization responsible for core platforms that enable the bank to operate at scale. The role starts with a small, high-caliber seed team and owns technical strategy, organizational design, and execution model for systems spanning ledgering and funding, deposits and payments, marketplace integrations, and reporting. The role partners closely with Product, Compliance, Legal, Risk, Finance, and Operations to deliver scalable, reliable, audit-ready infrastructure for a modern banking platform.
+
+Impact:
+- Build the Upstart Bank engineering organization from an initial seed team into a scaled, high-performing domain with multiple teams and managers.
+- Define and drive the technical strategy and architecture for core bank platforms, including ledgering and funding, deposits and payments, marketplace integrations, and reporting.
+- Set organization design, hiring strategy, and leadership bench needed to scale the Upstart Bank engineering org.
+- Partner with Product and cross-functional leaders to translate business, regulatory, and operational priorities into engineering architecture, sequencing, and delivery.
+- Own delivery across critical bank platform domains, ensuring predictable execution and reliable, scalable, high-quality infrastructure.
+- Establish engineering standards and operating mechanisms that support reliability, resilience, security, traceability, and auditability.
+- Lead cross-functional execution across complex dependencies with Compliance, Legal, Risk, Finance, and Operations.
+- Build systems and processes that support internal controls, audits, and high-confidence operation in a regulated environment.
+- Develop engineering leaders and foster a culture of high standards, ownership, and continuous improvement.
+
+Minimum Qualifications:
+- Bachelor's degree in Computer Science, Engineering, Mathematics, or related field, or equivalent, plus 10 years of experience.
+- At least 5 years of direct people management experience.
+- Experience building and scaling engineering organizations, including hiring and developing teams through rapid growth or organizational formation.
+- Strong technical background setting architecture and technical direction for complex distributed systems and cloud platforms.
+- Experience leading engineering in regulated or high-control environments where reliability, controls, auditability, and change management are critical.
+- Experience partnering with senior cross-functional and executive stakeholders on business-critical platforms.
+
+Preferred Qualifications:
+- Experience building core financial infrastructure such as ledgering, payments, deposits, funding systems, reporting, or financial integrations.
+- Experience in banking, fintech, payments, or other regulated financial systems.
+- Experience building platforms that support internal controls, audits, and reliable operation in regulated environments.
+- Experience leading platform modernization, core-system launches, or major infrastructure transformations.
+- Demonstrated ability to attract and develop strong technical talent in competitive hiring markets.
+- Interest in improving access to credit through technology and scalable financial infrastructure.
+
+Travel:
+Digital-first role. Most work can be remote, with regular team onsites. Most teams meet once or twice per quarter for 2-4 consecutive days at a time.

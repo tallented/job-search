@@ -5,6 +5,7 @@ This folder is a derived working library for resume tailoring.
 Canonical source files stay untouched:
 
 - `/Users/chris/2026 Resumes/CANONICAL - Chris Tallent Resume - CTO.docx`
+- `/Users/chris/2026 Resumes/CANONICAL - Chris Tallent Resume - Engineering Manager.docx`
 - `/Users/chris/2026 Resumes/CANONICAL - Chris Tallent Resume - Principal Engineer.docx`
 - `/Users/chris/2026 Resumes/CANONICAL - 2025 Chris Resume All Bullets.docx`
 
@@ -25,8 +26,10 @@ Use this library to speed up tailoring and copy-fitting in Word without rewritin
 ## Track Guidance
 
 - `cto`: org leadership, product partnership, delivery systems, budgeting, security/compliance, transformation
-- `director`: multi-team execution, DevOps, reliability, platform improvements, cross-functional alignment
+- `manager`: engineering manager / senior engineering manager / director track; team leadership, delivery systems, reliability, platform improvements, cross-functional alignment
 - `principal`: architecture depth, modernization, AI integration, reliability, developer experience
+
+For now, the standardized bullet families still use `director` as the closest fit label for the management track. Use those `director`-fit bullets when building from the Engineering Manager canonical resume.
 
 ## Copy-Fit Order
 

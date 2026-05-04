@@ -6,11 +6,13 @@ Use this as the fast execution version of [LinkedIn Profile Updates - 20260414.m
 
 Set headline to:
 
+`Engineering Executive | Product & Application Engineering | Greenfield + Modernization | Cloud + AI`
+
+If you want to keep the current consulting truth more explicit:
+
 `Fractional CTO | Engineering Executive | Product & Application Engineering | Greenfield + Modernization | Cloud + AI`
 
-If you want a less fractional-forward version:
-
-`Engineering Executive | Product & Application Engineering | Greenfield + Modernization | Cloud + AI`
+Do not use bare `CTO` as the default headline unless you intentionally want a more aggressive exec signal.
 
 ## 2. About
 
@@ -24,6 +26,10 @@ Update the `About` section so it emphasizes:
 - practical AI: RAG, document extraction, MCP, governed agentic admin tooling
 
 Use the full draft in [LinkedIn Profile Updates - 20260414.md](/Users/chris/2026%20Resumes/LinkedIn%20Profile%20Updates%20-%2020260414.md).
+
+Tone rule:
+
+- if a sentence sounds more polished than you would say out loud, simplify it before posting
 
 ## 3. Current Role
 
@@ -44,10 +50,12 @@ Make sure the description highlights:
 Make sure this section clearly includes:
 
 - scaled engineering from `6` to `35`
+- morale reset from `2/5` to `5/5`
 - AI-assisted modernization from `4 months` to `3 weeks`
 - `35-40%` non-production cloud-cost reduction
 - ISO 27001 / pen test / remediation work
 - T-Mobile product / IT / cybersecurity coordination
+- platform / workflow support at roughly `15,000` retail locations
 
 ## 5. Automobile Consumer Services
 
@@ -64,6 +72,7 @@ Make sure this section clearly includes:
 Make sure this section clearly includes:
 
 - technical co-founder
+- first MVP built personally as the sole engineer before funding
 - wireframes to MVP
 - Seattle Angel Conference win
 - distributed team building
@@ -145,10 +154,11 @@ After edits, the profile should read like:
 - product / application engineering leader
 - greenfield + modernization builder
 - cloud / AI-capable executive
+- something Chris would actually say
 
 It should not read like:
 
 - security-first leader
 - corporate-engineering specialist
 - principal engineer trying to pivot later
-
+- AI-polished copy with phrases you would never use in conversation

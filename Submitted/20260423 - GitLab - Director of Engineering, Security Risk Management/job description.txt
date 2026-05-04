@@ -1,0 +1,52 @@
+GitLab - Director of Engineering, Security Risk Management
+
+Direct apply URL:
+https://job-boards.greenhouse.io/gitlab/jobs/8195921002
+
+Locations:
+- Remote, Canada
+- Remote, EMEA
+- Remote, US
+
+Company summary:
+GitLab positions itself as an intelligent orchestration platform for DevSecOps and explicitly expects employees to use AI in daily workflows.
+
+Role overview:
+GitLab is hiring an engineering lead to evolve its Security Risk Management stage into a platform for vulnerability analysis and remediation at enterprise scale. The role combines director-level engineering leadership with deep distributed-systems architecture, security-platform strategy, and product partnership.
+
+Core responsibilities:
+- Design distributed systems for vulnerability data across thousands of repositories, millions of commits, and complex dependency graphs.
+- Drive storage architecture decisions for very large security datasets across time-series, graph, and document-oriented patterns.
+- Architect scalable analysis pipelines that ingest vulnerability feeds, correlate findings across multiple security tools, and deliver actionable intelligence.
+- Lead the evolution from monolithic security scanning toward microservices-based, event-driven vulnerability-management systems.
+- Establish technical standards for observability, performance, and fault tolerance in security-critical systems.
+- Mentor senior engineers in distributed systems, database optimization, and large-scale architecture.
+- Partner with product management, UX, and design on the end-to-end user journey for AppSec professionals and developers.
+- Own technical roadmap areas such as vulnerability correlation, risk scoring, and automated remediation workflows.
+- Lead incident response for availability and performance issues in customer-facing security systems.
+
+Key qualifications:
+- 10+ years of software engineering experience
+- 5+ years leading distributed systems at scale
+- Deep experience with high-throughput, low-latency systems and complex data models
+- Experience with relational, time-series, graph, and distributed key-value storage patterns
+- Experience with stream processing and event-driven architecture
+- Hands-on Kubernetes and cloud-native observability experience
+- Security domain knowledge in vulnerability assessment, static analysis, dependency scanning, or application security testing
+- Track record leading and growing engineering teams of 40+ engineers
+- Strong executive communication and cross-team leadership
+
+Technical challenge areas highlighted by GitLab:
+- 100,000+ repositories
+- millions of developers
+- sub-second query response expectations
+- 99.95%+ uptime expectations
+- correlation across 20+ security tools
+- strong lineage and audit-trail requirements
+
+United States salary range:
+$194,800 - $365,200 USD base
+
+Notes for tailoring:
+- Strongest overlap is on secure cloud platforms, RBAC / IAM, vulnerability remediation, incident response, observability, and platform modernization.
+- Main stretch areas are GitLab's explicit scale bar, heavier distributed-data / streaming expectations, and 40+ engineer org leadership requirement.

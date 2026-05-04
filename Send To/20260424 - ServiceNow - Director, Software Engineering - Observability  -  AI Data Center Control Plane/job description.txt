@@ -1,0 +1,68 @@
+ServiceNow - Director, Software Engineering - Observability / AI Data Center Control Plane
+Source: https://careers.servicenow.com/jobs/744000106755495/director-software-engineering-observability-ai-data-center-control-plane/
+
+Director, Software Engineering - Observability / AI Data Center Control Plane
+
+Engineering, Infrastructure and Operations
+San Diego
+Flexible or Remote
+February 02, 2026
+JB0067632
+
+Company Description
+
+It all started in sunny San Diego, California in 2004 when a visionary engineer, Fred Luddy, saw the potential to transform how we work. Fast forward to today — ServiceNow stands as a global market leader, bringing innovative AI-enhanced technology to over 8,100 customers, including 85% of the Fortune 500®. Our intelligent cloud-based platform seamlessly connects people, systems, and processes to empower organizations to find smarter, faster, and better ways to work.
+
+Job Description
+
+This Position is open to these office locations: Santa Clara, CA; Kirkland, WA; San Diego, CA; Orlando, FL; Chicago, IL
+
+The Director of AI Data Center Control Plane leads the engineering implementation of AI-first solutions across Big Data, Observability, and other data center control plane interfaces. These solutions leverage AI and data science principles to optimize system performance, ensure reliability, and enable data-driven decision-making within the organization.
+
+This strategic role involves overseeing the design, implementation, and management of robust data platforms, integrating AI/ML capabilities, and ensuring the ethical and compliant use of data. The Director acts as a visionary leader, translating complex data insights into actionable strategies that support key business objectives and foster a culture of continuous improvement and innovation.
+
+What you get to do in this role:
+
+The Director's responsibilities include partnering with Product Owners to execute the product vision and strategy for observability, big data, and agentic data center platform solutions. The role also focuses on driving innovation, establishing KPIs, fostering a data-driven culture, and engaging with stakeholders.
+
+Additional responsibilities include leading cross-functional teams, advocating for new technologies, providing technical guidance, overseeing AI/ML solution development, and working with partners to improve data infrastructure.
+
+- Define and Execute Strategy:
+  - Develop and implement a comprehensive data and AI observability strategy aligned with organizational goals and industry best practices.
+  - Drive the vision for robust data platforms that support advanced AI/ML models and facilitate data-driven decision-making across the organization.
+- Lead Product and Feature Development:
+  - Drive the engineering lifecycle for AI-powered observability features and solutions (e.g., model drift detection, bias monitoring, lineage tracking).
+  - Collaborate with engineering and UX teams to build scalable, user-centric monitoring and observability solutions for Platform, Product, and Agentic AI services.
+- Establish Observability Best Practices:
+  - Implement and enforce best practices for AI/ML observability including metrics, logging, tracing, and model performance tracking.
+  - Ensure the adoption of cutting-edge technologies and methodologies to enhance observability capabilities and improve system reliability.
+- Manage Data Governance and Quality:
+  - Oversee the implementation of strong data governance policies and standards to ensure data quality, integrity, and compliance with regulations (e.g., GDPR, HIPAA, CCPA).
+  - Implement mechanisms for model monitoring, auditing, and compliance reporting to ensure the responsible and ethical use of AI models.
+- Team Leadership and Development:
+  - Lead, mentor, and inspire a high-performing team of engineers and data scientists.
+  - Foster a culture of innovation, continuous learning, and cross-functional collaboration within the team.
+- Stakeholder Collaboration:
+  - Engage with internal and external stakeholders to understand business needs and promote AI and data observability solutions.
+- Stay Abreast of Industry Trends:
+  - Keep up-to-date with the latest trends and advancements in AI, machine learning, observability tools, and data governance.
+  - Actively learn from experts and peers in the field through professional organizations, conferences, and online platforms.
+
+Qualifications
+
+To be successful in this role you have:
+
+- 12+ years of progressive experience in engineering with 5+ years industry experience in DevOps architecture, technology consulting experience, Leading DevOps Architectural Designs, software delivery leadership in an Agile & DevOps practice, handling Application Build, Configuration Management, Deployment & Release Engineering and experience developing and leading enterprise initiatives
+- 5+ years of experience in data science, machine learning, and artificial intelligence
+- Strong technical expertise in observability tools, AIOps platforms, data modeling, and cloud-based solutions
+- Architected solution and deep expertise on Cloud (Azure, AWS, GCP), setting up CI/CD for PaaS (Cloud Foundry, OpenShift) is a big plus
+- Strong executive presence and ability to influence at senior levels.
+- Demonstrated success in scaling engineering organizations globally.
+- Expertise in engineering best practices, software architecture, quality engineering strategies, and automation frameworks.
+- Experience driving AI/ML adoption in software development and testing functions.
+- Ability to balance strategic thinking with execution focus.
+- Experience with automation/configuration and setting up complete end-to-end fully integrated delivery systems
+- Excellent stakeholder management, communication, and change leadership skills.
+- Working understanding of code and script (PHP, Python, Groovy, Perl and/or Ruby) particularly used within build pipeline automation.
+- Proven track record of delivering high-quality enterprise software products at scale.
+- Able to communicate a compelling vision and need for change that generates excitement, enthusiasm, and commitment to the process

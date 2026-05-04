@@ -8,7 +8,7 @@ Cincinnati Metro Area • 859.394.2923 • chris@provenedge.com • linkedin.com
 
 ## PROFESSIONAL SUMMARY
 
-Engineering leader and hands-on CTO with 20+ years building internal platforms, workflow-heavy products, and governed AI-enabled systems. Proven record shipping developer tooling, secure APIs, document intelligence, and automation capabilities on AWS using Java, Python, and TypeScript. Brings a strong operator mindset around reliability, access controls, delivery systems, and bounded AI adoption.
+Engineering leader and hands-on CTO with 20+ years building internal platforms, workflow-heavy products, and secure AI-enabled tools. Proven record delivering developer tooling, secure APIs, document intelligence, and automation on AWS using Java, Python, and TypeScript. Brings practical judgment around reliability, access controls, delivery systems, and responsible AI adoption.
 
 ## CORE SKILLS
 
@@ -19,17 +19,17 @@ Technical: AWS (Bedrock, Textract, Comprehend, RDS/Aurora, ECS, Lambda, S3) • 
 
 ## PROFESSIONAL EXPERIENCE
 
-### Chief Technology Officer & Principal Engineer | Pitchstone Technology LLC
+### Chief Technology Officer & Lead Architect | Pitchstone Technology LLC
 
 Seattle, WA • February 2021 – Present
 
-- Scaled engineering from 6 to roughly 35 across four agile teams, establishing delivery cadence, team structure, and technical ownership.
 - Architected an AI-enabled, configuration-driven real-estate platform on AWS (ECS, Lambda, Bedrock, Textract, RDS/Aurora, S3), exposing secure APIs for document workflows and knowledge-based retrieval.
+- Partnered with product, UX, and customer stakeholders on roadmap priorities, API design, technical risk, and production operations.
+- Built out engineering from a small initial team into a four-team organization, establishing delivery cadence, team structure, and technical ownership.
 - Built Bedrock knowledge workflows plus Textract / Comprehend-based lease extraction, turning workflow-heavy business problems into governed product capabilities.
 - Drove AI-assisted engineering with Claude Code for upgrades, test generation, and modernization planning, reducing delivery cycles from 4 months to 3 weeks.
 - Defined AWS account structure, RBAC, IAM Identity Center permission sets, and access boundaries across five AWS accounts while leading ISO 27001 controls and vulnerability remediation.
 - Built Docker Compose-based local developer environments with anonymized data refresh, cutting update time from 3+ hours to 45 minutes and improving environment parity.
-- Partnered with product, UX, and customer stakeholders on roadmap priorities, API design, technical risk, and production operations.
 
 ### Chief Technology Officer | Automobile Consumer Services Inc
 
@@ -40,7 +40,7 @@ Cincinnati, OH • July 2016 – February 2021
 - Designed a JSON-driven configuration system for financial settings and visual theming, enabling dealer-specific workflows and UI behavior without per-client code forks.
 - Delivered the NADA 2017 proof-of-concept in two months under a hard business deadline.
 
-### Fractional CTO & Principal Engineer | Proven Edge LLC
+### Fractional CTO & Lead Architect | Proven Edge LLC
 
 Fort Thomas, KY • November 2015 – Present
 

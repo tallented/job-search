@@ -1,0 +1,64 @@
+Director, Engineering - Data Platform
+SailPoint
+Source: https://sailpoint.wd1.myworkdayjobs.com/en-US/SailPoint/job/Director--Engineering---Data-Platform_R012740
+
+locations
+    United States
+
+time type
+    Full time
+
+posted on
+    Posted 30+ Days Ago
+
+job requisition id
+    R012740
+
+Director, Engineering - Data Platform
+
+The SailPoint Data Platform powers our core Identity Security Cloud, the Identity Graph, and various analytics and machine learning driven products and services across SailPoint. Our mission is to deliver cutting-edge, reliable, and user-friendly infrastructure for data ingestion, storage, processing, and interaction, enabling teams to build data-intensive applications with ease and success.
+
+This role oversees the Data Engineering and Data Presentation groups as part of the SailPoint Data Platform. The team provides a fully managed Lakehouse solution powered by Snowflake and Apache Flink, a Service and Data Catalog, and various custom-built services to manage data at massive scale. Our platform supports both product and machine learning workloads across SailPoint, serving key products and organizations including Identity Security Cloud, Non-Employee Risk Management, Machine Identity Security, Agent Identity Security, Data Access Security, and Cloud Infrastructure and Entitlement Management. Additionally, the group is responsible for Data Presentation powering full-text search capabilities in our user-facing products as well as Data Governance for ensuring data quality and lineage, and is the custodian of SailPoint’s Enterprise Data Model.
+
+We continuously innovate to meet evolving customer needs and market trends. We seek engineering leaders passionate about building world-class data infrastructure products. In this role, you will lead the SailPoint Data Platform, guiding team members in both technical and professional growth. You will collaborate closely with cross-functional teams to lead the planning, execution, and success of technical projects, with a focus on enhancing the experience for SailPoint’s internal customers. This role requires a deep understanding of scalable data systems, high-performance data pipelines, event streaming, and engineering instincts to turn conceptual data processing ideas into robust, reusable frameworks.
+
+Responsibilities:
+
+Team Leadership:
+  * Build, mentor, and manage a high-performing team of software engineers specializing in Flink, Spark, Snowflake, Iceberg, Airflow, OpenSearch and related technologies
+  * Foster a culture of collaboration, innovation, and continuous improvement inline with SailPoint’s 4-Is cultural framework
+  * Provide technical guidance and mentorship to team members, promoting their professional growth
+  * Conduct performance reviews, provide feedback, and identify opportunities for training and development
+  * Manage team workload, prioritize projects, and ensure timely delivery of high-quality solutions.
+
+Technical Strategy and Execution:
+  * Define and execute the technical roadmap for our data platform, aligning with SailPoint's overall data strategy
+  * Drive innovation in data processing techniques, exploring new technologies and approaches to improve performance, scalability, and efficiency
+  * Lead the design, development, and deployment of robust and scalable data pipelines using Flink / Spark, dbt, Airflow and Snowflake / Iceberg
+  * Ensure the reliability, availability, and security of our data processing infrastructure.
+  * Collaborate with other engineering teams to integrate our data processing technologies with other SailPoint systems and services.
+
+Engineering Thought Leadership:
+  * Articulate and evangelize what excellence looks like when it comes to high volume data processing
+  * Represent SailPoint data platform innovations at external conferences
+  * Deliver presentations and write blog posts highlighting SailPoint’s leadership in big data processing.
+
+Stakeholder Management:
+  * Partner with data scientists, data engineers, product managers, and other stakeholders to understand their data processing needs and requirements
+  * Communicate technical concepts and solutions effectively to both technical and non-technical audiences
+  * Advocate for best practices in data processing and engineering; Manage expectations and ensure alignment across different teams.
+
+Minimum Qualifications
+  * 12+ years of software development experience, with a focus on data processing at scale.
+  * 8+ years of engineering people management experience - leading, mentoring, and growing teams. 3+ years of experience managing engineering managers.
+  * Deep expertise in open-source data technologies like Apache Flink, Spark, Airflow, Iceberg and OpenSearch.
+  * Hands-on experience with data processing languages such as Java / Scala and Python.
+  * Deep understanding of data pipeline performance, including partitioning, parallelism, serialization, clustering, scaling, and storage formats.
+  * Strong knowledge of modern data infrastructure including containers, orchestration, cloud computing (AWS / GCP / Azure), information retrieval, and distributed systems.
+  * Experience supporting high-volume, low-latency systems in highly regulated environments.
+  * Excellent communication, interpersonal, and leadership skills.
+  * Strong problem-solving and analytical skills.
+  * BS, MS, or Ph.D. in Computer Science or a related field of study or equivalent experience
+
+Compensation
+US base salary range: $187,900 - $316,712.00

@@ -17,8 +17,28 @@ job-tracker/import/*.csv
 # Legacy archived workbook copies
 bak/
 
-# Generated exports
-*.pdf
+# Local generated/temp artifacts
+.tmp.driveupload/
+.tmpql*/
+
+# Local manual Word repair/backups
+* - backup *.docx
+* - pre-* backup.docx
+* - pre-*.docx
+* - unreadable-backup.docx
+* - rebuilt*.docx
+
+# Generated preview/scratch PDFs
+*.preview.pdf
+* - fresh.pdf
+
+# Historical rendered PDFs; source docs remain tracked
+Old Versions/**/*.pdf
+prior revisions/**/*.pdf
+Version - */*.pdf
+
+# Non-resume design assets kept out of this repo for now
+Business Cards/
 
 # Low-signal nested workspace leftovers
 Send To/**/old/

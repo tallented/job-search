@@ -89,6 +89,7 @@ def build_parser() -> argparse.ArgumentParser:
     parser.add_argument("--listing-source")
     parser.add_argument("--ref-number")
     parser.add_argument("--link")
+    parser.add_argument("--resume-decision")
     parser.add_argument("--resume-folder", required=True)
     parser.add_argument(
         "--allow-missing-folder",
@@ -148,6 +149,7 @@ def main() -> int:
         "Listing_Source": args.listing_source.strip() if args.listing_source else None,
         "Ref_Number": args.ref_number.strip() if args.ref_number else None,
         "Link": args.link.strip() if args.link else None,
+        "Resume_Decision": args.resume_decision.strip() if args.resume_decision else None,
         "Resume_Folder": resume_folder,
         "Last_Contact_Date": last_contact_date,
     }

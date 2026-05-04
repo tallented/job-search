@@ -1,0 +1,51 @@
+Grafana Labs - Director of Engineering, Loki Databases
+Original source URL: https://job-boards.greenhouse.io/grafanalabs/jobs/5764787004
+Fetched on: 2026-04-22
+Source used for local copy: Original Greenhouse posting
+Source queue: 20260422 - Search Review Queue.md
+Work model (queue): United States (Remote), USA time zones only
+Compensation (queue): USD 236,851-284,221 base + RSUs + bonus
+Listing source (queue): Greenhouse
+
+--- FULL POSTING ---
+
+Company: Grafana Labs
+Title: Director of Engineering, Loki Databases
+Employment Type: Full time
+Location: United States (Remote)
+Compensation: USD 236,851 - 284,221 base + RSUs + bonus
+
+About the Role
+
+Grafana Cloud is Grafana Labs' composable observability platform for metrics, logs, traces, and profiles. The Databases department owns and operates the telemetry databases that power Grafana Cloud, including Mimir, Loki, Tempo, and Pyroscope. The Logs group is responsible for Grafana Cloud Logs, Loki OSS, and Grafana Enterprise Logs.
+
+Loki is described as a cloud-native database built in Go, delivered as microservices, and backed by object storage for logs observability at scale.
+
+What You'll Be Doing
+- Lead a team of 20+ engineers and grow it over time, including managing managers, developing engineers, providing regular feedback, and supporting growth through career conversations.
+- Collaborate with product, design, and engineering leadership to define goals that move the Logs group forward and align with broader business objectives.
+- Drive product vision by listening to customer feedback and anticipating market trends.
+- Provide guidance across the full project lifecycle from ideation through planning, execution, and post-launch follow-through.
+- Foster a psychologically safe environment where engineers can learn, experiment, and iterate quickly.
+- Work across team boundaries and partner with other functions to solve customer problems.
+
+What Makes You a Great Fit
+- Strong director-level engineering people manager with an entrepreneurial vision.
+- Bias toward action and ownership in ambiguous, complex problem spaces.
+- Comfortable collaborating across time zones and cultures in a fully remote environment.
+- Demonstrated ability to manage complexity, align stakeholders, and elevate team performance.
+- Solid understanding of distributed-systems principles including scalability, fault tolerance, consistency, and observability.
+- Comfort with AI-assisted tooling and practical experience folding AI-powered tools into a team's workflow.
+
+Why Grafana / Notes
+- Remote-only company with a global culture.
+- High-growth observability platform with open-source roots and a strong engineering brand.
+- Role includes equity, bonus eligibility, and in-person onboarding.
+
+--- LOCAL SUMMARY ---
+
+Fit:
+Strong director-level platform and distributed-systems role with good overlap on reliability, developer workflows, remote leadership, and AI-assisted engineering practices.
+
+Risk / stretch:
+The role likely wants deeper observability-database specialization and clearer manager-of-managers proof than the cleanest current story.

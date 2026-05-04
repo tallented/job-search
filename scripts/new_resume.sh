@@ -4,10 +4,11 @@ set -euo pipefail
 usage() {
   cat <<'EOF'
 Usage:
-  new_resume.sh <cto|principal> <company> <role> [folder-name]
+  new_resume.sh <cto|em|principal> <company> <role> [folder-name]
 
 Examples:
   new_resume.sh cto "Acme" "CTO"
+  new_resume.sh em "Acme" "Engineering Manager"
   new_resume.sh principal "ExampleCo" "Distinguished Engineer"
   new_resume.sh cto "Acme" "VP Engineering" "20260330 - Acme - VP Engineering"
 
@@ -55,6 +56,10 @@ case "$track" in
   cto|exec|vp|head)
     base_resume="$base_dir/CANONICAL - Chris Tallent Resume - CTO.docx"
     track_label="CTO / VP Engineering"
+    ;;
+  em|manager|mgr|engmgr|engineering-manager|director|lead)
+    base_resume="$base_dir/CANONICAL - Chris Tallent Resume - Engineering Manager.docx"
+    track_label="Engineering Manager / Senior Engineering Manager / Director"
     ;;
   principal|engineer|pe|ic)
     base_resume="$base_dir/CANONICAL - Chris Tallent Resume - Principal Engineer.docx"

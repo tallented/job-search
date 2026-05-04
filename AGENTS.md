@@ -3,7 +3,7 @@
 This workspace contains Chris Tallent's base resumes and many job-specific variants. The primary recurring task is to tailor a resume for a specific job requisition and company, targeting one of these tracks:
 
 - CTO / Head of Engineering / VP Engineering (exec + org leadership + delivery + security/compliance)
-- Software Engineering Lead / Director (multi-team leadership, platform/devex/reliability, execution)
+- Engineering Manager / Senior Engineering Manager / Director (team leadership, platform/devex/reliability, execution)
 - Principal / Distinguished Engineer (architecture depth, hands-on delivery, distributed systems, AI-integration)
 
 ## Source Of Truth Files
@@ -11,6 +11,7 @@ This workspace contains Chris Tallent's base resumes and many job-specific varia
 Start from these base resumes and bullet banks in the local workspace. Prefer editing copied `.docx` working files and keep the canonical sources unchanged:
 
 - `/Users/chris/2026 Resumes/CANONICAL - Chris Tallent Resume - CTO.docx`
+- `/Users/chris/2026 Resumes/CANONICAL - Chris Tallent Resume - Engineering Manager.docx`
 - `/Users/chris/2026 Resumes/CANONICAL - Chris Tallent Resume - Principal Engineer.docx`
 - `/Users/chris/2026 Resumes/CANONICAL - 2025 Chris Resume All Bullets.docx`
 
@@ -39,6 +40,7 @@ Use the local `2026 Resumes` folder as the default working tree.
 - `Submitted/`: finalized versions that have already been sent
 - `Version - CTO/`, `Version - Engineering/`: reusable local working branches
 - `bullet-library/`: normalized bullet variants for copy-fit work
+- `searches/`: dated search review queues, watchlists, direct-company sweeps, recruiter target notes, and dispatch-decision matrices
 - `_resume_text/`: extracted plaintext cache for fast search
 - `_resume_text_archive/`: archived cache snapshots
 - `scripts/`: helper scripts for maintenance and cache refresh
@@ -64,6 +66,35 @@ There is an extracted plaintext cache of the `.docx` files at:
 - `/Users/chris/2026 Resumes/_resume_text/`
 
 Use it to quickly search for prior bullets, role-specific phrasing, and metrics across past submissions.
+
+## Wrap-Check Automation
+
+For first-draft visual QA, prefer checking rendered pages instead of relying on extracted text alone.
+
+Available local helper:
+
+- `/Users/chris/2026 Resumes/scripts/check_resume_wraps.py`
+
+Typical workflow:
+
+1. Export the current resume `.docx` to PDF from Word.
+2. Run:
+
+```sh
+cd "/Users/chris/2026 Resumes"
+python3 scripts/check_resume_wraps.py "Send To/<...>/resume.pdf"
+```
+
+3. Use the flagged short final lines as a targeted review queue for likely `1-2` word or jagged wraps.
+4. Fix wording first, then re-render the PDF and rerun the checker.
+
+Notes:
+
+- The OCR wrap checker is heuristic, not authoritative.
+- Always confirm the rendered page visually before accepting or rejecting a suggested fix.
+- Prefer trimming or slightly expanding the sentence over layout changes.
+- The local helper depends on `pdftoppm` and `tesseract`.
+- If Word PDF export is stale, use a graphical preview of the `.docx` itself (for example Quick Look thumbnails or Word screenshots) as the visual source of truth until a fresh PDF render is available.
 
 If you add/modify `.docx` files in this workspace, refresh the local cache:
 
@@ -96,7 +127,7 @@ Workflow:
 
 Default resume construction should be Word-first, not Markdown-first.
 
-1. Pick the correct canonical Word resume (`CTO` vs `Principal Engineer`) based on target track.
+1. Pick the correct canonical Word resume (`CTO`, `Engineering Manager`, or `Principal Engineer`) based on target track.
 2. Copy that canonical `.docx` into the target `Send To/<Company - Role>/` folder and use the copied file as the formatting shell.
 3. Preserve the canonical Word layout, spacing, heading hierarchy, and overall visual structure unless there is a deliberate formatting reason to change it.
 4. Build the content by selecting bullet variants from `/Users/chris/2026 Resumes/bullet-library/standardized-bullets.yaml` and `/Users/chris/2026 Resumes/CANONICAL - 2025 Chris Resume All Bullets.docx`, instead of rewriting from scratch every time.
@@ -105,6 +136,24 @@ Default resume construction should be Word-first, not Markdown-first.
 7. Use `draft.md` only when a major rewrite is easier to review in text first, then transfer the approved content into the copied Word resume.
 8. If automation is used, it should operate on the copied canonical `.docx` in place so margins, fonts, spacing, and pagination stay as close to the canonical file as possible.
 9. If line-wrapping issues appear in Word, prefer content tightening (summary, bullet length, core skills) before layout tweaks.
+
+## First Draft Rules
+
+Before presenting a first draft resume for review, apply:
+
+- `/Users/chris/2026 Resumes/FIRST_DRAFT_RULES.md`
+
+This file defines the mandatory first-pass checks for:
+
+- Word/PDF visual QA
+- single-word and jagged-line cleanup
+- AI-voice vs Chris-voice cleanup
+- page-two whitespace management
+- no-page-3 enforcement
+- team-scale phrasing defaults
+- leadership-header defaults
+- earlier-roles dating defaults
+- summary / core-skills phrasing discipline
 
 ## Bullet Variant Workflow
 
@@ -123,7 +172,7 @@ When tailoring from the bullet library:
 When given a new job requisition:
 
 1. Locate the closest prior variant in local `Send To/` for the same company or a similar role/seniority. Reuse its tone and any already-targeted bullets. Check legacy external folders only if the local workspace does not already contain a good analogue.
-2. Choose the correct base resume (`CTO` vs `Principal Engineer`) as the backbone, copy that canonical `.docx`, and use the copied Word file as the starting template.
+2. Choose the correct base resume (`CTO`, `Engineering Manager`, or `Principal Engineer`) as the backbone, copy that canonical `.docx`, and use the copied Word file as the starting template.
 3. Read the job description and extract:
    - Must-have responsibilities (ownership scope, org size, stakeholder level)
    - Must-have technical domains (cloud, platform, security, AI, etc.)
@@ -145,6 +194,7 @@ When given a new job requisition:
    - Verb tense consistent (past for past roles; present for current).
    - No unsupported claims (do not invent metrics).
    - Remove role-misaligned details (e.g., too much IC depth for CTO, or too much org narrative for Principal) unless the req explicitly wants that hybrid.
+   - Do not use em dashes in resume copy; prefer commas, parentheses, vertical bars, colons, or a regular hyphen.
 7. Update the application tracker in the local NocoDB instance at `http://localhost:8085`:
    - Base: `Job Search`
    - Table: `Applications`
@@ -234,6 +284,7 @@ Populate as much as is known at creation time:
 - `Ref Number`
 - `Link`
 - `Resume Folder`
+- `Resume Decision`
 
 Status convention:
 
@@ -252,11 +303,13 @@ Helper workflow:
 - Preferred locator for updates is `Resume Folder`.
 - `update-application.sh` also supports row `Id`, or `Company + Title` when that match is unique.
 - For status transitions like `SUBMITTED` or `REJECTED`, prefer the updater script over manual SQLite edits.
+- Use `Resume Decision` to capture the dispatch strategy, for example `Customize | Canonical EM | strong: prepared; comp clears floor`, `Light customize | Canonical Principal | strong IC fit`, `Canonical CTO direct | acceptable`, or `Hold/skip | stale or below floor`.
+- The tracker helpers support this field with `--resume-decision`.
 
 ## Role Emphasis Heuristics
 
 - CTO/VP/Head of Eng: org building, execution systems, budgeting, security/compliance, cross-functional leadership, transformation, strategy.
-- Director/Eng Lead: multi-team delivery, platform/devex, incident response/SLOs, operational excellence, stakeholder alignment.
+- Engineering Manager / Senior Engineering Manager / Director: team leadership, delivery systems, platform/devex, incident response/SLOs, operational excellence, stakeholder alignment.
 - Principal/Distinguished: architecture, distributed systems, hands-on execution, reliability/perf, AI integration, migration/modernization.
 
 Keep the resume "truthful but maximally aligned": same underlying achievements, different ordering and wording depending on the target.
@@ -373,6 +426,24 @@ Primary channel inventory:
 
 - `/Users/chris/2026 Resumes/Search-Sites.md`
 
+### Browser Search Automation
+
+For browser-based job searches, use the dedicated debug-enabled Chrome launcher:
+
+```sh
+cd "/Users/chris/2026 Resumes"
+scripts/launch_resume_chrome.sh about:blank
+```
+
+Use `scripts/launch_resume_chrome.sh --status` to verify the setup. Expected healthy state:
+
+- debug listener is up on port `9224`
+- profile is `/tmp/codex-resume-chrome`
+- `/Users/chris/Library/Application Support/Google/Chrome/DevToolsActivePort` exists and points to the live browser id
+- `chrome-devtools-mcp` can list the `about:blank` page
+
+Do not manually launch normal Chrome or assume port `9222`. The launcher suppresses first-run/default-browser/sign-in prompts for the automation profile, writes the DevTools port file expected by the MCP, and avoids using Chris's normal browser profile. If automation cannot connect, first close the automation Chrome window, rerun the launcher, then check `--status` before trying other browser-control approaches.
+
 ### Default Search Cadence
 
 - Daily or near-daily:
@@ -428,7 +499,7 @@ Use combinations of:
 
 ### Output Format For Search Sessions
 
-When running a search session, produce a dated markdown review queue in the workspace with buckets:
+When running a search session, produce a dated markdown review queue under `/Users/chris/2026 Resumes/searches/` with buckets:
 
 - `Apply Now`
 - `Apply If Time`
@@ -447,7 +518,7 @@ Each item should capture, when available:
 
 ### Review Queue Rules
 
-- Keep broad search notes in a dated markdown queue until a role is selected for action.
+- Keep broad search notes in a dated markdown queue under `/Users/chris/2026 Resumes/searches/` until a role is selected for action.
 - Only create a `Send To/` folder and a `CREATED` tracker row once a role is promoted into active tailoring work.
 - It is acceptable to add explicit `PROBABLY NOT` rows to the tracker for notable roles already researched, especially if that avoids re-evaluating the same posting later.
 

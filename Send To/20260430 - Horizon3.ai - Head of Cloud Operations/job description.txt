@@ -1,0 +1,77 @@
+Source: LinkedIn / Built In
+LinkedIn: https://www.linkedin.com/jobs/view/head-of-cloud-operations-at-horizon3-ai-4321802922
+Built In mirror: https://www.builtinsf.com/job/director-cloud-operations/7659770
+Captured: 2026-04-30
+
+Horizon3.ai - Head of Cloud Operations
+
+Remote, United States
+Full-time
+Base salary range: $250,000 - $300,000 annually
+Additional compensation: equity package in the form of stock options
+Travel: up to 5%
+
+Get to Know Us
+
+Horizon3.ai is a fast-growing, remote cybersecurity company dedicated to the mission of enabling organizations to proactively find, fix and verify exploitable attack vectors before criminals exploit them. Our flagship product, the NodeZero platform, delivers production-safe autonomous pentests and other key assessment operations that scale across the largest internal, external, cloud, and hybrid cloud environments. NodeZero has been adopted by organizations of all sizes, from small educational institutions to government agencies and Global 100 enterprises. It is used by IT Ops/SecOps teams, consulting pentesters, and MSSPs and MSPs.
+
+We are a fusion of former U.S. Special Operations cyber operators, startup engineers and operators, and formerly frustrated cybersecurity practitioners. We're committed to helping solve our common security problems: ineffective security tools and false positives, resulting in alert fatigue, blind spots, checkbox security culture, cybersecurity skills shortage, and the long lead time and expense of hiring outside consultants.
+
+As a remote first company, we require minimum 25Mbps consumer grade broadband connection.
+
+What You'll Do
+
+As Head of Cloud Operations, you'll lead our cloud infrastructure and platform engineering teams as we scale our SaaS platform globally. Reporting to the VP of Engineering, you'll lead a growing team of platform and data engineers through two engineering managers, driving the architecture, security, and scalability of our cloud infrastructure that powers our autonomous penetration testing platform.
+
+This role requires a rare combination of deep technical expertise, strategic vision, and hands-on leadership. You'll be equally comfortable reviewing Terraform configurations, presenting operational metrics to the board, and mentoring engineering managers on best practices.
+
+Key Responsibilities
+
+Strategic Leadership & Architecture:
+Guide architectural design and oversee implementation of our SaaS product across multiple regions. Create and execute multi-year technology roadmaps for cloud operations, aligning infrastructure strategy with business objectives and revenue goals. Identify and evaluate emerging cloud technologies and create adoption roadmaps, presenting potential impacts on business growth to the board. Lead our multi-cluster Kubernetes strategy. Lead vendor evaluation and management, negotiating SLAs based on real-world implementation experience to support global SaaS expansion.
+
+Technical Leadership:
+Understand best practices for multi-region cloud infrastructure deployment using modern infrastructure-as-code tooling. Accountable for optimizing our cloud infrastructure platform and product CI/CD pipelines, leveraging software engineering expertise to reduce downtime and accelerate feature releases. Oversee real-time monitoring systems (Prometheus, Datadog, CloudWatch) with intelligent alerting and auto-scaling features, based on practical experience in troubleshooting and enhancing cloud service reliability. Execute multi-region failover systems and backup strategies, ensuring business continuity through practical implementation and regular disaster recovery drills. Conduct load testing and predictive modeling for user growth, using engineering tools to proactively scale infrastructure and avoid bottlenecks in global markets. Guide architectural decisions and mentor technical leaders.
+
+Operational Excellence & Cost Management:
+Create and implement strategies for cloud cost optimization, such as rightsizing resources, leveraging spot instances, and reserved capacity planning, with data-driven analysis to report savings and ROI to the board. Establish and monitor SLAs, SLOs, and SLIs for all critical services, driving continuous improvement in uptime, performance, and reliability. Establish on-call rotation practices, ensure effective incident response, and conduct thorough post-mortems to prevent recurrence. Establish analytics dashboards for operational insights, enabling evidence-based recommendations to optimize for enterprise and new market expansion.
+
+Security, Compliance & Risk Management:
+Ensure cloud infrastructure meets global compliance requirements including GDPR, CCPA, FedRAMP, CMMC, and data sovereignty standards. Partner with Security to establish response protocols for cloud-based threats, including integrating our cloud environments with security tools like SIEM and CSPM systems. Collaborate with security teams to implement security hardening, vulnerability management, and zero-trust architecture principles. Ensure SOC 2, ISO 27001 compliance and maintain audit readiness across all cloud environments.
+
+Team Leadership & Development:
+Lead, mentor, and grow organization of engineers across platform and data infrastructure, fostering a culture of hands-on engineering excellence. Manage engineering managers directly, developing their leadership capabilities and ensuring effective team performance. Foster a culture of continuous learning, emphasizing agile methodologies, DevOps best practices, practical AI-tool adoption, and cross-functional collaboration. Drive hiring strategy to scale the team in alignment with company growth, establishing interview processes and technical assessments.
+
+Executive Communication & Stakeholder Management:
+Prepare concise reports on operational KPIs such as uptime, response times, incident metrics, cost efficiency, and security posture, tailored to highlight strategic risks and opportunities for board and executive audiences. Partner with Product, Go-to-Market, and Engineering leadership to align infrastructure capabilities with product roadmap and customer commitments. Present technical strategies and business cases to C-suite executives, translating complex technical concepts into business value.
+
+This is a highly visible leadership role central to Horizon3.ai's mission of delivering continuous, autonomous security testing at scale.
+
+What You'll Bring
+
+- 10+ years in cloud infrastructure/platform engineering with 5+ years leading teams of 15+ engineers in high-growth startups
+- Expertise in Infrastructure as Code (Terraform, CloudFormation, Ansible) and CI/CD pipelines (Jenkins, GitLab CI/CD, GitHub Actions)
+- Experience managing multi-region Kubernetes environments; GitOps experience strongly preferred
+- Proven ability to build, scale, and retain high-performing engineering teams in remote or distributed environments
+- Exceptional communication skills with ability to influence and align stakeholders at all levels, from engineers to board members
+- Track record of translating business requirements into technical strategies and vice versa
+- Experience managing budgets, forecasting costs, and demonstrating ROI on infrastructure investments
+- Strong project management skills with ability to balance multiple priorities and drive execution
+- Bachelor's or Master's degree in Computer Science, Engineering, or related technical field
+
+Required Tech Stack Experience
+
+- Expert-level knowledge of container orchestration platforms (Kubernetes, Docker, ECS/EKS)
+- Deep understanding of networking, security, and compliance in cloud environments
+- Proficiency with monitoring, logging, and observability tools (Prometheus, Grafana, Datadog, ELK stack, Splunk)
+- Experience with database technologies at scale (PostgreSQL, MySQL, MongoDB, Redis) and data pipeline architectures
+- Strong understanding of security best practices, including zero-trust architecture, secrets management, and vulnerability remediation
+- Familiarity with compliance frameworks (SOC 2, ISO 27001, GDPR, CCPA, FedRAMP)
+
+Bonus Qualifications
+
+- Relevant cloud certifications (AWS Certified Solutions Architect Professional, Azure Solutions Architect Expert, Google Cloud Professional Cloud Architect, or equivalent)
+- Experience in cybersecurity, security operations, or related domains
+- Background in SaaS companies that have successfully scaled from Series B through IPO or acquisition
+- Experience with FinOps practices and cloud financial management
+- Contributions to open-source projects or technical thought leadership

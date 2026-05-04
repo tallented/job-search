@@ -39,6 +39,11 @@ Validated: 2026-04-09 via resume-tailoring QA with Chris Tallent.
 - Used Agile / staged delivery in a high-ambiguity environment
 - Preferred to deliver working feature slices every two weeks so stakeholders could refine expectations against real software
 
+## Experimentation / Recommendation Tuning
+
+- Used Optimizely for A/B testing while refining recommendation and product behavior
+- Also used dynamic JavaScript rewriting tooling to support experimentation and behavior changes without tightly coupling every change to backend service releases
+
 ## Cross-Team / Operations
 
 - Consistently worked across teams to align product, UX, QA, and engineering work

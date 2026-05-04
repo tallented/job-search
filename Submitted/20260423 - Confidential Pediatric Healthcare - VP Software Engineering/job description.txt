@@ -1,0 +1,94 @@
+Vice President of Software Engineering
+
+Enzo Tech Group
+
+United States
+Remote
+Full-time
+
+Chicago, IL | Remote - Quarterly Executive Travel
+
+We are partnering with a leading, enterprise-scale pediatric healthcare organisation at a critical point in its technology evolution.
+
+This organisation is recognised for delivering world-class care to children and families, and is now undergoing a large-scale, multi-year software, platform, and AI transformation to modernise how care is delivered, accessed, and experienced.
+
+Following significant investment, the business has transitioned from legacy systems to a modern, cloud-native, microservices-based architecture, establishing a strong digital and platform foundation.
+
+The next phase is focused on scaling engineering excellence, accelerating product delivery, and embedding AI-driven capabilities across clinical, operational, and digital health platforms.
+
+The Opportunity
+
+We are seeking a Vice President of Software Engineering to define and execute the enterprise engineering vision across a complex, mission-critical environment.
+
+Reporting into executive leadership, this is a top-of-house role with full responsibility for building and scaling a high-performing global engineering organisation.
+
+This is a post-transformation, build-and-scale mandate, focused on elevating engineering maturity, driving innovation, and delivering secure, scalable, and patient-centric technology solutions at enterprise scale.
+
+Why This Role Is Compelling
+
+Full ownership of scaling a modern Software Engineering function end-to-end
+Clear mandate: cloud and platform foundation -> engineering excellence and AI-enabled innovation
+Opportunity to shape engineering strategy within a leading pediatric healthcare environment
+Strong technical foundations already in place (cloud-native + microservices architecture)
+High-impact role driving real-world outcomes across clinical and digital ecosystems
+Direct partnership with executive leadership on long-term technology strategy
+
+What You’ll Do
+
+Own & Scale the Engineering Function
+Build, scale, and lead a global Software Engineering organisation across application development, platform engineering, DevOps, SRE, and quality engineering.
+
+Define the Engineering Strategy
+Set and execute the enterprise Software Engineering vision, aligned to business priorities across clinical, digital, and operational platforms.
+
+Drive Modern Engineering Practices
+Establish best-in-class practices across cloud-native development, CI/CD, automation, reliability, and performance.
+
+Lead Large-Scale Transformation Initiatives
+Drive initiatives spanning application modernisation, platform engineering, API ecosystems, and digital product development.
+
+Enable AI-Driven Innovation
+Partner with data and AI teams to embed intelligent capabilities into products and workflows, accelerating automation and decision-making.
+
+Leverage Cloud-Native Architecture
+Build on a modern microservices-based environment (AWS, Azure, and/or GCP), ensuring scalability, resilience, and security.
+
+Deliver at Scale
+Own the full engineering lifecycle, from architecture and design through to delivery, reliability, security, compliance, and optimisation.
+
+Partner Across the Organisation
+Collaborate closely with Product, Data, Clinical, and Executive stakeholders to deliver high-impact, patient-centric solutions.
+
+Establish Governance & Standards
+Implement engineering standards, frameworks, and metrics to ensure consistency, quality, and operational excellence.
+
+Advise Executive Leadership
+Act as a strategic partner to the C-suite on technology direction, investment, and long-term innovation.
+
+What Success Looks Like
+
+A scaled, high-performing Software Engineering organisation with strong leadership and structure
+Modern engineering practices embedded across the enterprise
+Accelerated delivery of secure, scalable digital and clinical platforms
+Successful integration of AI-driven capabilities into core products and workflows
+Strong alignment across engineering, product, and data functions
+Technology recognised as a key driver of patient outcomes and organisational performance
+
+What You Bring
+
+12–15+ years of experience in Software Engineering leadership roles
+Proven track record of building and scaling engineering organisations in complex, enterprise environments
+Experience leading cloud transformation and modern engineering practices at scale
+Strong understanding of microservices, distributed systems, and platform engineering
+Experience operating in regulated environments (healthcare, life sciences, or similar) is highly advantageous
+Ability to influence at executive level and translate technology into business impact
+Track record of delivering large-scale, mission-critical technology initiatives
+
+Compensation & Benefits
+
+Base Salary: $350,000 – $425,000
+Bonus + Long-Term Incentives + Comprehensive benefits
+Executive-level role with significant organisational impact
+
+Source:
+https://www.linkedin.com/jobs/view/4402501651/
