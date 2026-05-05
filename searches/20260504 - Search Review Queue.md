@@ -48,14 +48,15 @@ Income-continuity and fast-submit rules still apply: already-created folders wit
 5. `NetBox Labs - Vice President, Engineering`
 6. `SQUIRE - VP, Engineering`
 7. `Help Scout - VP of Engineering`
-8. `CoderPad - Director of Engineering`
-9. `1Password - Senior Director Engineering, Identity Security Platform Infrastructure`
-10. `Antenna - VP, Engineering`
-11. `Doppler - Head of Engineering`
-12. `Red Cell Partners / DEFCON AI - VP of Engineering`
-13. `ACV Auctions - VP, Platform Engineering`
-14. `Huntress - Director of Engineering, EDR`
-15. `Babylist - Senior Engineering Manager, Machine Learning`
+8. `SafelyYou - Vice President of Engineering, SafelyYou Platform`
+9. `CoderPad - Director of Engineering`
+10. `1Password - Senior Director Engineering, Identity Security Platform Infrastructure`
+11. `Antenna - VP, Engineering`
+12. `Doppler - Head of Engineering`
+13. `Red Cell Partners / DEFCON AI - VP of Engineering`
+14. `ACV Auctions - VP, Platform Engineering`
+15. `Huntress - Director of Engineering, EDR`
+16. `Babylist - Senior Engineering Manager, Machine Learning`
 
 If sending only `2` next: submit `ServiceNow`, then `Upstart`.
 
@@ -127,6 +128,16 @@ If starting one new resume after the already-created folders: start `NetBox Labs
 - Why it should be high: fully remote, VP scope, mature remote culture, explicit AI strategy and modernization language, strong cross-functional/product leadership fit.
 - Risk/stretch: product/customer-support SaaS domain is less platform-heavy than NetBox or ServiceNow; tailor around execution, AI-assisted modernization, and customer-facing product delivery.
 - Sources: https://jobs.ashbyhq.com/helpscout/3effead1-f5b5-4fa9-9d0e-149ecf3991a3 | https://nodesk.co/remote-jobs/help-scout-vp-of-engineering/
+
+### SafelyYou - Vice President of Engineering, SafelyYou Platform
+
+- Status: new strong target; verified live on Indeed with active company-site apply flow.
+- Work model: fully remote; candidates must be located in the United States or Canada.
+- Compensation: undisclosed.
+- Fit: very strong VP/platform operating role: 50+ engineering org across Infrastructure, Mobile, Cloud, Fleet Software, AI, and Hardware; high-availability life-safety workloads; distributed device fleet; operational excellence; compliance-adjacent senior care environment; product/R&D/operations/compliance partnership.
+- Why it should be high: VP title, remote model, AI-enabled mission-critical platform, and execution/reliability scope align well with the CTO/VP lane and recent positioning work.
+- Risk/stretch: CPTO owns long-term technical vision, so this is more execution VP than pure CTO; compensation must be prequalified early.
+- Sources: https://www.indeed.com/viewjob?jk=733b367a48256c25 | https://careers.safely-you.com/jobs/558220-vice-president-of-engineering-safelyyou-platform
 
 ### CoderPad - Director of Engineering
 

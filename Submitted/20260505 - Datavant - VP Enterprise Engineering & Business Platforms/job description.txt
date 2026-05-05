@@ -1,0 +1,46 @@
+Datavant - VP Enterprise Engineering & Business Platforms
+
+Official source: https://www.datavant.com/about/careers/open-roles/job?gh_jid=5150693008
+Greenhouse job id: 5150693008
+Datavant requisition id shown on official page: 6220
+Captured: 2026-05-05
+
+Status: Live on Datavant's official careers portal as of 2026-05-05. The same role also appears on Transformation Capital's partner-company job board, but Datavant's official careers URL is the safer application source.
+Location: Remote - United States
+Employment type: Full-time regular
+Compensation: $250,000-$300,000 estimated total cash compensation
+
+Datavant is hiring a Vice President, Enterprise Engineering & Business Platforms to unify architecture and mature operations across the company's enterprise business platform layer: finance, CRM, integration, automation, and customer identity.
+
+Role focus:
+- Own engineering and architecture for revenue-critical enterprise systems.
+- Cover financial platforms, CRM, integration middleware, automation infrastructure, and customer-facing identity.
+- Support systems processing hundreds of millions of dollars in revenue, complex healthcare workflows, and dozens of applications across a growing and acquisition-influenced ecosystem.
+- Bring architectural clarity, durable ownership, integration discipline, and long-term cohesion to a fragmented enterprise platform layer.
+- Make definitive architecture and vendor decisions, simplify and consolidate systems, establish governance, and build a high-performing organization for regulated healthcare enterprise platforms.
+
+Key responsibilities:
+- Define enterprise business platform architecture and governance.
+- Establish system boundaries, integration patterns, API management, middleware strategy, and event-driven patterns.
+- Prevent platform fragmentation and over-customization, especially around Salesforce and financial systems.
+- Own engineering architecture for billing, revenue recognition, contract management, and financial reporting.
+- Partner with Finance leadership on scalable, audit-ready, operationally resilient systems.
+- Own CRM and Salesforce architecture governance, data standards, and change control.
+- Govern vendors and implementation partners to reduce architectural drift and technical debt.
+- Establish middleware as a first-class platform capability and reduce contractor dependency.
+- Govern enterprise automation: managed file transfer, RPA, AI-enabled workflow initiatives, and contact-center automation.
+- Consolidate and harden customer-facing authentication and authorization.
+- Lead and develop directors and managers across financial systems, CRM, middleware, and automation.
+- Build senior enterprise platform engineering capacity globally.
+
+Requirements:
+- 15+ years in technology leadership.
+- 5+ years leading enterprise engineering or platform organizations at VP or senior director level.
+- Complex multi-platform enterprise ecosystems.
+- Integration architecture, middleware, APIs, and event-driven systems.
+- COTS platforms such as Salesforce, NetSuite, or equivalent, with governance against over-customization.
+- Financial or revenue systems modernization in high-growth or acquisition-driven environments.
+- Consolidating fragmented ownership models and building durable engineering organizations.
+- Regulated or compliance-heavy industries, healthcare, life sciences, or financial services preferred.
+- Clear communication, stakeholder alignment, and definitive architecture/vendor decisions under ambiguity.
+- Geographically distributed teams and significant vendor ecosystems.

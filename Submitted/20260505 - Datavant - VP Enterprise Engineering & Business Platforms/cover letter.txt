@@ -1,0 +1,15 @@
+Dear Datavant team,
+
+I am interested in the VP, Enterprise Engineering & Business Platforms role because it matches the kind of platform problem I have repeatedly owned: bringing architecture, integration discipline, access controls, vendor decisions, and delivery ownership to complex systems where fragmentation has started to slow the business down.
+
+Most recently, I have served as CTO and lead architect for Pitchstone Technology, building an AI-enabled enterprise workflow platform supporting a Fortune 100 wireless retailer's store-development process across roughly 15,000 locations. That work required product ownership, API and workflow design, OIDC authentication, client-configured RBAC, AWS account and access-boundary design, ISO 27001 readiness, vendor evaluation, and coordination across multiple customer teams, including networking and cybersecurity dependencies.
+
+Earlier, as CTO of Automobile Consumer Services, I led modernization of an automotive fintech platform handling payment, credit, PII, and customer-facing finance workflows. I modernized legacy systems into Angular and Java services on AWS Kubernetes, improved release cycles from weeks to hours, and owned reliability for production finance workflows where uptime, rollback paths, and incident response mattered.
+
+Datavant's role stands out because it is not just an application leadership role. It is an architecture, governance, integration, identity, financial-platform, and operating-model role across a fragmented enterprise layer. That is the kind of ambiguous environment where I am useful: defining boundaries, reducing drift, making vendor and platform tradeoffs explicit, and building teams that can own the platform long term.
+
+I would welcome the opportunity to discuss how my background in regulated systems, enterprise workflow platforms, integration governance, customer identity, and engineering leadership could help Datavant mature this platform layer.
+
+Sincerely,
+
+Chris Tallent

@@ -38,6 +38,7 @@ These should not get NocoDB rows until promoted into active tailoring work.
 | NetBox Labs | Vice President, Engineering | Yes | Engineering Manager | `Customize | Canonical EM | very strong: VP execution system, platform/devex, AI-native practices` |
 | SQUIRE | VP, Engineering | Yes | CTO | `Customize | Canonical CTO | strong VP/product/payments/AI adoption fit; frame org scale carefully` |
 | Help Scout | VP of Engineering | Yes | CTO | `Customize | Canonical CTO | strong remote VP, AI strategy, modernization, P&L, product partnership` |
+| SafelyYou | Vice President of Engineering, SafelyYou Platform | Yes | CTO | `Customize | Canonical CTO | strong remote VP/platform execution; AI life-safety/device fleet; prequalify comp` |
 | CoderPad | Director of Engineering | Yes | Engineering Manager | `Customize | Canonical EM | strong devtools/AI coding adoption; comp clears floor` |
 | Antenna | VP, Engineering | Yes | CTO | `Customize | Canonical CTO | strong data/AI VP role; data-stack depth is the stretch` |
 | Doppler | Head of Engineering | Light | CTO | `Light customize | Canonical CTO | strong developer-infra/security fit; small startup/player-coach` |
@@ -56,4 +57,4 @@ These should not get NocoDB rows until promoted into active tailoring work.
 3. Submit already-prepared `Horizon3.ai`.
 4. Submit already-prepared `Tremendous` with only light top-third polish if needed.
 5. Create new tailored resume for `NetBox Labs`.
-6. Create new tailored resume for `SQUIRE` or `Help Scout`, depending on whether the next push should be product/VP/CTO-style or AI-native engineering execution.
+6. Create new tailored resume for `SQUIRE`, `Help Scout`, or `SafelyYou`, depending on whether the next push should be product/payments VP, remote SaaS VP, or AI-enabled mission-critical platform execution.

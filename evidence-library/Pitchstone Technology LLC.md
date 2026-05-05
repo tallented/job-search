@@ -80,6 +80,20 @@ Validated: 2026-04-09 via resume-tailoring QA with Chris Tallent.
 - Chose IAM Identity Center / SSO direction rather than using Google Workspace directly
 - Built the AWS accounts and selected Pulumi as the IaC / DevOps stack with the DevOps lead
 
+## Identity / Authorization / Credential Management
+
+Validated: 2026-05-05 via user-provided detail during 1Password resume tailoring.
+
+- Implemented identity and authentication patterns using JWTs; when needed, supported JWT expiration tracking through a database-backed expiration table
+- Refactored TBuilder from custom username/password authentication to Microsoft Azure Entra SSO for T-Mobile cybersecurity alignment
+- Built Pitchstone Platform from the ground up with a standalone Keycloak OIDC instance to support Google IDP and keep the application SSO/OIDC-ready
+- Defined robust role and permission models in both:
+  - TBuilder
+  - Pitchstone Platform
+- Managed application-level credentials through AWS Secrets Manager, with secrets injected only into runtimes rather than stored directly in application code or images
+- Managed other API keys and non-application secrets in 1Password
+- Signed build artifacts during the Bitbucket build process and verified signatures when executing production Docker images
+
 ## ISO 27001 / Security Program
 
 - Full ISO 27001 certification attained in `April 2023`

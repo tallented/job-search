@@ -1,0 +1,44 @@
+Deel - Head of Engineering (FinTech / Fintech Platform)
+
+Original source: https://www.linkedin.com/jobs/view/4407947292/
+Official company job board source found: https://jobs.ashbyhq.com/Deel/e15012a6-b7b3-4ed0-b76b-14acfdcf5b13/
+Captured: 2026-05-05
+
+Status: Live on LinkedIn as of 2026-05-05 search results. Same role found on Deel's official Ashby job board; the Ashby page requires JavaScript but search excerpts show the official posting content.
+Location: Remote. LinkedIn search result showed Atlanta, GA / EMEA variants; official Ashby result lists EMEA plus several country/city locations and Location Type Remote.
+Employment type: Full time
+Compensation: Undisclosed in the captured posting excerpts.
+
+Role focus:
+- Lead Deel's engineering organization for end-to-end financial infrastructure.
+- Own payments orchestration, PSP integrations, wallets, regulated entity flows, General Ledger, accounting automation, treasury, FX, liquidity, billing, invoicing, revenue flows, reconciliation, financial data integrity, fincrime, and compliance systems.
+- Build regulated, scalable, auditable financial systems as Deel moves toward IPO readiness.
+- Operate at the intersection of engineering, product, finance, treasury, and compliance.
+- Build an AI-first fintech platform, including AI-assisted engineering, AI-assisted reconciliation, accounting validation, transaction monitoring, anomaly detection, data-integrity checks, close-risk detection, discrepancy explanations, and corrective-action workflows.
+- Design and evolve MCP server infrastructure for controlled, auditable AI interaction with financial data and services.
+
+Key responsibilities:
+- Define and execute the technical strategy for Deel's financial infrastructure.
+- Build scalable, modular architecture across payments, ledger, treasury, compliance, billing, invoicing, and reconciliation.
+- Drive real-time, event-driven financial systems.
+- Partner deeply with Product, Finance, Treasury, and Compliance.
+- Embed product thinking into engineering culture in the era of LLMs.
+- Ensure idempotency, consistency, fault tolerance, auditability, permissions, separation of duties, and strong controls across financial flows.
+- Support SOX readiness, regulated entities, KYC, AML, transaction monitoring, financial reporting, and faster accounting close.
+- Establish strong engineering processes, SLAs, reliability standards, observability, and explainability for financial systems.
+- Lead multiple teams across payments orchestration, ledger/accounting, treasury, billing/invoicing, reconciliation, and fincrime.
+- Hire, mentor, and develop senior engineering leaders and ICs.
+
+Must-have / preferred signals:
+- Proven Head of Engineering / Director / Senior EM experience in fintech or financial systems.
+- Built or scaled payments infrastructure, ledger/accounting systems, high-scale distributed systems, and regulated environments.
+- Experience with KYC/AML, compliance systems, and financial reporting constraints.
+- Strong backend expertise, especially Node.js / TypeScript or similar.
+- Deep understanding of distributed systems, event-driven architectures, data consistency, reconciliation, high concurrency, idempotency, and audit trails.
+- Ability to translate business problems into technical solutions and make prioritization/tradeoff decisions.
+- Experience managing multiple teams and senior leaders.
+- Bonus: IPO readiness, SOX, audit, close processes, wallets, payment orchestration, treasury/liquidity platforms, automated reconciliation, NetSuite/ERP integrations, event-driven accounting systems, MCP / real-time posting infrastructure.
+
+Tailoring notes:
+- Strong alignment: CTO/Head-level architecture and org leadership, fintech modernization, payment/credit workflows, regulated data, ISO/security controls, production reliability, distributed systems, AWS/Kubernetes, AI/MCP tooling, typed APIs, RBAC/audit logging, and executive/product/finance/security stakeholder work.
+- Stretch/risk: Posting asks for deep direct payments, ledger/accounting, GL, treasury, FX, KYC/AML, and Stripe/Adyen/PayPal/Wise-style fintech infrastructure. Do not overclaim. Use truthful adjacent experience from ACS, Fidelity, Pitchstone, and Proven Edge.

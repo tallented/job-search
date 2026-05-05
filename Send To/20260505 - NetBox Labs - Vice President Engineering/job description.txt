@@ -1,0 +1,176 @@
+NetBox Labs - Vice President, Engineering
+Original source URL: https://jobs.ashbyhq.com/netboxlabs/c221895d-61db-4b34-b2e1-a3cdda4e203a/
+Fetched on: 2026-05-05
+Source used for local copy: Original Ashby posting
+Work model: US Remote
+Compensation: $270,000-$290,000 plus equity and bonus
+Listing source: Ashby
+
+--- FULL POSTING ---
+
+WHY THIS ROLE, WHY NOW
+
+NetBox Labs is crossing a threshold: from a set of strong teams to a coordinated multi-team organization.
+
+We are evolving from a single product into a multi-product platform, operating across both SaaS and on-prem delivery models. We are standardizing shared foundations across teams while continuing to ship.
+
+Today, the CTO carries both strategic and operational responsibility. We are creating this VP of Engineering role to own day-to-day engineering execution — delivery, people development, and cross-team coordination — so the CTO can focus on strategy. The goal is to build a system that reliably turns strategy into shipped product.
+
+At the same time, the company is committing to a step-function shift toward AI-native engineering. This is not incremental optimization. It is a redefinition of how software is built. This is the company’s top organizational priority, and it is already underway.
+
+You will not be starting from scratch. You will be joining a system mid-transformation and expected to accelerate it.
+
+
+WHAT YOU’LL OWN
+
+Scrappy execution
+You are comfortable making pragmatic progress without perfect structure, complete resourcing, or full alignment. You unblock teams by simplifying problems, making tradeoffs explicit, and moving work forward with the resources available.
+
+You create momentum in imperfect conditions, tightening the system over time rather than waiting for it to be designed upfront.
+
+The engineering organization
+You will lead three engineering directors and their teams. You are accountable for leadership quality, team performance, and output.
+
+Execution system
+You own how work gets done: planning, cycles, release coordination, and cross-team execution. The core challenge is across teams: coordinating multiple products, shared platform work, and dual delivery models.
+
+You will shape team boundaries and interfaces so teams can move quickly with minimal coordination overhead. This includes clarifying ownership, reducing cognitive load, and defining clean contracts between teams.
+
+AI-native practices are a core part of the execution system: spec-driven development, AI-assisted implementation and review, and faster iteration cycles with stronger verification and operational rigor.
+
+Quality and operational discipline
+You own the systems that protect velocity: CI/CD, testing strategy, reliability, and incident response.
+
+We are investing in an AI accountability model: progressively delegating work to AI systems with guardrails based on risk. Your role is to operationalize this — not as a concept, but as daily engineering practice.
+
+People and performance
+You own hiring, performance management, and leadership development.
+
+You will partner with the CTO on org design as the company scales.
+
+
+WHAT YOU WON’T OWN
+
+Technical direction
+The CTO and a principal engineering group own architecture and long-term technical strategy.
+
+You are expected to engage and challenge, but your primary responsibility is execution against that direction.
+
+Product roadmap
+Product reports separately to a VP of Product.
+
+You will partner closely, but you do not own prioritization.
+
+
+WHAT SUCCESS LOOKS LIKE (12 MONTHS)
+
+ - Engineering delivers predictably across multiple products and delivery models without executive intervention
+
+ - Directors independently run high-functioning teams with minimal escalation
+
+ - Platform (Foundations) investment materially reduces delivery friction and duplication of work
+
+ - Cross-team coordination no longer blocks major initiatives
+
+ - AI-native practices measurably improve throughput and/or quality
+
+ - The CTO is fully out of day-to-day execution management
+
+
+THE COMPLEXITIES YOU’LL NAVIGATE
+
+You are joining mid-flight
+Org structure, operating model, and AI practices are all evolving simultaneously.
+
+You will need to quickly distinguish:
+
+ - What is working and should be reinforced
+
+ - What is fragile and needs structure
+
+ - What is wrong and needs to change
+
+AI-native is real, but immature
+We have a framework and early adoption, but not consistency.
+
+You will need to push adoption where it creates leverage, constrain it where it creates risk, and build systems that maintain comprehension and quality.
+
+Hybrid SaaS + on-prem is operationally harder
+On-prem environments introduce less observability, less control, and slower feedback loops compared to SaaS.
+
+If you default to SaaS-only assumptions, you will break things.
+
+Multiple products, shared foundations
+Operating multiple products on shared infrastructure introduces coordination challenges that require deliberate system design. The goal is clear ownership and well-defined interaction patterns so teams can operate independently where possible and collaborate intentionally where necessary.
+
+You inherit leaders to develop
+You will inherit a group of engineering directors with diverse strengths and growth areas.
+
+Your role is to help them operate as a cohesive leadership team with clear expectations, strong execution discipline, and shared accountability.
+
+This role emphasizes:
+
+ - Coaching and support
+
+ - Clarity of expectations
+
+ - Consistent follow-through
+
+You will work through these leaders, not around them.
+
+
+ROLE BOUNDARIES
+
+This is not a CTO-in-waiting role. You will not own technical direction, architecture, or long-term technology strategy.
+
+Your mandate is to build and run the execution system that turns that strategy into reality.
+
+Your role is to build a system that scales beyond individual leaders.
+
+
+WHAT WE’RE LOOKING FOR
+
+You should expect to form strong opinions quickly and act on them within weeks, not months.
+
+Pragmatic operator
+You have a bias toward progress. You can move work forward with incomplete information, limited resources, and evolving structure. You know when to invest in process — and when to bypass it to get results.
+
+You simplify, prioritize, and execute rather than waiting for ideal conditions.
+
+Scaled engineering leadership (40–100 engineers)
+You have built and run an engineering organization at this size. You know how to introduce structure without slowing teams down.
+
+Execution track record
+You have owned outcomes: shipped products, improved delivery systems, and fixed execution failures.
+
+Infrastructure / platform fluency
+You can engage credibly with engineers building infrastructure, developer tooling, and systems software.
+
+Manager of managers
+You develop leaders. You hold them accountable. You make them better.
+
+AI-native conviction (grounded in practice)
+You have hands-on exposure to AI-assisted development and a point of view on how it changes engineering.
+
+Hands-on when needed
+You can dive into the work to understand how things actually function — reading code when useful, asking sharp questions, using modern tooling (including AI) to investigate, and helping teams unblock.
+
+
+OUR CULTURE AND VALUES: 
+
+ - We own and solve problems with high attention to detail.
+
+ - Our open source contributors, users, customers & team are all part of our community. When our community wins, we win.
+
+ - We prioritize simplicity and think twice before adding complexity
+
+ - Clear communication helps keep our team aligned and collaborating smoothly.
+
+
+ABOUT NETBOX LABS:
+
+NetBox Labs helps companies build and manage complex networks. We help customers accelerate network automation by delivering open, composable products and supporting the network automation community.
+
+NetBox Labs is the commercial steward of open source NetBox, the world’s most popular network source of truth, and Orb, the next-generation open source network observability platform. Our products include NetBox Enterprise, a fully supported self-managed NetBox with advanced features, and NetBox Cloud, a secure, scalable, and reliable SaaS edition of NetBox.
+
+NetBox powers thousands of companies, and NetBox Labs is backed by investment from Notable Capital (formerly GGV), Grafana Labs CEO Raj Dutt, Flybridge, IBM, Salesforce Ventures, and Mango Capital.

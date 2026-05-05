@@ -13,6 +13,8 @@ Validated: 2026-04-09 via resume-tailoring QA with Chris Tallent.
   - recreated document data-point extraction using Gemini and Gemini Vision
   - implemented generative search over help docs using chunking, embeddings, and a Python vector store
   - built an agentic AI assistant for admins that can query and act against the admin API
+- Built Zitadel OIDC into the Proven Edge application scaffold from the beginning to support Google and Meta IDPs plus Zitadel-managed usernames with password or passcode authentication
+- Built dynamic RBAC into the scaffold so team- or client-level administrators could configure roles and permissions around their employees and business needs
 - Built MCP-integrated tooling on top of the internal Entity Engine so LLM-driven tools can query and act against structured application data rather than only unstructured text
 - The admin assistant is a natural-language control plane for SUPERADMIN users rather than a simple chat surface:
   - supports user-management actions including listing users, viewing a user dashboard, inviting users, changing roles, and enabling or disabling accounts

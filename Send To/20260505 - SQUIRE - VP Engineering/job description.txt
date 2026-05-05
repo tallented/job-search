@@ -1,0 +1,83 @@
+Source: SQUIRE Lever careers
+URL: https://jobs.lever.co/getsquire/ef59f21f-da55-4d22-9115-4a9c000f0d70
+Captured: 2026-05-05
+
+SQUIRE - VP, Engineering
+
+Location: United States
+Department: PDE - Engineering
+Type: Full-Time Exempt
+Work model: Remote
+Reports to: Chief Product & Technology Officer
+Base salary: $250,000 - $300,000
+Bonus: 25%
+
+Who We Are
+
+SQUIRE is the leading business management system designed for the needs of barbers, shop owners, and their communities. The platform provides custom-branded tools, resources, and guidance to help barbers attract and retain more customers, manage shop operations, and increase revenue.
+
+SQUIRE is trusted by more than 30,000 barbers across 5,000+ shops in more than a thousand cities worldwide. Product areas include booking, opening new shops, real-time earning dashboards, customer relationships, and tools that bridge personal craft and business goals.
+
+Summary
+
+The Vice President of Engineering will shape the future of SQUIRE's technology and product development. This individual is responsible for technical vision, strategy, and execution for the engineering department while driving innovation and ensuring scalability, performance, and customer satisfaction.
+
+The VP of Engineering will collaborate closely with executive leadership and cross-functional teams to deliver high-quality software solutions while fostering continuous improvement and operational excellence.
+
+Job Duties And Responsibilities
+
+Strategic Leadership
+
+- Develop, articulate, and drive execution of a comprehensive technical roadmap that supports SQUIRE's strategic goals.
+- Incorporate cross-functional stakeholder feedback so engineering efforts stay focused on customer value and market differentiation.
+- Provide regular status updates and strategic recommendations to executive leadership.
+- Anticipate challenges and identify opportunities for innovation or competitive advantage.
+
+Technology Vision & Execution
+
+- Lead and manage a diverse engineering team, including offshore and nearshore developers working with React, React Native, Node.js, and other modern technologies.
+- Lead delivery of scalable, reliable, and secure software solutions for current and future business needs.
+- Direct modernization of legacy systems and accelerate delivery of new product capabilities.
+- Prioritize strategic integration of AI/ML tools to drive efficiency.
+- Champion Generative AI across the development lifecycle, from code generation and testing to operational excellence, to maximize velocity and quality.
+- Establish and enforce best practices in software development, architecture, and operational excellence.
+- Implement generative AI to accelerate code development.
+- Ensure technical and payments architecture supports scalability, performance, and reliability as SQUIRE grows.
+
+Customer & Partner Alignment
+
+- Work closely with the Director, Product Management and Director, Product Design to integrate technical capabilities with product vision and user experience.
+- Cultivate experimentation and learning around emerging AI technologies to maintain a competitive advantage.
+- Collaborate with Product Leaders to define clear acceptance criteria, delivery timelines, and post-launch success metrics.
+- Collaborate with Sales, Marketing, and Customer Success leaders to understand customer requirements and market shifts.
+- Offer technical insights that help refine go-to-market strategies, product positioning, and customer onboarding.
+
+Culture & Growth
+
+- Establish a high-performance, AI-driven engineering culture rooted in curiosity, continuous improvement, and open communication.
+- Drive adoption of new AI-powered tools and methodologies.
+- Mentor engineering managers and technical leaders, improving productivity, engagement, and performance.
+- Develop career pathways, rotation programs, and succession plans to nurture future leaders.
+
+Requirements And Qualifications
+
+- 15+ years progressive experience as a senior engineering leader.
+- 8+ years leading large engineering teams.
+- Experience working with Claude and Cursor for writing code, test plans, bug fixes, and code reviews.
+- Demonstrated ability to lead large-scale initiatives with speed and agility without compromising quality.
+- Track record building and scaling consumer-facing products that deliver exceptional user experiences, especially on mobile devices.
+- Deep expertise in cloud infrastructure, microservices, and scalable system design.
+- Strong technical foundation in modern full-stack development, architectures, and tools, including JavaScript frameworks such as Node.js and React.js and mobile development frameworks such as React Native.
+- Exceptional leadership and communication skills.
+- Experience leading through change and building high-performing, inclusive teams.
+- E-commerce, FinTech, or Payments experience preferred.
+- B2C or B2B2C experience preferred.
+
+Benefits
+
+- Base salary: $250,000 - $300,000
+- Bonus: 25%
+- New hire stock grant
+- 100% employer-paid medical, dental, and vision insurance for employee and dependents
+- 401K plan with company contribution
+- Generous PTO and parental leave

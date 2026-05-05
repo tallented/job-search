@@ -23,10 +23,12 @@ bak/
 
 # Local manual Word repair/backups
 * - backup *.docx
+* backup *.docx
 * - pre-* backup.docx
 * - pre-*.docx
 * - unreadable-backup.docx
 * - rebuilt*.docx
+Backups/
 
 # Generated preview/scratch PDFs
 *.preview.pdf

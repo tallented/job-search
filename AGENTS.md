@@ -59,6 +59,10 @@ Use the actual city/state only where precision matters:
 - application forms: `Fort Thomas, KY`
 - role history locations: keep the factual company/role location as written
 
+## Earlier Roles Exclusion
+
+Do not use `Tallented Software LLC` as an Earlier Roles item. The experience is older and its useful signals can be shown with more recent, stronger roles such as ACS, Proven Edge, Pitchstone, Glamhive, Lela, Fidelity, or dunnhumby.
+
 ## Local Text Cache (For Fast Search)
 
 There is an extracted plaintext cache of the `.docx` files at:
@@ -252,6 +256,7 @@ Store:
 Folder lifecycle:
 
 - Keep in `Send To/` while the application is in progress, under review, or not yet submitted.
+- Before moving a submitted application from `Send To/` to `Submitted/`, clean up transient Word copies. Retain only the final submitted `.docx` for that resume or cover letter; remove local backup, pre-pass, rebuilt, unreadable-repair, and other temporary `.docx` variants unless the user explicitly asks to preserve them.
 - Once the application is actually submitted, move the whole folder into `Submitted/`.
 - Do not overwrite or reuse an old company folder for a new application cycle; create a new date-prefixed folder instead.
 - If there are multiple attempts for the same company over time, the date prefix is the source of truth for recency.
@@ -527,6 +532,7 @@ Each item should capture, when available:
 - At a company Chris has not applied to before, a plausible stretch is usually worth consideration.
 - At a company Chris has already applied to, prefer one strongest role or a tightly coherent pair.
 - Avoid mixed-signal submissions unless there is a clear strategy for them.
+- Before promoting another role at a company with recent application history, check `/Users/chris/2026 Resumes/searches/company-application-guardrails.md` for company-specific hold/deprioritization notes.
 
 ### Search Expansion Rule
 
