@@ -20,6 +20,7 @@ bak/
 # Local generated/temp artifacts
 .tmp.driveupload/
 .tmpql*/
+temp/
 
 # Local manual Word repair/backups
 * - backup *.docx

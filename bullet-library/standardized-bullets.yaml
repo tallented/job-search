@@ -308,8 +308,8 @@ roles:
         themes: ["executive_communication", "board", "roadmap", "stakeholder_management"]
         variants:
           short: "Presented product and technology roadmaps to executives, the board, and investors."
-          medium: "Guided executive management through product prioritization and presented roadmap updates to the board and backing investor."
-          long: "Facilitated prioritization with the executive team, defined roadmaps, and presented technology direction and roadmap updates to the board of directors and backing investor."
+          medium: "Guided executive management through product prioritization and presented roadmap updates to the Board of Directors and backing investor."
+          long: "Facilitated prioritization with the executive team, defined roadmaps, and presented technology direction and roadmap updates to the Board of Directors and backing investor."
       - id: "lela_recommendation_platform"
         fit: ["principal", "director"]
         themes: ["architecture", "data", "ecommerce", "recommendation_systems"]

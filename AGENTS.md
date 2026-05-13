@@ -141,6 +141,104 @@ Default resume construction should be Word-first, not Markdown-first.
 8. If automation is used, it should operate on the copied canonical `.docx` in place so margins, fonts, spacing, and pagination stay as close to the canonical file as possible.
 9. If line-wrapping issues appear in Word, prefer content tightening (summary, bullet length, core skills) before layout tweaks.
 
+## Resume Edit Change Control
+
+Default to surgical edits unless Chris explicitly asks for a broader rewrite, line-balance pass, or structural consolidation.
+
+### Edit Modes
+
+**Surgical Edit Mode** is the default for requested wording changes.
+
+- Touch only the requested text or the immediate sentence needed to preserve grammar and truth.
+- Do not rewrite adjacent bullets, merge bullets, reorder sections, rebalance the whole resume, or change unrelated language.
+- Render after the change if the edited text can affect wrapping or pagination.
+- If the requested edit creates a line-wrap or page-fill regression, make the smallest local wording adjustment possible or report the tradeoff before broadening scope.
+
+**Line-Balance Mode** applies only when Chris explicitly asks to fix jagged lines, orphan lines, or visual line balance.
+
+- Start from the current rendered PDF as the baseline.
+- Fix only the bullets or sections identified as visually problematic unless another regression is directly caused by the fix.
+- For each changed bullet, choose the smallest viable action: tighten to one clean line, expand with real signal to a fuller line, or merge with an adjacent bullet only when the combined meaning is natural.
+- Do not treat `0` OCR wrap-check flags as sufficient. Visually compare the rendered pages against the baseline.
+- The pass fails if it improves a local line ending but makes page-two fill, section density, role fit, or voice worse overall.
+
+**Structural Rewrite / Consolidation Mode** applies only when intentionally reshaping a section or replacing multiple bullets.
+
+- Make a dated backup before editing.
+- State the intended bullet deletes, merges, and additions before changing the document when practical.
+- Track page budget: if the edit removes several lines, either preserve page fill with equal or stronger signal or explicitly accept the whitespace as a tradeoff.
+- Render and compare against the baseline page images before accepting the change.
+- If the result is not better overall, revert the structural pass rather than layering more fixes on top.
+
+### Regression Gate
+
+Before accepting any resume iteration:
+
+- Check the extracted text diff or a focused before/after text comparison to confirm the edit scope stayed within the selected mode.
+- Render a fresh PDF using the Word helper and verify the PDF text reflects the current `.docx`.
+- Visually inspect page images, not just OCR output.
+- Confirm page count did not regress and page-two whitespace did not materially increase unless explicitly accepted.
+- Confirm no untouched section gained new obvious jagged final lines.
+- Confirm the change did not weaken truth, role fit, voice, or the strongest quantified/current-role bullets.
+
+Priority order for tradeoffs:
+
+1. Truth and role fit.
+2. No page 3.
+3. No major page-two whitespace regression.
+4. No obvious jagged or orphan final lines.
+5. Chris voice and readability.
+6. Minor aesthetic preferences.
+
+## Temporary Files
+
+- Create future temporary, intermediate, render, OCR, and diagnostic files either in the current resume's target folder or under `/Users/chris/2026 Resumes/temp`.
+- Avoid `/private/tmp`, `/tmp`, or other external temp folders unless a specific tool requires them and there is no practical workspace-local alternative.
+- Prefer clearly named temp files that include the company/role or task context so they can be reviewed and cleaned up safely later.
+
+## Microsoft Word Automation Safety
+
+Multiple resume sessions may be open at once, and Chris may be actively editing a different document in Word. Other Codex sessions may also have Word documents open for different job reqs at the same time.
+
+Hard rules:
+
+- Never run AppleScript or automation that closes every Word document, such as `repeat while (count of documents) > 0`, `close document 1`, or similar bulk-close loops.
+- Never quit, force-quit, restart, or otherwise kill Microsoft Word as a cleanup step unless Chris explicitly asks for that.
+- Never close a Word document unless it is the specific target document for the current task and the script opened that document itself.
+- Never use `saving no` on a document that might have been opened or edited by Chris.
+- Treat unexpected, duplicate, untitled, temporary-looking, or "phantom" Word documents as potentially belonging to Chris or another Codex session. Do not close them, discard them, or clean them up from Word. Limit cleanup to files on disk that the current session created and can positively identify.
+- Do not assume `active document` is the target document. Identify the target by path or exact file name before exporting, saving, or closing.
+- Before opening or rendering a `.docx` after automated revisions, validate the package structure:
+
+```sh
+cd "/Users/chris/2026 Resumes"
+python3 scripts/validate_docx_package.py "<input.docx>"
+```
+
+- If package validation reports `ERROR`, do not open the file in Word; repair from the last known-good `.docx` or compare the modified OOXML first. Warnings are review items, not automatic blockers.
+- When exporting PDF from Word, prefer the dedicated helper app wrapper:
+
+```sh
+cd "/Users/chris/2026 Resumes"
+word-render-helper/render_with_swift_word_helper.sh "<input.docx>" "<output.pdf>" "<stable-slot-name>"
+```
+
+- The helper app is `/Users/chris/2026 Resumes/word-render-helper/SwiftResumeWordRenderHelper.app`, which Chris has granted macOS privacy access for Word rendering. It copies the target `.docx` into `/Users/chris/2026 Resumes/temp/word-render-scratch`, exports through Microsoft Word, and copies the PDF back to the requested output path.
+- Use a stable, job-specific slot name for each concurrent resume session, for example `coderpad`, `cyara`, or `trueml`. Do not reuse the same slot across parallel sessions. The wrapper uses the slot for both Word scratch filenames and helper control files (`current-job-<slot>.txt` / `current-result-<slot>.txt`).
+- The wrapper serializes Word renders with `word-render-helper/render.lock`. Microsoft Word is a single GUI application, so sessions may use distinct slots but should not automate Word simultaneously.
+- The wrapper launches a GUI app through macOS Launch Services (`open`). In sandboxed Codex sessions, run the wrapper with escalated/approved GUI-launch permissions. Do not interpret a sandboxed `open` failure as proof that the helper executable is missing.
+- Do not rebuild the Swift helper as a routine fix. Rebuild only when the helper source, Info.plist, or bundle structure has intentionally changed, or when Chris explicitly asks for a rebuild. The helper is ad-hoc signed; rebuilding changes its code hash and can trigger macOS privacy prompts again.
+- If macOS prompts that `SwiftResumeWordRenderHelper` would like to access data from other apps, stop and report it. The Swift helper should not write into another app's container; repeated prompts likely mean an old helper build or stale render path is still being used.
+- If Word shows `Grant File Access` for `/Users/chris/2026 Resumes/temp/word-render-scratch`, Chris may need to select the specific `<slot>.docx` scratch file if the picker does not allow selecting the folder. Do not change render paths; the helper keeps each slot's scratch DOCX path stable and overwrites it in place when possible.
+- If the executable check passes but `open` reports `kLSNoExecutableErr`, treat it as Launch Services/sandbox state first. Retry the wrapper with escalation/approved GUI-launch permission. If it still fails after escalation, stop and report the exact error instead of repeatedly rebuilding or falling back to AppleScript.
+- Do not use random render-copy filenames to work around grant-access prompts. If the helper or Word blocks, times out, crashes, or triggers a new permission prompt, stop and report that state instead of creating alternate render copies.
+- Use `/Users/chris/2026 Resumes/scripts/export_docx_to_pdf.sh` only as a fallback when the helper is unavailable or explicitly inappropriate.
+- Keep any remaining Word-opened render copies in either the same target resume folder as the working `.docx` or under `/Users/chris/2026 Resumes/temp`.
+- Do not create or open Word render copies in `/private/tmp`, Word's app container, or other external temp folders because macOS privacy controls may repeatedly prompt Chris to Grant Access or approve other-app data access.
+- If a non-helper render copy is unavoidable, name it clearly in the target folder or `/Users/chris/2026 Resumes/temp`, export the PDF to the relevant resume folder when possible, and clean up the render copy later only after confirming it was not edited by Chris.
+- If Word already has the target document open, leave it open after export.
+- If the target document is open with unsaved edits, either export it without closing it or ask Chris before taking any action that could discard changes.
+
 ## First Draft Rules
 
 Before presenting a first draft resume for review, apply:
@@ -158,6 +256,23 @@ This file defines the mandatory first-pass checks for:
 - leadership-header defaults
 - earlier-roles dating defaults
 - summary / core-skills phrasing discipline
+
+## Resume Language Guardrails
+
+Avoid overusing `workflow` / `workflows` as generic resume filler.
+
+Use `workflow` only when it refers to a real business process, workflow engine, orchestration path, approval flow, or application workflow. If the sentence is really about systems, integrations, controls, agents, tooling, data extraction, operating models, finance rules, or business processes, use the more precise term.
+
+Common replacements:
+
+- `Payment / Credit Workflows` -> `Payment / Credit Processes`, `Payment / Credit Systems`, or `Payment / Credit Rules`
+- `Governed AI Workflows` -> `Governed AI Agents`, `Governed AI Tooling`, or `Governed AI Controls`
+- `bi-directional workflows` -> `bi-directional integrations`, `data sync`, or `cross-system coordination`
+- `AI document workflows` -> `AI document extraction`, `document data extraction`, or `AI-assisted document processing`
+- `consumer finance workflows` -> `consumer finance strategies`, `consumer finance processes`, or `consumer lending rules`
+- `dealer finance workflows` -> `dealer finance rules`, `dealer finance processes`, or `dealer finance operations`
+
+When editing a resume draft, scan for `workflow` and `workflows` before final review. If there are more than a few uses, rewrite most of them with precise domain language.
 
 ## Bullet Variant Workflow
 
@@ -182,7 +297,7 @@ When given a new job requisition:
    - Must-have technical domains (cloud, platform, security, AI, etc.)
    - Keywords likely used for ATS (platform, reliability, SOC2/ISO, etc.)
 4. Apply "Halo first 30 seconds" (see below) and re-author the top 1/3 first:
-   - Headline (title + 2-3 differentiators)
+   - Headline (credible positioning + 2-3 differentiators)
    - Professional Summary (2-4 sentences, specific to the role)
    - Core Skills (reordered to mirror the req; avoid long lists that dilute signal)
 5. Experience bullets:
@@ -197,8 +312,10 @@ When given a new job requisition:
    - Dates/locations consistent across versions.
    - Verb tense consistent (past for past roles; present for current).
    - No unsupported claims (do not invent metrics).
+   - Do not let the visible headline or title simply mirror the job requisition unless Chris has held that title or the wording is directly backed by validated experience. Prefer truthful positioning such as `Technology Executive`, `CTO`, `Engineering Executive`, `Product Engineering`, `Platform Engineering`, or `AI Modernization` over an unheld exact target title.
    - Remove role-misaligned details (e.g., too much IC depth for CTO, or too much org narrative for Principal) unless the req explicitly wants that hybrid.
    - Do not use em dashes in resume copy; prefer commas, parentheses, vertical bars, colons, or a regular hyphen.
+   - When referring to formal board-level communication, prefer `Board of Directors` over generic `board` unless the sentence intentionally refers to board-level communication as a category.
 7. Update the application tracker in the local NocoDB instance at `http://localhost:8085`:
    - Base: `Job Search`
    - Table: `Applications`
@@ -268,6 +385,12 @@ Track active and submitted applications in:
 - local NocoDB tracker at `http://localhost:8085`
 - base: `Job Search`
 - table: `Applications`
+
+Also maintain the human-readable priority queue at:
+
+- `/Users/chris/2026 Resumes/Queue.md`
+
+Use NocoDB as the system of record for application status, dates, links, salary, and resume folders. Use `Queue.md` as the current at-a-glance operating queue: what to work next, what is deferred, what is on hold for company-coherence reasons, and what was recently submitted or closed. Update `Queue.md` whenever a search reprioritizes roles, a role is submitted, a role closes, or Chris explicitly defers a role. Each active queue item should include a `Freshness` line when available. Front-load the age signal in bold so it is easy to scan, for example `**Posted 4d ago via LinkedIn**`, `**Crawled 5d ago via NoDesk**`, or `**Posted date n/a**`; then include supporting detail such as `official Ashby page live`, `freshness signals vary`, or `Indeed alert evaluated on YYYY-MM-DD`.
 
 Legacy archive only:
 
@@ -366,7 +489,8 @@ Current work model preference order:
 
 - Best: remote
 - Good: remote with planned travel (for example monthly)
-- Acceptable now: hybrid in Cincinnati, Louisville, Indianapolis, Dayton, Columbus, or Cleveland
+- Acceptable now: hybrid in Cincinnati metro, Columbus, Dayton, Louisville, Indianapolis, or Cleveland
+- Apply-now bias: for strong Cincinnati metro hybrid/on-site roles, apply if compensation and fit are plausible; local in-office friction is acceptable if it supports income continuity.
 - Later fallback: broader relocation if the pipeline remains weak
 
 ### Fractional Rules
@@ -453,6 +577,8 @@ Do not manually launch normal Chrome or assume port `9222`. The launcher suppres
 
 - Daily or near-daily:
   - LinkedIn
+    - Use the saved LinkedIn Cincinnati Metro / Remote / Contract / Full-Time searches in `/Users/chris/2026 Resumes/Search-Sites.md` as the manual baseline.
+    - Query them through Chrome debugging at a normal user pace; review the newest results first and avoid rapid pagination.
   - Indeed
   - direct company career pages for known target companies
   - Built In
@@ -477,8 +603,50 @@ Do not manually launch normal Chrome or assume port `9222`. The launcher suppres
    - senior engineering manager
    - director / senior director of engineering
    - principal / lead / staff-plus platform or AI roles
-4. Search fractional / interim roles and talent networks for bridge income.
-5. Expand into regional hybrid roles when the remote queue is thin.
+4. Search regional hybrid/on-site roles in practical commute / relocation metros:
+   - Cincinnati Metro / Northern Kentucky
+   - Columbus, OH
+   - Dayton, OH
+   - Louisville, KY
+   - Indianapolis, IN
+   - Cleveland, OH
+5. Search fractional / interim roles and talent networks for bridge income.
+
+### Regional Metro Search Lane
+
+For every comprehensive search, include a dedicated regional lane rather than relying on remote-only results. The goal is to catch income-continuity roles that may not advertise as remote but are acceptable because they are local, commutable, or regionally relocatable.
+
+Search LinkedIn, Indeed, Built In, Google Jobs, and direct company/career pages with these metro filters:
+
+- Cincinnati, OH / Cincinnati Metro / Northern Kentucky / Covington, KY / Florence, KY
+- Columbus, OH
+- Dayton, OH
+- Louisville, KY
+- Indianapolis, IN
+- Cleveland, OH
+
+Use combinations of:
+
+- `CTO`
+- `Chief Technology Officer`
+- `VP Engineering`
+- `Vice President Engineering`
+- `Head of Engineering`
+- `Director of Engineering`
+- `Senior Director Engineering`
+- `Software Engineering Director`
+- `Engineering Manager`
+- `Platform Engineering`
+- `Cloud Engineering`
+- `Application Development`
+- `Digital Transformation`
+- `AI`
+
+Triage regional roles with the same cash-floor rules, but bias upward when:
+
+- The role is Cincinnati metro hybrid/on-site and compensation is plausible.
+- The role is within the listed regional metros and offers senior scope, practical income continuity, or a credible bridge into full-time leadership.
+- The company is not a prestige target but the role is serious, paid, and aligned enough to generate interviews.
 
 ### Preferred Search Themes
 
@@ -537,7 +705,7 @@ Each item should capture, when available:
 ### Search Expansion Rule
 
 - Until late April 2026, bias toward remote and remote-with-travel.
-- If the pipeline is still weak in May 2026, expand more aggressively into regional hybrid roles and practical-floor opportunities.
+- As of May 2026, include regional hybrid/on-site searches in every comprehensive search pass, with special attention to Cincinnati metro.
 - If the pipeline is still weak in June 2026, emergency fallback rules can be used deliberately rather than accidentally.
 
 ## Compensation Scripts (Cash Floor)
