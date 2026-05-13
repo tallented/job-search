@@ -141,6 +141,33 @@ Default resume construction should be Word-first, not Markdown-first.
 8. If automation is used, it should operate on the copied canonical `.docx` in place so margins, fonts, spacing, and pagination stay as close to the canonical file as possible.
 9. If line-wrapping issues appear in Word, prefer content tightening (summary, bullet length, core skills) before layout tweaks.
 
+### Core Skills Composition
+
+Treat Core Skills sections as composable source material, not fixed blocks that must be copied wholesale.
+
+- It is acceptable to assemble a new Core Skills block by pulling rows from multiple canonical or prior resume variants.
+- It is also acceptable to pull individual skills from different rows when the target requisition calls for a more precise mix.
+- Keep the final block coherent, scannable, and ordered to the req rather than preserving the source order.
+- Do not pad with broad or generic skills just because they existed in a source block.
+- Preserve the Word document structure Chris is using for review. If summary variants or skills variants have been grouped together in the `.docx`, keep those comparison blocks adjacent unless explicitly asked to restructure them.
+
+### Prepared Bullets QA Workflow
+
+Use `/Users/chris/2026 Resumes/CANONICAL - Prepared Bullets.docx` as the reviewed, Word-formatted prepared-bullets source and `/Users/chris/2026 Resumes/CANONICAL - Prepared Bullets.md` as the paired text source when practical.
+
+When Chris flags prepared-bullets line-length or wording issues:
+
+- Do not immediately overwrite the canonical prepared-bullets document unless Chris explicitly asks for source updates.
+- First create or update a QA comparison document under `/Users/chris/2026 Resumes/temp/`, using the prepared-bullets `.docx` as the style shell so margins, fonts, and bullet wrapping are meaningful.
+- In the QA comparison document, keep the original wording in black and put the current suggested replacement in blue under a `Suggested` label.
+- Chris may edit the blue `Suggested` lines in place. Treat those edited blue lines as the current candidate replacements.
+- Use additional candidate blocks only when Chris wants to compare multiple alternatives; otherwise avoid clutter.
+- For half-line bullets, expand only with high-signal wording. If added words are filler, leave the bullet unchanged or keep the variant only in the QA document.
+- For 1-3 word trailing lines, prefer compression unless a materially stronger longer version is available.
+- When Chris approves a candidate, promote it back into both `CANONICAL - Prepared Bullets.docx` and `CANONICAL - Prepared Bullets.md` where the matching source entry exists.
+- If a bullet is identified as weak, incorrect, or duplicate, remove it from the canonical prepared-bullets source rather than keeping it as a ready variant.
+- After modifying prepared-bullets `.docx` files, run structural validation (`unzip -t`), refresh `_resume_text`, and use Quick Look or a targeted render check when possible. Do not use Word automation that closes unrelated documents.
+
 ## Resume Edit Change Control
 
 Default to surgical edits unless Chris explicitly asks for a broader rewrite, line-balance pass, or structural consolidation.
@@ -299,7 +326,7 @@ When given a new job requisition:
 4. Apply "Halo first 30 seconds" (see below) and re-author the top 1/3 first:
    - Headline (credible positioning + 2-3 differentiators)
    - Professional Summary (2-4 sentences, specific to the role)
-   - Core Skills (reordered to mirror the req; avoid long lists that dilute signal)
+   - Core Skills (assembled from rows or individual skills across variants as needed, reordered to mirror the req; avoid long lists that dilute signal)
 5. Experience bullets:
    - Start from bullet-library `medium` variants by default.
    - Promote only a few bullets to `long` when they materially increase fit.

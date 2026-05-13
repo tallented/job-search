@@ -25,6 +25,50 @@ Chief Technology Officer | Cloud & AI Product Leader | Technical Founder
 Engineering Manager | Platform Reliability, Delivery Systems & AI Modernization
 [Principal Engineer] {Length: Short} {Status: Ready} {Source: CANONICAL - Principal Engineer}
 Principal Engineer | Cloud-Native Architecture & Applied AI Systems
+[Principal Engineer] [Positioning] {Length: Short} {Status: Conditional} {Proven: Submitted} {Conditional: Use only when this title lane is intentional} {Source: Submitted | 20260410 - Docker - Principal Software Engineer - AI Tools and Security}
+Principal Software Engineer | AI Tools, Secure Backends & Developer Platforms
+[Engineering Management] [Positioning] {Length: Short} {Status: Ready} {Proven: Submitted} {Source: Submitted | 20260412 - A Place for Mom - Senior Director, Engineering - Senior Living}
+Technology Executive | Multi-Team Delivery, Web Platforms & Predictable Execution
+[Principal Engineer] [Positioning] {Length: Short} {Status: Ready} {Proven: Submitted} {Source: Submitted | 20260412 - ClickUp - Principal Engineer - Collaboration Platforms}
+Engineering Leader | Collaboration Platforms, Developer Systems & Applied AI
+[Principal Engineer] [Positioning] {Length: Short} {Status: Ready} {Proven: Submitted} {Source: Submitted | 20260412 - Motion - Principal Software Engineer}
+Engineering Leader | Workflow Systems, Agentic Tools & Applied AI
+[Engineering Management] [Positioning] {Length: Short} {Status: Conditional} {Proven: Submitted} {Conditional: Use only when this title lane is intentional} {Source: Submitted | 20260412 - Sully.ai - Head of Engineering, Platform}
+Head of Engineering | AI Platform, Reliability & Developer Systems
+[Exec / CTO] [Positioning] {Length: Short} {Status: Ready} {Proven: Submitted} {Source: Submitted | 20260418 - Confidential Supply Chain Tech - CTO}
+Chief Technology Officer | Enterprise SaaS, Cloud Transformation & AI-Enabled Platforms
+[Engineering Management] [Positioning] {Length: Short} {Status: Conditional} {Proven: Submitted} {Conditional: Use only when this title lane is intentional} {Source: Submitted | 20260422 - Grafana Labs - Director of Engineering, Loki Databases}
+Director of Engineering | Distributed Platforms, Reliability & Developer Systems
+[Engineering Management] [Positioning] {Length: Short} {Status: Ready} {Proven: Submitted} {Source: Submitted | 20260423 - GitLab - Director of Engineering, Security Risk Management}
+Engineering Leader | Security Platforms, Distributed Systems & Reliability
+[Engineering Management] [Positioning] {Length: Short} {Status: Ready} {Proven: Submitted} {Source: Submitted | 20260424 - SailPoint - Director, Engineering - Data Platform}
+Engineering Leader | Data Platforms, Governance & Reliability
+[Engineering Management] [Positioning] {Length: Short} {Status: Conditional} {Proven: Submitted} {Conditional: Use only when this title lane is intentional} {Source: Submitted | 20260430 - Tremendous - Engineering Manager}
+Engineering Manager | Product Platforms, Technical Quality & AI Adoption
+[Engineering Management] [Positioning] {Length: Short} {Status: Conditional} {Proven: Submitted} {Conditional: Use only when this title lane is intentional} {Source: Submitted | 20260430 - Upstart - Director of Engineering, Upstart Bank}
+Engineering Director | Platform Engineering, Fintech & Reliability
+[Engineering Management] [Positioning] {Length: Short} {Status: Ready} {Proven: Submitted} {Source: Submitted | 20260505 - Datavant - VP Enterprise Engineering & Business Platforms}
+Technology Executive | Enterprise Platforms, Integration Governance & Regulated Systems
+[Engineering Management] [Positioning] {Length: Short} {Status: Ready} {Proven: Submitted} {Source: Submitted | 20260505 - Deel - Head of Engineering FinTech Platform}
+Engineering Executive | Platform Engineering, FinTech & Regulated Systems
+[Exec / CTO] [Positioning] {Length: Short} {Status: Ready} {Proven: Submitted} {Source: Submitted | 20260506 - Banyan Software - OR Trax - Chief Product and Technology Officer}
+Technology Executive | Product Engineering, Regulated SaaS & AI Modernization
+[Engineering Management] [Positioning] {Length: Short} {Status: Ready} {Proven: Submitted} {Source: Submitted | 20260506 - GitHub - Sr Director, Software Engineering}
+Engineering Executive | Platform Reliability, Developer Tooling & Cloud Operations
+[Engineering Management] [Positioning] {Length: Short} {Status: Ready} {Proven: Submitted} {Source: Submitted | 20260506 - Help Scout - VP of Engineering}
+Engineering Executive | AI Strategy, SaaS Product Platforms & Technical Modernization
+[Exec / CTO] [Positioning] {Length: Short} {Status: Ready} {Proven: Submitted} {Source: Submitted | 20260507 - Beacon Healthcare Systems - Chief Technology Officer}
+Chief Technology Officer | Regulated SaaS | Cloud, Security & AI
+[Exec / CTO] [Positioning] {Length: Short} {Status: Ready} {Proven: Submitted} {Source: Submitted | 20260507 - Ladders Confidential Client - CTO Agentic Process Automation and Intelligence}
+Chief Technology Officer | Agentic AI, Process Automation & Cloud Modernization
+[Engineering Management] [Positioning] {Length: Short} {Status: Ready} {Proven: Submitted} {Source: Submitted | 20260507 - Ladders Confidential Client - VP Engineering Apps and Solutions}
+Engineering Executive | Enterprise Apps, AI Modernization & Regulated Systems
+[Engineering Management] [Positioning] {Length: Short} {Status: Ready} {Proven: Submitted} {Source: Submitted | 20260507 - Sapio Sciences - VP of Software Engineering}
+Engineering Executive | SaaS Platforms, AI Modernization & Technical Founder
+[Engineering Management] [Positioning] {Length: Short} {Status: Ready} {Proven: Submitted} {Source: Submitted | 20260507 - TrueML - VP of Software Engineering}
+Engineering Executive | 0-to-1 SaaS, AWS & Regulated Fintech
+[Engineering Management] [Positioning] {Length: Short} {Status: Ready} {Proven: Submitted} {Source: Submitted | 20260511 - Cyara - Vice President Engineering}
+Engineering Executive | AI-Enabled SaaS Platforms | Cloud & Delivery Systems
 
 ## Professional Summary Blocks
 
@@ -471,10 +515,6 @@ Architected an AI-enabled real-estate platform on AWS for Fortune 100 retail wor
 - Built platform foundations across AWS, ECS, CI/CD, observability, and release controls, improving reliability and release safety at scale while reducing non-production cloud spend by 35-40%.
 [Engineering Management] [Cloud] [Reliability] [DevOps] {Length: Medium} {Status: Ready} {Proven: Submitted} {Source: Submitted | 20260430 - Upstart - Director of Engineering, Upstart Bank}
 - Built platform foundations across AWS, ECS, CI/CD, observability, and release controls, improving reliability and release safety while reducing non-production cloud spend by 35-40%.
-[Engineering Management] [Cloud] [Reliability] [Architecture] {Length: Medium} {Status: Ready} {Proven: Submitted} {Source: Submitted | 20260412 - Sully.ai - Head of Engineering, Platform}
-- Architected the first version of an AI-enabled, multi-tenant real-estate platform on AWS, supporting Fortune 100 retail workflows across roughly 15,000 locations through secure APIs, document workflows, and knowledge retrieval.
-[Principal Engineer] [Cloud] [Reliability] [Architecture] {Length: Medium} {Status: Ready} {Proven: Submitted} {Source: Submitted | 20260412 - Motion - Principal Software Engineer}
-- Architected the first version of an AI-enabled, multi-tenant real-estate platform on AWS, supporting Fortune 100 retail workflows through secure APIs plus document and search workflows.
 [Engineering Management] [Cloud] [DevOps] {Length: Medium} {Status: Ready} {Proven: Submitted} {Source: Submitted | 20260423 - GitLab - Director of Engineering, Security Risk Management}
 - Built Docker Compose-based developer environments with anonymized data refresh, cutting update time from 3+ hours to 45 minutes and improving environment parity while making releases safer.
 [Principal Engineer] [Cloud] [Security] {Length: Medium} {Status: Ready} {Proven: Submitted} {Source: Submitted | 20260412 - Motion - Principal Software Engineer}
@@ -529,7 +569,7 @@ Modernized legacy PHP fintech platform into an AngularJS / Java Single-Page Appl
 [Exec / CTO] [Delivery] [Executive Alignment] {Length: Medium} {Status: Ready} {Source: CANONICAL - CTO}
 - Partnered with C-level and product stakeholders on roadmap sequencing, delivery risk, and quality tradeoffs, pushing back when urgency threatened quality, delivery discipline, or long-term maintainability.
 [Exec / CTO] [DevOps] [Delivery] {Length: Short} {Status: Ready} {Source: CANONICAL - CTO}
-- Introduced CI/CD and agile methodology, reducing deployment cycle from weeks to hours.
+- Introduced Agile delivery practices, Bitbucket Pipelines CI/CD automation, Kubernetes rolling updates, and release planning discipline, reducing deployment cycles from weeks to hours while improving team coordination.
 [Engineering Management] [Reliability] [DevOps] [Delivery] [Fintech] {Length: Medium} {Status: Ready} {Source: CANONICAL - Engineering Manager}
 - Implemented CI/CD pipelines and Agile delivery practices, reducing deployment cycles from weeks to hours while improving release predictability, rollback confidence, and production support for customer-facing finance systems.
 
@@ -902,8 +942,6 @@ Engineered and launched Glamhive.com, a full-stack fashion-tech platform on AWS 
 - Co-founded and launched Glamhive.com from wireframes to AWS production, owning product/engineering alignment, architecture, hiring, and delivery cadence.
 [Principal Engineer] [Cloud] [Reliability] [DevOps] [Org Design] [Delivery] [Architecture] {Length: Short} {Status: Ready} {Proven: Submitted} {Source: Submitted | 20260410 - Docker - Principal Software Engineer - AI Tools and Security}
 - Established cloud architecture and CI/CD practices supporting global deployment and cross-team delivery.
-[Engineering Management] [Org Design] [Delivery] {Length: Medium} {Status: Ready} {Proven: Submitted} {Source: Submitted | 20260422 - Grafana Labs - Director of Engineering, Loki Databases}
-- Formed and led distributed agile teams in the U.S. and South America, cutting staffing cost by 60% versus a U.S.-only team model.
 [Engineering Management] [DevOps] [Org Design] [Delivery] [Executive Alignment] [Founder / Startup] {Length: Medium} {Status: Ready} {Proven: Submitted} {Source: Submitted | 20260506 - GitHub - Sr Director, Software Engineering}
 - Led the company from sole-engineer MVP through a funded distributed engineering model with Scrum cadence, QA, UAT, release management, and nearshore team coordination.
 

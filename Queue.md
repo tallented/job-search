@@ -221,12 +221,12 @@ Purpose: this is the at-a-glance working queue. NocoDB remains the system of rec
     - Resume Dispatch: `Canonical direct | Canonical Engineering Manager` - practical fallback only. Recheck live status and comp, then send canonical rather than spending one of the daily custom slots.
     - Note: practical-income fallback with healthcare/software leadership fit; lower priority than stronger VP/CTO roles.
 
-13. `Netflix - Engineering Manager, Member Experience Client Foundations`
-   - Freshness: **Posted 34d ago** on prior Chrome pass; official Netflix page was live with `APPLY NOW`; requisition `JR36743`.
-   - Salary: `$436,000-$710,000`.
-   - Source: https://explore.jobs.netflix.net/careers/job/790312547139
-   - Resume Dispatch: `Light customize | Canonical Engineering Manager` - high comp and existing Netflix material make this a good low-effort target, but the EM title and client-foundations specificity do not justify a full custom slot ahead of stronger CTO/VP openings.
-   - Note: remote and compensation are outstanding, and existing Netflix EM drafts make this a low-tailoring-cost application. Last tracked Netflix submission was `2026-04-09` for `Cloud Architecture Tooling & Security`; `Launch Readiness` is only tracked as `CREATED`, not submitted. Keep below the main CTO/VP queue because it is an EM title and specifically asks for foundational client UI architecture across Mobile/Web/TV/SDUI.
+13. `Netflix - Technical Program Manager 6, Data Systems`
+   - Freshness: **Crawled 5d ago** on official Netflix careers page; recommended by Indeed email on `2026-05-13`; official Netflix page is live.
+   - Salary: `$420,000-$630,000`.
+   - Source: https://explore.jobs.netflix.net/careers/job/790315481820-technical-program-manager-6-data-systems-usa-remote?domain=netflix.com&microsite=netflix.com
+   - Resume Dispatch: `Light customize | Canonical Engineering Manager` - quick Netflix-specific TPM/data-systems version only. Emphasize large-scale technical program leadership, data systems, migration/modernization, cross-org alignment, client/platform collaboration, pragmatic delivery mechanisms, and GenAI leverage.
+   - Note: apply if it can be done quickly; do not wait on the prior Netflix submission. Last tracked Netflix submission was `2026-04-09` for `Cloud Architecture Tooling & Security`; `Launch Readiness` is only tracked as `CREATED`, not submitted. Collision risk is acceptable because this is a different job family and more than a month has passed, but avoid making Netflix a high-volume repeated target.
 
 14. `DISHER / partner company - Vice President of Technology & Architecture`
    - Freshness: **Crawled 2w ago**; official Lever page live on prior pass.
