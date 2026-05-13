@@ -266,6 +266,15 @@ word-render-helper/render_with_swift_word_helper.sh "<input.docx>" "<output.pdf>
 - If Word already has the target document open, leave it open after export.
 - If the target document is open with unsaved edits, either export it without closing it or ask Chris before taking any action that could discard changes.
 
+## DOCX XML Edit Safety
+
+Word can report "unreadable content" even when `unzip`, Quick Look, and `textutil` appear to accept a `.docx`. Avoid broad XML rewrites that reserialize whole Word parts and change schema ordering.
+
+- Do not use `xml.etree.ElementTree` to parse and rewrite entire `word/document.xml` or `word/styles.xml` for production resume files.
+- Prefer Word's own save/export path, a known-safe helper, or narrow string/minidom edits that preserve original XML ordering.
+- For `CANONICAL - Prepared Bullets.docx`, prefer rebuilding from `CANONICAL - Prepared Bullets.md` into the clean prepared-bullets shell rather than surgically editing the existing `.docx` package.
+- After any `.docx` package edit, keep a backup, run `unzip -t`, verify `textutil` extraction, and do a graphical render check. If Word later reports unreadable content, restore from backup or rebuild from the paired `.md` source instead of recovering and saving the prompted Word copy.
+
 ## First Draft Rules
 
 Before presenting a first draft resume for review, apply:

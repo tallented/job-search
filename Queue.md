@@ -23,112 +23,91 @@ Purpose: this is the at-a-glance working queue. NocoDB remains the system of rec
 
 ## Priority Queue
 
-1. `Posit PBC - Vice President, Engineering`
-   - Freshness: **Reposted 3d ago** on LinkedIn; official Posit application link exposed through LinkedIn; direct job text already saved locally.
-   - Salary: `$310,000-$330,000` base.
-   - Source: https://posit.co/job-detail/?gh_jid=7643049003&gh_src=6b0749af3us
-   - Resume Dispatch: `Customize | Canonical CTO` - strongest new send target. Use the existing `Send To/Posit - Vice President Engineering` material, but refresh the top third around AI-native data science authoring, developer tools, open-source culture, enterprise readiness, and AI-assisted engineering practices.
-   - Note: remote, compensation clears the target, and LinkedIn shows high match. Risks: 739 LinkedIn clicked-apply count, 56 in the past day, plus a real stretch around IDE/language-runtime/data-science product depth.
-
-2. `FICO - Vice President, Technical Architecture / Platform Architecture`
-   - Freshness: **Posted 5d ago** on official Workday (`datePosted: 2026-05-07`); LinkedIn Chrome pass showed `Posted 4d ago`.
-   - Salary: `$210,000-$330,000` base.
-   - Source: https://fico.wd1.myworkdayjobs.com/en-US/External/job/Work-from-Home-United-States/Vice-President---Technical-Architecture--Platform-Architecture_31839
-   - Resume Dispatch: `Light customize | Canonical Principal Engineer` - strong platform architecture target. Emphasize cloud-native transformation, API strategy, microservices, architecture governance, ARB/KPI operating model, security/compliance partnership, and mentoring senior architects.
-   - Note: remote, official Workday live, FICO brand is strong in analytics/decisioning/financial services. Risk: more architecture-community leadership than direct org/P&L ownership; lower range starts below floor, so anchor high if contacted.
-
-3. `Sureify - VP of Engineering`
-   - Freshness: **Reverified live today** on official Greenhouse; Sureify careers page also lists the VP Engineering opening.
-   - Salary: `$260,000-$300,000` base.
-   - Source: https://job-boards.greenhouse.io/sureify/jobs/5190968008
-   - Resume Dispatch: `Customize | Canonical CTO` - worth a custom slot if insurance/SaaS platform work is acceptable. Focus on global engineering leadership, distributed teams, enterprise SaaS, AWS/TypeScript/React/distributed systems, CI/CD, security standards, APM, and AI coding-agent adoption.
-   - Note: strong remote VP role with real engineering-org ownership. Risks: asks for India/LATAM hub experience and highly configured enterprise insurance software.
-
-4. `McKesson - Senior Director, Software Development and Engineering`
+1. `McKesson - Senior Director, Software Development and Engineering`
    - Freshness: **Posted 8d ago** on official Workday; regional search also found fresh Dice/Indeed mirrors.
    - Salary: `$183,800-$306,300` plus possible annual bonus and long-term incentive.
    - Source: https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers/job/Senior-Director--Software-Development-and-Engineering_JR0145288
    - Resume Dispatch: `Light customize | Canonical Engineering Manager` - strong practical-income target. Focus on healthcare software, multi-team leadership, cloud/microservices, event-driven systems, budgets, standards, and delivery.
    - Note: official page says Columbus, OH preferred, but well-qualified fully remote candidates may be considered. This is a good income-first regional/remote fallback with a real comp ceiling.
 
-5. `Smartsheet - Director, Engineering (Remote Eligible)`
+2. `Smartsheet - Director, Engineering (Remote Eligible)`
    - Freshness: **Reposted 14h ago** on LinkedIn; official Greenhouse source live via LinkedIn apply link.
    - Salary: `$235,000-$315,000` base plus market competitive incentive opportunity.
    - Source: https://job-boards.greenhouse.io/smartsheet/jobs/7751251
    - Resume Dispatch: `Light customize | Canonical Engineering Manager` - strong fast-send target, but do not over-invest. Lead with multi-team leadership, managers/principal engineers, enterprise SaaS scale, front-end platform architecture, availability/reliability metrics, AI adoption, and security.
    - Note: very fresh and remote eligible, but already has 1,059 clicked applies and 188 in the past day. Role is Director rather than VP and asks for deep modern front-end experience.
 
-6. `Workiva - Director of Engineering, Growth`
+3. `Workiva - Director of Engineering, Growth`
    - Freshness: **Reposted 3h ago** on LinkedIn during the `2026-05-13` Chrome pass; official Workday apply link exposed through LinkedIn and Indeed mirror is live.
    - Salary: `$190,000-$306,000` base plus discretionary annual bonus, RSUs, 401(k) match, and benefits.
    - Source: https://workiva.wd503.myworkdayjobs.com/careers/job/USA---Remote/Director-of-Engineering--Growth_R11676?source=Job+Board%3A+LinkedIn
    - Resume Dispatch: `Light customize | Canonical Engineering Manager` - fresh remote leadership target. Emphasize B2B SaaS, AI-assisted engineering, growth/new-product execution, event-based systems, TypeScript, Java/Kotlin adjacency, architecture, manager-of-managers leadership, and customer-facing product outcomes.
    - Note: strong fresh remote signal with a real compensation ceiling and AI/product-growth language. Risks: Director rather than VP, 25% travel, high applicant/click volume (`407` clicked apply; `40` in the past day), and Workiva domain depth around enterprise reporting/risk/sustainability.
 
-7. `Inspiren - Principal Engineer, Systems & Strategic Expansion`
+4. `Inspiren - Principal Engineer, Systems & Strategic Expansion`
    - Freshness: **Posted 0d ago** on Built In freshness signals; official Greenhouse page is live and search crawls are current.
    - Salary: `$260,000-$300,000` plus equity and benefits.
    - Source: https://job-boards.greenhouse.io/inspiren/jobs/5133301007
    - Resume Dispatch: `Light customize | Canonical Principal Engineer` - very fresh AI/agentic-engineering target. Emphasize AI coding-agent adoption at team scale, developer tooling, platform scaffolding, secure/resilient architecture, AWS, event-driven systems, healthcare/regulated environments, and hands-on product expansion.
    - Note: remote US/Canada with NYC preferred. Strong agentic-engineering fit and practical comp. Risks: most-senior-IC rather than executive role; asks for recent hands-on depth across embedded/IoT, backend, AWS, Kafka, mobile, Databricks, computer vision/ML, and product expansion.
 
-8. `Ascensus - Vice President, Software Engineering and Development`
+5. `Ascensus - Vice President, Software Engineering and Development`
    - Freshness: **Posted 42d ago** on official Ascensus careers (`Opening on: Mar 31 2026`); Ladders mirror surfaced as `Yesterday` and official page is still live.
    - Salary: `$230,000-$280,000` Ladders signal.
    - Source: https://careers.ascensus.com/jobs/vice-president-software-engineering-and-development-philadelphia-pennsylvania-united-states-53418143-e1ab-4275-9f7f-e9a70608617e
    - Resume Dispatch: `Light customize | Canonical CTO` - credible income-first VP target. Focus on retirement/financial-services platform credibility, distributed engineering leadership, DevEx, SRE, FinOps, secure SDLC, SOC-aligned controls, AI governance, and platform modernization.
    - Note: official page says Remote and includes Indianapolis/Boston/Newton/Dresher/Philadelphia locations. Strong fit and retirement-services adjacency, but not newly opened and base ceiling is below ideal target.
 
-9. `Aerospike - Director of Engineering, Product Platforms`
+6. `Aerospike - Director of Engineering, Product Platforms`
    - Freshness: **Reverified live yesterday** on official Greenhouse.
    - Salary: `$250,000-$300,000` for California-based applicants.
    - Source: https://job-boards.greenhouse.io/aerospike/jobs/8480410002
    - Resume Dispatch: `Light customize | Canonical Engineering Manager` - EM-based light draft already exists at `Send To/20260507 - Aerospike - Director of Engineering, Product Platforms`.
    - Note: excellent platform/cloud/distributed-systems fit with agentic AI positioning. Risk: official location is Mountain View and Bay Area team members are expected in-office 2-3 days/week, so prequalify Cincinnati eligibility before investing further.
 
-10. `DEFCON AI / Red Cell Partners - VP of Engineering`
+7. `DEFCON AI / Red Cell Partners - VP of Engineering`
    - Freshness: **Crawled last week**; official Greenhouse page live in search.
    - Salary: `$250,000-$290,000` base plus bonus/equity.
    - Source: https://job-boards.greenhouse.io/redcellpartners/jobs/5104687007
    - Resume Dispatch: `Customize | Canonical CTO` - worth a custom slot if DoD/federal/security context is acceptable. AI, optimization, secure platform, data systems, and cloud infrastructure should be foregrounded.
    - Note: high-upside AI/security/optimization role. Risk: U.S. citizenship, CUI/NIST/CMMC/DFARS, and defense-adjacent operating context.
 
-11. `Doppler - Head of Engineering`
+8. `Doppler - Head of Engineering`
    - Freshness: **Crawled last week**; official Ashby page live in search crawl and previously verified via Chrome.
    - Salary: `$250,000-$275,000` plus equity.
    - Source: https://jobs.ashbyhq.com/doppler/d6c95fff-8bb6-4197-8f3b-44bfa19cb47f/
    - Resume Dispatch: `Light customize | Canonical CTO` - strong developer-infra/security match, but the small-startup player-coach risk argues for a focused top-third pass rather than a deep rewrite.
    - Note: strong developer-infra/security fit, with direct CEO partnership. Risk is player-coach hands-on depth and smaller startup scope.
 
-12. `Antenna - VP, Engineering`
+9. `Antenna - VP, Engineering`
    - Freshness: **Posted date n/a**; official Greenhouse page live on prior pass; re-verify before tailoring.
    - Salary: `$250,000-$300,000` total annual earnings plus equity.
    - Source: https://job-boards.greenhouse.io/antenna/jobs/5838606004
    - Resume Dispatch: `Customize | Canonical CTO` - spend a custom slot if live status still checks out. The data/AI VP angle and data-stack stretch need a tailored narrative to avoid looking adjacent rather than directly matched.
    - Note: strong VP/data/AI role. The main stretch remains deep modern data-stack ownership.
 
-13. `Upbound - Director of Engineering, Control Planes & Ecosystem`
+10. `Upbound - Director of Engineering, Control Planes & Ecosystem`
    - Freshness: **Crawled last week**; official Greenhouse page live on prior pass at updated `upboundext` URL.
    - Salary: undisclosed.
    - Source: https://job-boards.greenhouse.io/upboundext/jobs/5822609004
    - Resume Dispatch: `Light customize | Canonical Engineering Manager` - focus on platform architecture, control planes, cloud-native systems, and AI-native infrastructure. Do not full-custom before comp and Kubernetes/Crossplane fit are qualified.
    - Note: very strong platform/AI-native infrastructure signal, but Kubernetes/Crossplane depth and undisclosed comp make it a targeted stretch.
 
-14. `SafelyYou - Vice President of Engineering, SafelyYou Platform`
+11. `SafelyYou - Vice President of Engineering, SafelyYou Platform`
     - Freshness: **Posted date n/a**; official Teamtailor page live on prior pass.
     - Salary: undisclosed.
     - Source: https://careers.safely-you.com/jobs/558220-vice-president-of-engineering-safelyyou-platform
     - Resume Dispatch: `Customize | Canonical CTO` - strong VP platform role with AI, cloud, device/fleet, and life-safety scope. Worth a custom slot once comp is not obviously below floor.
     - Note: remote VP role leading 50+ across cloud, mobile, fleet software, AI, hardware, and life-safety operations. Strong role, but comp needs early qualification.
 
-15. `Optro - VP of Engineering, Platform & Architecture`
+12. `Optro - VP of Engineering, Platform & Architecture`
     - Freshness: **Posted 3w ago** in LinkedIn Chrome pass; official Ashby page appears live in search crawl, but re-verify in Chrome before tailoring.
     - Salary: `$254,000-$292,000` plus equity and bonus.
     - Source: https://jobs.ashbyhq.com/optro/ac244907-7335-4459-9223-f8dc34b5c424
     - Resume Dispatch: `Light customize | Canonical CTO` - strong platform fit, but source age/freshness uncertainty means recheck first and avoid a full custom slot unless the live page is solid.
     - Note: strong VP/platform role, but older source signals and source freshness need one more check before spending resume time.
 
-16. `Campminder - Director of Engineering, Platform`
+13. `Campminder - Director of Engineering, Platform`
     - Freshness: **Crawled 4d ago** on prior pass; official Greenhouse page was live then; Built In showed a recent posted signal.
     - Salary: `$205,000-$250,000` plus `$12,000` bonus eligibility.
     - Source: https://job-boards.greenhouse.io/campminder/jobs/7808195
@@ -221,35 +200,28 @@ Purpose: this is the at-a-glance working queue. NocoDB remains the system of rec
     - Resume Dispatch: `Canonical direct | Canonical Engineering Manager` - practical fallback only. Recheck live status and comp, then send canonical rather than spending one of the daily custom slots.
     - Note: practical-income fallback with healthcare/software leadership fit; lower priority than stronger VP/CTO roles.
 
-13. `Netflix - Technical Program Manager 6, Data Systems`
-   - Freshness: **Crawled 5d ago** on official Netflix careers page; recommended by Indeed email on `2026-05-13`; official Netflix page is live.
-   - Salary: `$420,000-$630,000`.
-   - Source: https://explore.jobs.netflix.net/careers/job/790315481820-technical-program-manager-6-data-systems-usa-remote?domain=netflix.com&microsite=netflix.com
-   - Resume Dispatch: `Light customize | Canonical Engineering Manager` - quick Netflix-specific TPM/data-systems version only. Emphasize large-scale technical program leadership, data systems, migration/modernization, cross-org alignment, client/platform collaboration, pragmatic delivery mechanisms, and GenAI leverage.
-   - Note: apply if it can be done quickly; do not wait on the prior Netflix submission. Last tracked Netflix submission was `2026-04-09` for `Cloud Architecture Tooling & Security`; `Launch Readiness` is only tracked as `CREATED`, not submitted. Collision risk is acceptable because this is a different job family and more than a month has passed, but avoid making Netflix a high-volume repeated target.
-
-14. `DISHER / partner company - Vice President of Technology & Architecture`
+13. `DISHER / partner company - Vice President of Technology & Architecture`
    - Freshness: **Crawled 2w ago**; official Lever page live on prior pass.
    - Salary: undisclosed.
    - Source: https://jobs.lever.co/disher/b11b8260-ae2e-41df-ac9c-3e69b9a64d58
    - Resume Dispatch: `Light customize | Canonical CTO` - strong architecture/modernization/AI-enablement fit, but recruiter/partner opacity and comp uncertainty make this a top-third pass until qualified.
    - Note: strong CTO-succession, architecture, modernization, AI enablement, security, and remote-team leadership fit. Because it is a recruiter/partner posting with undisclosed comp, qualify before a heavy custom resume.
 
-15. `Crunchafi - VP of Engineering`
+14. `Crunchafi - VP of Engineering`
    - Freshness: **Crawled 2026-05-07** for company careers page; third-party role mirrors showed recent activity, but the primary application URL was not found in that pass.
    - Salary: undisclosed on official source; Indeed mirror shows `$0` placeholder.
    - Source: https://www.crunchafi.com/careers
    - Resume Dispatch: `Hold/skip | Canonical CTO` - do not draft until the primary VP posting or application URL is found. If it reappears, this likely becomes `Light customize` for accounting SaaS, AI-first development, and document data extraction.
    - Note: accounting SaaS, AI-first product development, Azure/.NET, and document data extraction are promising; hold until the primary VP posting URL is confirmed.
 
-16. `Microsoft - CTO, State / Local / Education - CTJ - Secret`
+15. `Microsoft - CTO, State / Local / Education - CTJ - Secret`
    - Freshness: **Posted 3d ago**; third-party mirrors show a Microsoft role with remote work setting.
    - Salary: `$155,800-$303,600`.
    - Source: https://dailyremote.com/remote-job/cto-state-local-education-ctj-secret-4958484
    - Resume Dispatch: `Hold/skip | Canonical CTO` - no resume time unless Secret-clearance eligibility is real. If that constraint clears, use a light CTO/advisory framing rather than a product-engineering rewrite.
    - Note: top-company signal and CTO-level advisory scope, but it requires active Secret clearance and is IC6/customer-facing public-sector architecture rather than engineering org ownership. Do not draft unless clearance eligibility is real.
 
-17. `Runwise - VP of Engineering`
+16. `Runwise - VP of Engineering`
    - Freshness: **Posted date stale / Dec 2025**; venture-board page still visible.
    - Salary: `$250,000-$280,000` plus equity.
    - Source: https://jobs.massmutualventures.com/companies/runwise-2/jobs/63803976-vp-of-engineering
@@ -447,6 +419,10 @@ Purpose: this is the at-a-glance working queue. NocoDB remains the system of rec
 
 ## Recently Submitted / Closed
 
+- `Sureify - VP of Engineering`: `SUBMITTED` on `2026-05-13`; submitted with custom prepared-bullets VP Engineering resume and cover letter, emphasizing global/distributed engineering leadership, configurable enterprise SaaS, insurance/financial rules, security/compliance, CI/CD/APM, and AI coding-agent adoption. Salary range was `$260,000-$300,000` base.
+- `FICO - Vice President, Technical Architecture / Platform Architecture`: `SUBMITTED` on `2026-05-13`; submitted with tailored CTO/platform-architecture resume using prepared-bullets source, emphasizing enterprise platforms, integration governance, regulated systems, AWS, APIs, security controls, AI-enabled architecture, and cloud modernization. Salary range was `$210,000-$330,000` base.
+- `Posit PBC - Vice President, Engineering`: `SUBMITTED` on `2026-05-13`; submitted with custom prepared-bullets CTO/VP Engineering refresh emphasizing AI strategy, developer platforms, SaaS product delivery, engineering-with-AI practices, enterprise readiness, and Posit-relevant product/platform leadership. Salary range was `$310,000-$330,000` base.
+- `Netflix - Technical Program Manager 6, Data Systems`: `SUBMITTED` on `2026-05-13`; submitted with tailored Engineering Manager/TPM resume emphasizing data systems, platform foundations, cross-org execution, migration safety, reliability, security controls, developer experience, and practical GenAI leverage. Salary range was `$420,000-$630,000`.
 - `CoderPad - Director of Engineering`: `SUBMITTED` on `2026-05-11`; submitted with tailored Engineering Manager/Director resume emphasizing developer tooling, AI coding adoption, distributed teams, delivery cadence, and product/platform leadership. Salary answer used posted range with base target around `$270,000` depending on equity and benefits.
 - `Cyara - Vice President, Engineering`: `SUBMITTED` on `2026-05-11`; submitted with canonical CTO resume using `Engineering Executive | AI-Enabled SaaS Platforms | Cloud & Delivery Systems` headline; qualify OTE/base mix and remote expectations if contacted.
 - `TrueML - VP of Software Engineering`: `SUBMITTED` on `2026-05-11`; qualify comp early because posted range is `$225,000-$325,000`.
