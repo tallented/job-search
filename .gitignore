@@ -21,6 +21,11 @@ bak/
 .tmp.driveupload/
 .tmpql*/
 temp/
+word-render-scratch/
+word-render-helper/.module-cache/
+word-render-helper/current-job*.txt
+word-render-helper/current-result*.txt
+word-render-helper/render.lock
 
 # Local manual Word repair/backups
 * - backup *.docx
@@ -29,11 +34,17 @@ temp/
 * - pre-*.docx
 * - unreadable-backup.docx
 * - rebuilt*.docx
+*.backup-before-*.docx
+*.unreadable-*.docx
+*.possibly-unreadable-*.docx
+*.suspect-unreadable-*.docx
+*line-fill-check.*
 Backups/
 
 # Generated preview/scratch PDFs
 *.preview.pdf
 * - fresh.pdf
+Chris Tallent Resume.pdf
 
 # Historical rendered PDFs; source docs remain tracked
 Old Versions/**/*.pdf

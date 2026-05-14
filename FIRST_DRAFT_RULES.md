@@ -10,9 +10,12 @@ Do not rely on Markdown alone for first-draft copy-fit review.
 
 Before presenting a first draft:
 
-1. Open the `.docx` in Word, or inspect a PDF render / graphical snapshot of the actual page layout.
-2. Review the summary, core skills, and all bullets for bad line wraps.
-3. Fix copy-fit problems by tightening or slightly expanding text before changing layout settings.
+1. Run `scripts/validate_docx_for_word.sh <resume.docx>`.
+2. Open the `.docx` in Word, or inspect a PDF render / graphical snapshot of the actual page layout.
+3. Review the summary, core skills, and all bullets for bad line wraps.
+4. Fix copy-fit problems by tightening or slightly expanding text before changing layout settings.
+
+If validation reports `ERROR`, do not open the file in Word. Repair from the last known-good `.docx` or rebuild the document before rendering.
 
 Also verify these formatting basics in the actual Word layout:
 

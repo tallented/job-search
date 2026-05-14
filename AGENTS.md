@@ -202,6 +202,13 @@ Default to surgical edits unless Chris explicitly asks for a broader rewrite, li
 Before accepting any resume iteration:
 
 - Check the extracted text diff or a focused before/after text comparison to confirm the edit scope stayed within the selected mode.
+- Run the Word-readiness validator before opening or rendering any automatically edited `.docx`:
+
+```sh
+cd "/Users/chris/2026 Resumes"
+scripts/validate_docx_for_word.sh "<input.docx>"
+```
+
 - Render a fresh PDF using the Word helper and verify the PDF text reflects the current `.docx`.
 - Visually inspect page images, not just OCR output.
 - Confirm page count did not regress and page-two whitespace did not materially increase unless explicitly accepted.
@@ -235,14 +242,14 @@ Hard rules:
 - Never use `saving no` on a document that might have been opened or edited by Chris.
 - Treat unexpected, duplicate, untitled, temporary-looking, or "phantom" Word documents as potentially belonging to Chris or another Codex session. Do not close them, discard them, or clean them up from Word. Limit cleanup to files on disk that the current session created and can positively identify.
 - Do not assume `active document` is the target document. Identify the target by path or exact file name before exporting, saving, or closing.
-- Before opening or rendering a `.docx` after automated revisions, validate the package structure:
+- Before opening or rendering a `.docx` after automated revisions, validate the package structure and Word-readiness checks:
 
 ```sh
 cd "/Users/chris/2026 Resumes"
-python3 scripts/validate_docx_package.py "<input.docx>"
+scripts/validate_docx_for_word.sh "<input.docx>"
 ```
 
-- If package validation reports `ERROR`, do not open the file in Word; repair from the last known-good `.docx` or compare the modified OOXML first. Warnings are review items, not automatic blockers.
+- `validate_docx_for_word.sh` runs the local Python package/Word-hazard validator and, when `dotnet` is installed, also runs the Microsoft Open XML SDK validator. If validation reports `ERROR`, do not open the file in Word; repair from the last known-good `.docx` or compare the modified OOXML first. Warnings are review items, not automatic blockers.
 - When exporting PDF from Word, prefer the dedicated helper app wrapper:
 
 ```sh
@@ -273,7 +280,9 @@ Word can report "unreadable content" even when `unzip`, Quick Look, and `textuti
 - Do not use `xml.etree.ElementTree` to parse and rewrite entire `word/document.xml` or `word/styles.xml` for production resume files.
 - Prefer Word's own save/export path, a known-safe helper, or narrow string/minidom edits that preserve original XML ordering.
 - For `CANONICAL - Prepared Bullets.docx`, prefer rebuilding from `CANONICAL - Prepared Bullets.md` into the clean prepared-bullets shell rather than surgically editing the existing `.docx` package.
-- After any `.docx` package edit, keep a backup, run `unzip -t`, verify `textutil` extraction, and do a graphical render check. If Word later reports unreadable content, restore from backup or rebuild from the paired `.md` source instead of recovering and saving the prompted Word copy.
+- After any `.docx` package edit, keep a backup and run `scripts/validate_docx_for_word.sh`. The validator checks ZIP/XML integrity, package relationships, Word-specific Markup Compatibility namespace hazards (`mc:Ignorable`, undeclared prefixes, generic `ns0`/`ns1` rewrites), missing style references, missing numbering references, and duplicate drawing IDs.
+- Also verify `textutil` extraction and do a graphical render check. If Word later reports unreadable content, restore from backup or rebuild from the paired `.md` source instead of recovering and saving the prompted Word copy.
+- When practical, run `scripts/validate_docx_openxml_sdk.sh` on a machine with the .NET SDK installed. It uses Microsoft's Open XML SDK validator and catches schema-level issues beyond the local Python checks. Absence of `dotnet` should be reported as a skipped validation, not treated as proof that the file is valid.
 
 ## First Draft Rules
 
@@ -624,11 +633,15 @@ Do not manually launch normal Chrome or assume port `9222`. The launcher suppres
   - Himalayas
 - Weekly:
   - Fractional Jobs
+  - HireAFractionalExec
+  - GoFractional
+  - Fractional Quest
   - fraction.al
   - Braintrust
   - Catalant
   - Business Talent Group (BTG)
   - A.Team
+  - fractional / interim searches on LinkedIn, Indeed, Ladders, Wellfound, YC, and VC portfolio boards
 
 ### Search Order
 
@@ -704,7 +717,60 @@ Use combinations of:
 - `workflow`
 - `remote`
 - `fractional CTO`
+- `fractional AI CTO`
+- `fractional AI enablement`
+- `fractional AI consultant`
+- `fractional AI platform lead`
+- `fractional chief AI officer`
+- `AI transformation consultant`
+- `AI enablement consultant`
+- `AI adoption consultant`
+- `AI readiness assessment`
+- `AI operating model`
 - `interim engineering leader`
+- `interim CTO`
+- `interim VP Engineering`
+- `contract CTO`
+- `part-time CTO`
+
+### Fractional / AI Enablement Search Lane
+
+For comprehensive searches, include a distinct fractional/interim lane instead of burying fractional roles under the full-time queue. The goal is to assemble possible bridge income from multiple serious engagements without letting weak advisory postings distract from full-time applications.
+
+Run these queries on LinkedIn, Indeed, Ladders, Wellfound, YC, Built In, Google Jobs, Fractional Jobs, fraction.al, HireAFractionalExec, GoFractional, Fractional Quest, Braintrust, Catalant, BTG, A.Team, and VC portfolio boards:
+
+- `fractional CTO`
+- `fractional chief technology officer`
+- `fractional VP Engineering`
+- `fractional head of engineering`
+- `interim CTO`
+- `interim VP Engineering`
+- `contract CTO`
+- `part-time CTO`
+- `fractional AI CTO`
+- `fractional chief AI officer`
+- `fractional AI enablement`
+- `fractional AI transformation`
+- `fractional AI platform lead`
+- `AI enablement consultant`
+- `AI transformation consultant`
+- `AI adoption consultant`
+- `AI readiness assessment`
+- `AI strategy consultant`
+- `RAG consultant`
+- `agentic AI consultant`
+- `LLM application architect`
+- `AI governance consultant`
+
+Promote fractional / AI enablement roles when they have:
+
+- clear cash value, ideally a serious retainer or hourly rate with enough weekly hours to matter
+- real operating ownership, decision rights, or technical leadership responsibility
+- 1-3 days/week or a defined fixed-term project with meaningful scope
+- strong alignment to AI-assisted engineering, RAG, agentic systems, developer enablement, cloud/security, platform modernization, DevOps, or SaaS delivery
+- portfolio compatibility, including predictable cadence and low conflict with other engagements
+
+Do not promote roles that are vague advisor benches, tiny hourly tasks, unpaid/equity-only startup asks, or full-time jobs disguised as fractional unless the cash and scope are explicit.
 
 ### Output Format For Search Sessions
 
@@ -712,6 +778,7 @@ When running a search session, produce a dated markdown review queue under `/Use
 
 - `Apply Now`
 - `Apply If Time`
+- `Fractional / Interim`
 - `Skip / Probably Not`
 - `Activate This Week` for fractional networks or talent platforms
 
